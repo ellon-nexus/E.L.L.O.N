@@ -1,8 +1,8 @@
 {
  "prices": {
   "VUAA": {
-   "p": 149.34,
-   "prev": 149.8,
+   "p": 147.44,
+   "prev": 147.1,
    "cur": "USD"
   },
   "O": {
@@ -46,8 +46,8 @@
    "cur": "EUR"
   },
   "JPM": {
-   "p": 303.5,
-   "prev": 308.1,
+   "p": 302.0,
+   "prev": 303.5,
    "cur": "EUR"
   }
  },
@@ -58,8 +58,8 @@
    "cur": "USD"
   }
  },
- "fx": 1.1183,
- "asOf": "2026-10-30T21:00:00Z",
+ "fx": 1.123,
+ "asOf": "2026-11-02T09:27:59Z",
  "source": "Fecho diário via Yahoo Finance",
  "erros": []
 }
