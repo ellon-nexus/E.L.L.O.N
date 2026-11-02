@@ -1,5 +1,211 @@
 [
  {
+  "asOf": "2026-11-02T07:50:00Z",
+  "capa_foto": "oil tanker sea sunset",
+  "capa_titulo": "Doha decide o preço da tua gasolina",
+  "id": "2026-11-02",
+  "ideas": [
+   {
+    "market": "Londres",
+    "name": "Shell",
+    "risks": "Os lucros vêm de um petróleo e de margens inflacionados pela guerra, que podem cair depressa se houver acordo no Médio Oriente; a produção caiu 17% em nove meses e houve uma imparidade de cerca de 2 mil milhões.",
+    "sources": [
+     {
+      "title": "Reuters (Baird Maritime), 29/10/2026",
+      "url": "https://www.bairdmaritime.com/offshore/drilling-production/conflict-windfall-lifts-shell-and-total-profits-to-highest-since-2022"
+     }
+    ],
+    "tag": "Energia",
+    "thesis": "A Shell teve lucro de 10,81 mil milhões de dólares no 3.º trimestre (esperavam-se 10,33) e subiu a recompra de ações trimestral para 5 mil milhões, a segunda maior de sempre, com margens de refinação de 42 dólares por barril.",
+    "ticker": "SHEL"
+   },
+   {
+    "market": "Madrid",
+    "name": "Iberdrola",
+    "risks": "É um negócio sensível a juros: se o BCE subir as taxas em dezembro, o custo da dívida e a avaliação das utilities podem pesar.",
+    "sources": [
+     {
+      "title": "Capital.com (Iberdrola), 21/10/2026",
+      "url": "https://capital.com/en-au/news/iberdrola-9m-2026-net-profit-rises-10-to-5-8-billion"
+     }
+    ],
+    "tag": "Utilities",
+    "thesis": "A Iberdrola teve lucro líquido de 5,8 mil milhões de euros em nove meses (mais 10%), com o investimento em redes elétricas a subir 28% para 6,3 mil milhões, e propõe um dividendo intercalar de 0,275 euros por ação, mais 9%.",
+    "ticker": "IBE"
+   },
+   {
+    "market": "Nasdaq",
+    "name": "Intel",
+    "risks": "A empresa tem de provar que a recuperação é real num momento em que o mercado duvida do retorno dos gastos em IA, e a queda pode continuar.",
+    "sources": [
+     {
+      "title": "Beinsure, 01/11/2026",
+      "url": "https://beinsure.com/news/stock-market-forecast-goldman-sachs-jpmorgan-morgan-stanley-predict-whats-next-after-tech-selloff/"
+     }
+    ],
+    "tag": "Semicondutores",
+    "thesis": "A Intel caiu 28,6% para 65,76 dólares com uma previsão de receitas de 15 a 16 mil milhões no 4.º trimestre, abaixo dos 17,1 mil milhões esperados, mas a receita de centros de dados e IA subiu 78% para 7,3 mil milhões; o BofA desceu para neutro com alvo de 100 dólares.",
+    "ticker": "INTC"
+   },
+   {
+    "market": "Europa",
+    "name": "ETC de ouro físico",
+    "risks": "O ouro não paga dividendos e, com os juros a subir e o dólar forte, pode continuar a cair antes de recuperar.",
+    "sources": [
+     {
+      "title": "Reuters (Kitco), 30/10/2026",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/gold-hits-3-12-month-low-fed-hike-fears-set-monthly-loss"
+     }
+    ],
+    "tag": "Matérias-primas",
+    "thesis": "O ouro caiu a 3 980 dólares por onça, o mínimo desde 17 de julho e menos 4,3% em outubro, por causa do receio de subida dos juros nos EUA; o UBS admite 5 000 dólares ou mais no próximo ano.",
+    "ticker": "Ouro"
+   },
+   {
+    "market": "Cripto",
+    "name": "Bitcoin",
+    "risks": "É um ativo muito volátil, em que se pode perder grande parte do valor, e não tem dividendos; os ataques informáticos e a confiança nas plataformas continuam a ser um risco.",
+    "sources": [
+     {
+      "title": "Decrypt, 30/10/2026",
+      "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "A bitcoin ronda os 78 mil dólares depois de a Binance, sob o maior roubo em dólares da história das criptomoedas (6,3 mil milhões), ter reservado mais de 6,34 mil milhões para cobrir as perdas e reaberto os levantamentos.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "O petróleo recuou para cerca de 110 dólares com as conversações entre EUA e Irão em Doha, mas continua alto. Na Europa, a inflação dispara em Itália (5,4%) e França (3,4%), e o BCE admite subir juros em dezembro. As tecnológicas sofreram em outubro, com a Intel a cair 29% numa sessão, e esta semana há eleições intercalares nos EUA. Em Portugal, a prestação da casa sobe em novembro.\n\n#mercados #economia #bolsa #petroleo #inflacao #euribor #habitacao #oil #stocks #markets",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "oil refinery night",
+    "tag": "Energia",
+    "texto": "EUA e Irão negociam a reabertura do Estreito de Ormuz. O Brent caiu 3% para cerca de 110 dólares, depois de 117 há uma semana. Um acordo pode aliviar a gasolina.",
+    "tipo": "noticia",
+    "titulo": "Petróleo recua com conversações em Doha"
+   },
+   {
+    "foto": "semiconductor chip closeup",
+    "tag": "Tecnologia",
+    "texto": "A Intel perdeu 28,6% numa só sessão e o Nasdaq caiu 2,9% na sexta. Outubro foi o pior mês da tecnologia desde março de 2025.",
+    "tipo": "ultima_hora",
+    "titulo": "Intel afunda 29% e arrasta o Nasdaq"
+   },
+   {
+    "foto": "european supermarket shelves",
+    "tag": "Europa",
+    "texto": "Em França chegou a 3,4%, o valor mais alto desde 2024. O BCE admite subir juros em dezembro, o que encarece o crédito.",
+    "tipo": "noticia",
+    "titulo": "Inflação sobe para 5,4% em Itália"
+   },
+   {
+    "foto": "house keys mortgage",
+    "tag": "Portugal",
+    "texto": "Mesmo com a Euribor a ceder, uma casa de 150 mil euros a 30 anos pode custar até 90 euros a mais por mês nas revisões a 12 meses.",
+    "tipo": "noticia",
+    "titulo": "Prestação da casa sobe em novembro"
+   },
+   {
+    "foto": "container port aerial",
+    "tag": "Ásia",
+    "texto": "O índice oficial desceu para 49,3 em outubro. Xangai sobe 1,2% hoje com a esperança de apoio do Estado.",
+    "tipo": "noticia",
+    "titulo": "China: seis meses de indústria a encolher"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Reuters (Korea Times), 26/10/2026",
+    "url": "https://koreatimes.co.kr/world/20261027/oil-inches-higher-stays-near-six-month-highs-on-saudi-attacks"
+   },
+   {
+    "title": "ANI (Times of Israel/Axios), 31/10/2026",
+    "url": "https://www.aninews.in/news/world/middle-east/us-delegation-expected-in-doha-for-direct-iran-talks-after-reported-breakthrough-reports20261031133523/"
+   },
+   {
+    "title": "Yahoo Finance, 01/11/2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/midterms-jobs-data-apple-earnings-031634378.html"
+   },
+   {
+    "title": "NordFX, Market Pulse, 02/11/2026",
+    "url": "https://nordfx.com/market-news/market-pulse-november-02-2026"
+   },
+   {
+    "title": "Investing.com, PMI da China, 29/10/2026",
+    "url": "https://investing.com/news/economic-indicators/chinas-official-pmi-falls-to-493-in-october-slumps-for-sixth-straight-month-2008379"
+   },
+   {
+    "title": "Decrypt, 30/10/2026",
+    "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe"
+   },
+   {
+    "title": "ECO, 30/10/2026",
+    "url": "https://eco.sapo.pt/2026/10/30/euribor-cede-mas-prestacao-da-casa-volta-a-subir-em-novembro/"
+   },
+   {
+    "title": "Euronews, 30/10/2026",
+    "url": "https://www.euronews.com/2026/10/30/germany-france-italy-and-spain-where-was-inflation-highest-in-october"
+   },
+   {
+    "title": "The Private Banker, 31/10/2026",
+    "url": "https://leprivatebanker.com/2026/10/31/euro-zone-inflation-splits-as-italy-jumps-to-5-4-and-germany-eases-to-2-8-on-fuel-tax-cut/"
+   },
+   {
+    "title": "Beinsure, 01/11/2026",
+    "url": "https://beinsure.com/news/stock-market-forecast-goldman-sachs-jpmorgan-morgan-stanley-predict-whats-next-after-tech-selloff/"
+   },
+   {
+    "title": "The Market Periodical, 01/11/2026",
+    "url": "https://themarketperiodical.com/2026/11/01/nvidia-stock-risks-194/"
+   },
+   {
+    "title": "Reuters (Baird Maritime), 29/10/2026",
+    "url": "https://www.bairdmaritime.com/offshore/drilling-production/conflict-windfall-lifts-shell-and-total-profits-to-highest-since-2022"
+   },
+   {
+    "title": "Reuters (Kitco), 30/10/2026",
+    "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/gold-hits-3-12-month-low-fed-hike-fears-set-monthly-loss"
+   },
+   {
+    "title": "Capital.com (Iberdrola), 21/10/2026",
+    "url": "https://capital.com/en-au/news/iberdrola-9m-2026-net-profit-rises-10-to-5-8-billion"
+   },
+   {
+    "title": "Finanztrends (Realty Income), 06/10/2026",
+    "url": "https://www.finanztrends.de/news/realty-income-aktie-q3-zahlen-am-2-november/"
+   }
+  ],
+  "summary": "Ao mesmo tempo que os Estados Unidos e o Irão negoceiam em Doha a reabertura do Estreito de Ormuz, o petróleo recuou para cerca de 110 dólares o barril, bem abaixo dos 117 de há uma semana, mas ainda a níveis que pesam na gasolina, no gás e no supermercado. A Europa sente-o: a inflação saltou para 5,4% em Itália e 3,4% em França, e o BCE já admite subir os juros em dezembro. Esta semana há eleições intercalares nos EUA, relatório de emprego e resultados da Apple, depois de uma sexta-feira negra para as tecnológicas. Em Portugal, a prestação da casa sobe em novembro, apesar de a Euribor ter cedido.",
+  "themes": [
+   {
+    "t": "Doha: a negociação que decide o preço da gasolina",
+    "txt": "Os Estados Unidos e o Irão estão a negociar em Doha, com mediação do Qatar e do Paquistão, um acordo que incluiria o nuclear iraniano e a reabertura do Estreito de Ormuz, por onde passa grande parte do petróleo mundial. As notícias de progresso fizeram o Brent cair cerca de 3%, para perto de 110 dólares, depois de ter chegado aos 117 há uma semana, quando os houthis atacaram estações da conduta que atravessa a Arábia Saudita. Se houver acordo, o combustível e o gás podem aliviar nos próximos meses; se falhar, e há receios de uma ação militar depois das eleições americanas de dia 3, o preço volta a subir."
+   },
+   {
+    "t": "Inflação europeia: Itália e França disparam",
+    "txt": "A inflação de outubro subiu para 5,4% em Itália e 3,4% em França, o valor mais alto desde 2024, puxada pela energia, enquanto na Alemanha desceu para 2,8% graças a um corte temporário no imposto dos combustíveis. Em Espanha ficou em 4,9%. O Eurostat divulga a estimativa da zona euro a 4 de novembro e os economistas esperam cerca de 4%. O BCE manteve os juros a 29 de outubro, mas um aumento em dezembro é tido como possível, o que encarece o crédito para famílias e empresas."
+   },
+   {
+    "t": "Casa: a prestação sobe, apesar da Euribor",
+    "txt": "Em Portugal, a Euribor a 3 e a 12 meses desceu em média em outubro, mas as prestações da casa voltam a subir em novembro por causa das revisões de taxa. Num empréstimo de 150 mil euros a 30 anos, o aumento pode chegar a cerca de 90 euros por mês nos contratos revistos a 12 meses. A inflação em Portugal foi de 3,6% em setembro, o que come ainda mais o orçamento das famílias."
+   },
+   {
+    "t": "Tecnologia: o susto da IA chega ao Nasdaq",
+    "txt": "O Nasdaq perdeu 2,9% na sexta-feira e 5,3% em outubro, o pior mês desde março de 2025, depois de a Intel cair quase 29% com previsões fracas e de a Alphabet e a Amazon preocuparem os investidores com gastos enormes em inteligência artificial sem retorno claro. Os estrategas dividem-se: o Morgan Stanley admite mais 10% a 15% de queda nos semicondutores até meados de novembro, enquanto Goldman Sachs e JPMorgan mantêm metas de 8.000 pontos para o S&P 500 no fim do ano. Para quem poupa em fundos ou planos de reforma ligados a bolsa, é um lembrete de que a volatilidade faz parte do caminho."
+   },
+   {
+    "t": "China: seis meses de indústria em contração",
+    "txt": "O índice oficial da indústria chinesa desceu para 49,3 em outubro, o sexto mês seguido abaixo de 50, e o dos serviços caiu para o valor mais baixo desde 2016. Hoje, a bolsa de Xangai sobe cerca de 1,2% com a esperança de apoio do Estado, depois do pior mês em mais de uma década. A procura chinesa fraca pesa em matérias-primas, em fábricas europeias que lhe vendem máquinas e no preço de muitos produtos importados."
+   },
+   {
+    "t": "Cripto: Binance recupera depois de um roubo de 6,3 mil milhões",
+    "txt": "A Binance, a maior plataforma de criptomoedas, foi alvo de um roubo de cerca de 6,3 mil milhões de dólares numa carteira de uso diário e diz que cobrirá todas as perdas com fundos próprios, tendo reservado mais de 6,3 mil milhões. Os levantamentos já foram reabertos e é esperado hoje um relatório de reservas. A empresa de segurança TRM Labs e a Chainalysis atribuem o ataque a um grupo ligado à Coreia do Norte. A bitcoin ronda os 78 mil dólares."
+   }
+  ]
+ },
+ {
   "asOf": "2026-10-30T07:45:00Z",
   "id": "2026-10-30",
   "ideas": [

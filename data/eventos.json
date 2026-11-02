@@ -1,16 +1,6 @@
 {
- "asOf": "2026-10-30",
+ "asOf": "2026-11-02",
  "events": [
-  {
-   "d": "2026-10-30",
-   "k": "ex",
-   "src": {
-    "title": "Realty Income · comunicado",
-    "url": "https://www.prnewswire.com/news-releases/realty-income-announces-676th-consecutive-common-stock-monthly-dividend-302907388.html"
-   },
-   "t": "O",
-   "txt": "Dividendo mensal de 0,2715 $ por ação. Pago a 13/11."
-  },
   {
    "d": "2026-11-02",
    "k": "earnings",
@@ -19,7 +9,7 @@
     "url": "https://finviz.com/news/397989/realty-income-announces-third-quarter-2026-earnings-release-date"
    },
    "t": "O",
-   "txt": "Resultados do 3.º trimestre depois do fecho de Nova Iorque; chamada às 22h (Lisboa)."
+   "txt": "Resultados do 3.º trimestre hoje depois do fecho de Nova Iorque; chamada às 22h (Lisboa)."
   },
   {
    "d": "2026-11-03",
