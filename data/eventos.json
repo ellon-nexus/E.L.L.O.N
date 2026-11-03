@@ -1,16 +1,6 @@
 {
- "asOf": "2026-11-02",
+ "asOf": "2026-11-03",
  "events": [
-  {
-   "d": "2026-11-02",
-   "k": "earnings",
-   "src": {
-    "title": "Realty Income · data dos resultados",
-    "url": "https://finviz.com/news/397989/realty-income-announces-third-quarter-2026-earnings-release-date"
-   },
-   "t": "O",
-   "txt": "Resultados do 3.º trimestre hoje depois do fecho de Nova Iorque; chamada às 22h (Lisboa)."
-  },
   {
    "d": "2026-11-03",
    "k": "earnings",

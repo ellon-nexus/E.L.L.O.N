@@ -1,5 +1,199 @@
 [
  {
+  "asOf": "2026-11-03T07:45:00Z",
+  "capa_foto": "voting booth election ballot",
+  "capa_titulo": "Os EUA votam e o petróleo cede",
+  "id": "2026-11-03",
+  "ideas": [
+   {
+    "market": "Cripto",
+    "name": "Ether (ETP de ether)",
+    "risks": "É um ativo muito volátil, que pode perder grande parte do valor, e não paga dividendos; novas saídas de plataformas ou outro ataque podem pesar.",
+    "sources": [
+     {
+      "title": "The Block, Bitmine e reação ao roubo da Binance, 02/11/2026",
+      "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307"
+     },
+     {
+      "title": "Yahoo Finance, Binance e saídas de 4,6 mil milhões, 02/11/2026",
+      "url": "https://finance.yahoo.com/markets/article/binance-sees-more-than-46-billion-in-withdrawals-after-largest-crypto-hack-in-history-135117773.html"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O ether aguentou bem o roubo à Binance: cerca de 2.280 dólares, queda de cerca de 4% desde o anúncio segundo Tom Lee, e a Bitmine comprou mais 8.573 ETH na última semana, passando a ter 6,06 milhões (4,9% do total).",
+    "ticker": "ETH"
+   },
+   {
+    "market": "EUA (NYSE Arca)",
+    "name": "iShares MSCI South Korea ETF",
+    "risks": "A inflação de 2,8% pode levar o banco central a subir juros e a bolsa depende muito dos semicondutores, que oscilam com o ciclo da IA.",
+    "sources": [
+     {
+      "title": "Thailand Business News, briefing da Ásia, 03/11/2026",
+      "url": "https://www.thailand-business-news.com/news/338217-thailand-business-news-morning-briefing-tuesday-3-november-2026-thailand-asean-and-global-markets"
+     },
+     {
+      "title": "SIA Wealth Management, mercados e energia, 02/11/2026",
+      "url": "https://www.siawealth.com/2026/11/02/equity-markets-bounce-as-november-begins-energy-prices-pull-back/"
+     }
+    ],
+    "tag": "Ásia",
+    "thesis": "A Coreia do Sul propôs 21,3 biliões de wons para IA, chips e centros de dados no orçamento de 2027 e o Kospi subiu 2,2% a 2/11, com as exportações de janeiro a outubro nos 930 mil milhões de dólares.",
+    "ticker": "EWY"
+   },
+   {
+    "market": "EUA (Nasdaq)",
+    "name": "iShares MSCI China ETF",
+    "risks": "A indústria está há seis meses abaixo dos 50 pontos e as encomendas de exportação caíram para 48,7; uma escalada comercial pode piorar tudo.",
+    "sources": [
+     {
+      "title": "Thailand Business News, briefing da Ásia, 03/11/2026",
+      "url": "https://www.thailand-business-news.com/news/338217-thailand-business-news-morning-briefing-tuesday-3-november-2026-thailand-asean-and-global-markets"
+     },
+     {
+      "title": "Investment Executive (AP), indústria da China, 02/11/2026",
+      "url": "https://www.investmentexecutive.com/news/economy/chinas-factory-activity-slips-as-new-export-orders-weaken/"
+     }
+    ],
+    "tag": "China",
+    "thesis": "O CSI 300 caiu 8,5% em outubro, o pior mês desde 2016, e o banco central prepara swaps de mais de 100 mil milhões de yuans para compras de ações e baixou a taxa do programa de recompras; há encontro Trump–Xi previsto para meados de novembro.",
+    "ticker": "MCHI"
+   },
+   {
+    "market": "Xetra (EUR)",
+    "name": "iShares STOXX Europe 600 Banks UCITS ETF",
+    "risks": "Juros mais altos podem travar o crédito e a economia; se a inflação recuar, a tese perde força.",
+    "sources": [
+     {
+      "title": "Le Private Banker, inflação na zona euro, 31/10/2026",
+      "url": "https://leprivatebanker.com/2026/10/31/euro-zone-inflation-splits-as-italy-jumps-to-5-4-and-germany-eases-to-2-8-on-fuel-tax-cut/"
+     }
+    ],
+    "tag": "Bancos",
+    "thesis": "Com a inflação a subir em França, Itália e Espanha e o BCE a admitir novas subidas depois de manter a taxa de depósito em 2,5%, os bancos europeus costumam beneficiar de juros mais altos.",
+    "ticker": "EXV1"
+   },
+   {
+    "market": "EUA (NYSE)",
+    "name": "Realty Income",
+    "risks": "A dívida líquida está em 5,4 vezes o EBITDA e juros mais altos encarecem o financiamento; o crescimento das rendas do mesmo perímetro é só 1,1%.",
+    "sources": [
+     {
+      "title": "Realty Income, resultados do 3.º trimestre, 02/11/2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000726728/000072672826000056/o-991q32026.htm"
+     }
+    ],
+    "tag": "Dividendos",
+    "thesis": "Resultados de 2/11: AFFO de 1,12 dólares (+3,7%), ocupação de 98,8%, previsão de AFFO subida para 4,45–4,46 dólares e dividendo anualizado de 3,258 dólares por ação.",
+    "ticker": "O"
+   }
+  ],
+  "legenda": "Hoje os EUA vão às urnas nas intercalares, com a aprovação de Trump em 31%. O petróleo deu tréguas, com o crude americano abaixo dos 100 dólares graças às conversações com o Irão. Na Europa, a inflação de outubro mostrou-se a duas velocidades, 5,4% em Itália e 2,8% na Alemanha. Na China, o banco central trava o yuan depois do pior mês da bolsa desde 2016. Informação para acompanhar, não é recomendação de investimento.\n\n#mercados #economia #bolsa #inflação #petróleo #China #eleições #cripto #markets #investing",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "voting booth election ballot",
+    "tag": "Política",
+    "texto": "Estão em jogo 435 lugares na Câmara e 35 no Senado. A aprovação de Trump está em 31% (Reuters/Ipsos) e o resultado pode pesar na política externa e nos mercados.",
+    "tipo": "noticia",
+    "titulo": "Os EUA votam hoje nas intercalares"
+   },
+   {
+    "foto": "oil refinery night",
+    "tag": "Energia",
+    "texto": "O crude americano recuou mais de 4% com as conversações EUA-Irão e a gasolina nos EUA caiu mais de 5%, para menos de 3 dólares por galão. Se a diplomacia falhar, o alívio acaba.",
+    "tipo": "noticia",
+    "titulo": "Crude cai abaixo dos 100 dólares"
+   },
+   {
+    "foto": "shanghai skyline financial district",
+    "tag": "Ásia",
+    "texto": "Os bancos terão de guardar 6% dos depósitos em moeda estrangeira, contra 4%, a partir de 15/11. A bolsa chinesa perdeu 8,5% em outubro, o pior mês desde 2016.",
+    "tipo": "noticia",
+    "titulo": "China trava a subida do yuan"
+   },
+   {
+    "foto": "supermarket shopping cart prices",
+    "tag": "Europa",
+    "texto": "Um corte no imposto dos combustíveis travou os preços alemães, mas Itália e França subiram. Amanhã sai o número da zona euro, e o BCE admite subir juros em dezembro.",
+    "tipo": "noticia",
+    "titulo": "Inflação: 5,4% em Itália, 2,8% na Alemanha"
+   },
+   {
+    "foto": "bitcoin coin dark background",
+    "tag": "Cripto",
+    "texto": "Depois do roubo de cerca de 6,3 mil milhões, os clientes levantaram 4,6 mil milhões. O bitcoin ronda os 78.000 dólares, mais calmo do que se temia.",
+    "tipo": "noticia",
+    "titulo": "Binance perde 3,6 mil milhões em saídas"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Realty Income, resultados do 3.º trimestre, 02/11/2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000726728/000072672826000056/o-991q32026.htm"
+   },
+   {
+    "title": "TipRanks, futuros e semana de eleições, 02/11/2026",
+    "url": "https://www.tipranks.com/news/u-s-stock-futures-rise-as-investors-eye-earnings-midterm-elections-and-jobs-report"
+   },
+   {
+    "title": "Yahoo Finance, futuros, Binance e petróleo, 02/11/2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ahead-102324675.html"
+   },
+   {
+    "title": "Yahoo Finance, Binance e saídas de 4,6 mil milhões, 02/11/2026",
+    "url": "https://finance.yahoo.com/markets/article/binance-sees-more-than-46-billion-in-withdrawals-after-largest-crypto-hack-in-history-135117773.html"
+   },
+   {
+    "title": "The Block, Bitmine e reação ao roubo da Binance, 02/11/2026",
+    "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307"
+   },
+   {
+    "title": "Le Private Banker, inflação na zona euro, 31/10/2026",
+    "url": "https://leprivatebanker.com/2026/10/31/euro-zone-inflation-splits-as-italy-jumps-to-5-4-and-germany-eases-to-2-8-on-fuel-tax-cut/"
+   },
+   {
+    "title": "Thailand Business News, briefing da Ásia, 03/11/2026",
+    "url": "https://www.thailand-business-news.com/news/338217-thailand-business-news-morning-briefing-tuesday-3-november-2026-thailand-asean-and-global-markets"
+   },
+   {
+    "title": "Investment Executive (AP), indústria da China, 02/11/2026",
+    "url": "https://www.investmentexecutive.com/news/economy/chinas-factory-activity-slips-as-new-export-orders-weaken/"
+   },
+   {
+    "title": "SIA Wealth Management, mercados e energia, 02/11/2026",
+    "url": "https://www.siawealth.com/2026/11/02/equity-markets-bounce-as-november-begins-energy-prices-pull-back/"
+   }
+  ],
+  "summary": "Os norte-americanos votam hoje nas eleições intercalares, e o resultado pode mudar o rumo da política de Washington nos dois anos que faltam do mandato de Trump, com a aprovação do presidente em apenas 31% numa sondagem Reuters/Ipsos. Do outro lado do mundo, a China decidiu travar a valorização do yuan depois do pior mês da sua bolsa desde 2016. Na Europa, a inflação de outubro mostrou um continente a duas velocidades, 5,4% em Itália e 2,8% na Alemanha, o que alimenta a dúvida sobre se o BCE vai subir os juros em dezembro. O petróleo deu um alívio e o crude americano caiu abaixo dos 100 dólares, o que pode aliviar a gasolina nas próximas semanas se as conversações com o Irão aguentarem.",
+  "themes": [
+   {
+    "t": "Urnas nos EUA, tensão no Médio Oriente",
+    "txt": "Estão em jogo os 435 lugares da Câmara dos Representantes e 35 do Senado, e o resultado define como Trump vai governar a segunda metade do mandato. Há também um pano de fundo militar: o secretário de Estado Rubio diz que o presidente prefere a via diplomática com o Irão, mas há relatos de que os dois lados se preparam para uma eventual ação militar depois das eleições. Para quem enche o depósito, é isso que decide se o petróleo continua a baixar."
+   },
+   {
+    "t": "Petróleo abaixo de 100 dólares, por agora",
+    "txt": "O crude americano caiu mais de 4% na segunda-feira para menos de 100 dólares o barril e o Brent ficou abaixo dos 110, depois de em outubro ter subido cerca de 15%. A gasolina nos EUA recuou mais de 5%, para menos de 3 dólares por galão. A descida deve-se a conversações entre EUA e Irão mediadas pelo Qatar; se falharem, o alívio acaba depressa."
+   },
+   {
+    "t": "Europa a duas velocidades",
+    "txt": "Em outubro a inflação foi de 5,4% em Itália (com a energia regulada a subir quase 60%), 3,4% em França e 4,9% em Espanha, mas desceu para 2,8% na Alemanha graças a um corte temporário do imposto sobre os combustíveis, que dura até ao fim do ano. O BCE manteve a taxa de depósito em 2,5% a 29 de outubro e Lagarde admitiu que se discutiu uma subida, adiada para já. Amanhã o Eurostat divulga o número da zona euro, que em setembro estava em 3,8%, e há quem fale numa subida em dezembro, o que pesaria nas prestações da casa."
+   },
+   {
+    "t": "China trava o yuan e sofre na bolsa",
+    "txt": "O banco central chinês anunciou que, a partir de 15 de novembro, os bancos têm de guardar 6% (em vez de 4%) dos depósitos em moeda estrangeira, para travar uma valorização do yuan superior a 5% este ano e que prejudica os exportadores. O índice CSI 300 perdeu 8,5% em outubro, o pior mês desde 2016, e a indústria oficial está há seis meses abaixo dos 50 pontos, com as encomendas de exportação a cair para 48,7. Está previsto um encontro entre Trump e Xi em meados de novembro, em Shenzhen, que pode aliviar as tensões comerciais."
+   },
+   {
+    "t": "Coreia do Sul aposta em chips e IA",
+    "txt": "Seul propôs um orçamento de 2027 de 820,9 biliões de wons, mais 12,8%, com 21,3 biliões para inteligência artificial, semicondutores e centros de dados. A inflação de outubro ficou em 2,8%, acima da meta de 2%, e o mercado admite que o banco central suba os juros em novembro. A bolsa coreana (Kospi) subiu 2,2% na segunda-feira, num dia em que a indústria mostrou sinais de arrefecimento no Japão, na Coreia e em Taiwan."
+   },
+   {
+    "t": "Cripto: Binance perde 3,6 mil milhões em saídas",
+    "txt": "Depois do maior roubo da história das criptomoedas (cerca de 6,3 mil milhões de dólares, atribuído pelo FBI à Coreia do Norte), a Binance teve 4,6 mil milhões de dólares em levantamentos e 1 mil milhão em depósitos, ou seja, saídas líquidas de 3,6 mil milhões (2,1% dos ativos). A plataforma diz que vai cobrir todas as perdas. O bitcoin ronda os 78.000 dólares e o ether os 2.280, uma reação mais calma do que muitos temiam."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-02T07:50:00Z",
   "capa_foto": "oil tanker sea sunset",
   "capa_titulo": "Doha decide o preço da tua gasolina",
