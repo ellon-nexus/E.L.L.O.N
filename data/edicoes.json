@@ -1,5 +1,225 @@
 [
  {
+  "asOf": "2026-11-04T07:45:00Z",
+  "capa_foto": "us capitol building night",
+  "capa_titulo": "O Congresso muda e as bolsas abanam",
+  "id": "2026-11-04",
+  "ideas": [
+   {
+    "market": "NYSE",
+    "name": "American Water Works",
+    "risks": "Faltam aprovações na Califórnia, Illinois, Indiana e Nova Jérsia e o acordo na Pensilvânia não é unânime; a data limite da fusão é 26/04/2027 e juros altos pesam nas utilities.",
+    "sources": [
+     {
+      "title": "Smart Water Magazine, 29/10/2026",
+      "url": "https://smartwatermagazine.com/news/smart-water-magazine/american-water-holds-q1-2027-target-for-essential-merger-after-state-settlements"
+     }
+    ],
+    "tag": "Utilities",
+    "thesis": "A maior empresa de água dos EUA manteve a 28/10 o objetivo de concluir a fusão com a Essential Utilities no 1.º trimestre de 2027: já tem 3 de 10 aprovações estaduais (Kentucky, Ohio e Virginia) e acordos em curso na Pensilvânia, Texas e Carolina do Norte. A troca é de 0,305 ações da American Water por cada ação da Essential.",
+    "ticker": "AWK"
+   },
+   {
+    "market": "Nasdaq",
+    "name": "Advanced Micro Devices",
+    "risks": "Estrategistas avisam que uma maioria democrata pode trazer regulação da IA e atrasar centros de dados; a ação já reagiu em alta e o setor é muito volátil.",
+    "sources": [
+     {
+      "title": "Saxo Bank, 04/11/2026",
+      "url": "https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take-04-november-2026-04112026"
+     },
+     {
+      "title": "Reuters (Yahoo Finance), 04/11/2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-dip-investors-010842458.html"
+     }
+    ],
+    "tag": "IA e chips",
+    "thesis": "A AMD subiu cerca de 5,5% depois do fecho de terça com uma previsão forte e os resultados aliviaram os receios sobre a IA nos mercados asiáticos, onde o Kospi chegou a subir 2,9% logo de manhã. Interessa a quem quer exposição a chips para centros de dados fora da Nvidia.",
+    "ticker": "AMD"
+   },
+   {
+    "market": "Bolsa da Coreia (KRX)",
+    "name": "SK Hynix",
+    "risks": "Depende do investimento em centros de dados, está exposta a decisões políticas nos EUA e as oscilações diárias são de vários pontos percentuais.",
+    "sources": [
+     {
+      "title": "Saxo Bank, 04/11/2026",
+      "url": "https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take-04-november-2026-04112026"
+     },
+     {
+      "title": "Kotak Neo, 04/11/2026",
+      "url": "https://www.kotakneo.com/news/global-markets/kospi-index-falls-as-samsung-and-sk-hynix-shares-slide-on-us-election-concerns/"
+     }
+    ],
+    "tag": "Ásia e memórias",
+    "thesis": "A fabricante sul-coreana de memórias para IA chegou a cair 5,8% numa sessão com o receio de regulação nos EUA e foi das mais castigadas por investidores estrangeiros, que venderam mercado coreano em força. A volatilidade abre a discussão sobre se o receio é excessivo.",
+    "ticker": "000660.KS"
+   },
+   {
+    "market": "NYSE",
+    "name": "Arista Networks",
+    "risks": "Depois de uma subida desta dimensão o preço já incorpora boas notícias, e o setor depende de um investimento em centros de dados que a regulação pode abrandar (Tapas Strickland, Moomoo ANZ).",
+    "sources": [
+     {
+      "title": "Saxo Bank, 04/11/2026",
+      "url": "https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take-04-november-2026-04112026"
+     },
+     {
+      "title": "Reuters (Yahoo Finance), 04/11/2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-react-us-midterm-election-025738421.html"
+     }
+    ],
+    "tag": "Redes para IA",
+    "thesis": "A Arista disparou cerca de 13% depois dos resultados, segundo a Saxo, no mesmo dia em que a Super Micro previu receitas de 19,5 a 21,5 mil milhões de dólares para o trimestre, sinal de que a procura por infraestrutura de IA se mantém.",
+    "ticker": "ANET"
+   },
+   {
+    "market": "Xetra (Alemanha)",
+    "name": "Bayer",
+    "risks": "Só li uma linha sobre a revisão e não os detalhes; a ação europeia dependerá de resultados por divisão e do contexto de juros altos no BCE.",
+    "sources": [
+     {
+      "title": "Saxo Bank, 04/11/2026",
+      "url": "https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take-04-november-2026-04112026"
+     }
+    ],
+    "tag": "Saúde e agroquímica",
+    "thesis": "A Bayer elevou a sua previsão para o ano numa terça-feira em que o índice Stoxx 600 caiu 0,6%, segundo o resumo da Saxo. Fica como ponto de partida para ler o comunicado completo da empresa e perceber o que melhorou.",
+    "ticker": "BAYN"
+   },
+   {
+    "market": "Criptomoeda",
+    "name": "Bitcoin",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor e não paga dividendos; os fundos cotados nos EUA tiveram saídas de 515 milhões de dólares em outubro e outro tanto nos dois primeiros dias de novembro.",
+    "sources": [
+     {
+      "title": "CoinDesk, 04/11/2026",
+      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
+     },
+     {
+      "title": "CoinDesk, 03/11/2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O bitcoin caiu para perto de 76.000 dólares quando as intercalares apontaram para uma vitória democrata e recuperou para cerca de 77.900; a 10x Research diz que está sobrevendido e pode subir até 82.000, e as opções de compra dominaram os negócios do dia da eleição.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "As eleições intercalares nos EUA dominaram a noite: as primeiras contagens apontam para os democratas no Congresso e os mercados abanaram. Os chips da Ásia oscilaram com o medo de mais regulação da IA, enquanto a Nvidia ultrapassou a Apple em valor. O petróleo continua perto dos 100 dólares e a China tenta travar o yuan. Segue a Conjuntura Diária para perceberes o que isto muda no teu bolso.\n\n#mercados #economia #bolsa #eleições #midterms #petróleo #nvidia #china #stockmarket #economy",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "us capitol building dusk",
+    "tag": "EUA",
+    "texto": "As primeiras contagens apontam para os democratas no controlo do Congresso. Os futuros do Nasdaq chegaram a cair mais de 2% e recuperaram quase tudo. Tarifas e défice voltam ao debate.",
+    "tipo": "noticia",
+    "titulo": "Democratas à frente nas intercalares"
+   },
+   {
+    "foto": "semiconductor chip closeup",
+    "tag": "Tecnologia",
+    "texto": "A Nvidia subiu 2,9% e é a empresa mais valiosa do mundo. A Apple caiu 1,9% depois de avisar que a margem do Natal será mais baixa do que o esperado.",
+    "tipo": "noticia",
+    "titulo": "Nvidia ultrapassa a Apple em valor"
+   },
+   {
+    "foto": "oil refinery night",
+    "tag": "Energia",
+    "texto": "O Brent caiu mais de 7% com a esperança de acordo EUA-Irão e fechou perto dos 103 dólares. O Estreito de Ormuz continua quase fechado, e a gasolina só desce se o acordo avançar.",
+    "tipo": "noticia",
+    "titulo": "Petróleo cai 7%, mas fica perto de 100 dólares"
+   },
+   {
+    "foto": "seoul stock exchange board",
+    "tag": "Ásia",
+    "texto": "As ações de chips da Coreia do Sul oscilaram entre fortes quedas e subidas com o receio de mais regulação da IA nos EUA. Uma previsão forte da AMD deu algum alívio.",
+    "tipo": "noticia",
+    "titulo": "Chips sul-coreanos em montanha-russa"
+   },
+   {
+    "foto": "shanghai skyline financial district",
+    "tag": "China",
+    "texto": "O yuan perdeu o fôlego depois de 13 sessões a subir, a série mais longa desde 1996. O banco central vai exigir mais reservas em moeda estrangeira aos bancos a partir de 15 de novembro.",
+    "tipo": "noticia",
+    "titulo": "China trava a subida do yuan"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Reuters (Yahoo Finance): analistas reagem às intercalares, 04/11/2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-react-us-midterm-election-025738421.html"
+   },
+   {
+    "title": "Reuters (Yahoo Finance): futuros dos EUA, 04/11/2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-dip-investors-010842458.html"
+   },
+   {
+    "title": "Yahoo News: intercalares em direto, 03/11/2026",
+    "url": "https://www.yahoo.com/news/politics/live/midterms-2026-live-updates-election-day-voters-head-to-the-polls-as-democrats-look-to-flip-gop-control-of-the-house-and-senate-110000715.html"
+   },
+   {
+    "title": "Saxo Bank: Asia Market Quick Take, 04/11/2026",
+    "url": "https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take-04-november-2026-04112026"
+   },
+   {
+    "title": "Kotak Neo (Índia): Kospi e eleições, 04/11/2026",
+    "url": "https://www.kotakneo.com/news/global-markets/kospi-index-falls-as-samsung-and-sk-hynix-shares-slide-on-us-election-concerns/"
+   },
+   {
+    "title": "TradingKey: Kospi e Nikkei, 04/11/2026",
+    "url": "https://www.tradingkey.com/analysis/stocks/more/262271564-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-tradingkey"
+   },
+   {
+    "title": "CoinDesk: bitcoin e as intercalares, 04/11/2026",
+    "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
+   },
+   {
+    "title": "CoinDesk: bitcoin e o padrão das intercalares, 03/11/2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014"
+   },
+   {
+    "title": "Smart Water Magazine: fusão American Water e Essential, 29/10/2026",
+    "url": "https://smartwatermagazine.com/news/smart-water-magazine/american-water-holds-q1-2027-target-for-essential-merger-after-state-settlements"
+   },
+   {
+    "title": "Global Banking & Finance (Reuters): BCE, 08/10/2026",
+    "url": "https://www.globalbankingandfinance.com/ecb-hike-rates-december-inflation-almost-doubles-2-target/"
+   },
+   {
+    "title": "Essential Utilities: resultados do 2.º trimestre (SEC), 04/08/2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000078128/000155278126000404/e26327_ex99-1.htm"
+   }
+  ],
+  "summary": "A noite foi longa nos Estados Unidos: as primeiras contagens das eleições intercalares apontam para os democratas no controlo do Congresso, o que pode travar parte da agenda do presidente nos próximos dois anos, das tarifas aos impostos. Os mercados abanaram, com os futuros do Nasdaq a chegarem a cair mais de 2% durante a noite e a recuperarem quase tudo ao amanhecer. Na Ásia, as ações de chips oscilaram entre o medo de uma regulação mais dura da inteligência artificial e o alívio de uma previsão forte da AMD. Para o bolso, o que conta é que o petróleo continua perto dos 100 dólares, que os juros altos não dão tréguas (a Austrália subiu-os para um máximo de 18 anos) e que a China tenta travar a subida da sua moeda.",
+  "themes": [
+   {
+    "t": "Congresso à vista: tarifas e défice em jogo",
+    "txt": "Segundo as primeiras contagens, os democratas ganharam terreno decisivo nas eleições intercalares, embora o resultado final no Senado e na Câmara dos Representantes ainda estivesse a ser apurado quando fechámos esta edição. Os democratas já anunciaram que querem votar rapidamente a devolução de apoios à saúde e propostas para pôr fim às tarifas de Trump, mas o presidente mantém o veto e vários instrumentos de comércio por decreto. Os analistas dividem-se: para o Natixis, as consequências económicas diretas não serão enormes, e para o J.P. Morgan Asset Management o lado bom é que o défice orçamental deverá ficar mais controlado. Para quem compra produtos importados, o que importa é se as tarifas sobem, descem ou ficam como estão."
+   },
+   {
+    "t": "Chips da Ásia entre o medo e o alívio",
+    "txt": "As ações de chips da Coreia do Sul e do Japão deram solavancos de vários pontos percentuais, com receio de que um Congresso democrata aperte a regulação da inteligência artificial e abrande a construção de centros de dados, que alimenta a procura por chips. Do lado do alívio, a AMD subiu cerca de 5,5% depois do fecho em Nova Iorque com uma previsão forte, e a Nvidia ultrapassou a Apple como a empresa mais valiosa do mundo na terça-feira, depois de a Apple avisar que a margem do trimestre de Natal será mais baixa do que o esperado. Se a regulação apertar, o preço de smartphones, computadores e serviços na nuvem é o que mais pode sentir."
+   },
+   {
+    "t": "Petróleo: do susto à esperança, sempre acima dos 90",
+    "txt": "O Brent desceu mais de 7% na segunda-feira com a esperança nas conversações entre os EUA e o Irão e fechou a terça-feira perto dos 103 dólares, enquanto o crude americano ronda os 96 dólares. A Reuters recorda que o Estreito de Ormuz continua, na prática, bloqueado, o que mantém os preços muito acima do normal. Para os consumidores, isto significa que a descida da gasolina e do gasóleo só chega se houver um acordo credível; um novo falhanço nas conversações faz o preço voltar a subir em poucos dias."
+   },
+   {
+    "t": "Austrália sobe juros e os EUA continuam acima de 4,9%",
+    "txt": "O banco central da Austrália subiu a taxa de juro para 4,85%, o valor mais alto em 18 anos, numa decisão dividida. Nos EUA, o juro das obrigações a 10 anos ronda os 4,95% e o de 30 anos os 5,32%, o que encarece o crédito em todo o mundo. Na Europa, uma sondagem da Reuters de 8 de outubro mostrava 64 de 73 economistas a esperar uma nova subida do BCE em dezembro, com a taxa de depósito em 2,50% e a inflação de setembro nos 3,8%. Quem tem um crédito com taxa variável ou pensa pedir um empréstimo deve contar com juros altos durante mais tempo."
+   },
+   {
+    "t": "China trava a subida do yuan e o cobre cai",
+    "txt": "O banco central chinês vai subir em 2 pontos percentuais as reservas que os bancos têm de manter em moeda estrangeira a partir de 15 de novembro, e o yuan interrompeu uma série de 13 sessões a valorizar, a mais longa desde 1996. Ao mesmo tempo, o cobre caiu 2,1% para 14.043 dólares por tonelada, o valor mais baixo em 11 semanas, um sinal de que a procura industrial pode estar a arrefecer. Um yuan mais barato ajuda as exportações chinesas, e um cobre mais barato pode aliviar, com tempo, os custos de cabos, eletrodomésticos e construção."
+   },
+   {
+    "t": "Bitcoin cai com o voto e recupera",
+    "txt": "O bitcoin caiu para perto dos 76.000 dólares quando se percebeu que os democratas estariam a ganhar e recuperou depois para cerca de 77.900, segundo a CoinDesk. Os analistas ouvidos dizem que um Congresso democrata é menos favorável a novas leis pró-cripto, embora Trump possa governar por decreto. Os fundos cotados de bitcoin nos EUA tiveram saídas de cerca de 515 milhões de dólares em outubro e o mesmo valor só nos dois primeiros dias de novembro. É um ativo muito volátil: já valeu mais de 126.000 dólares em outubro de 2025."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-03T07:45:00Z",
   "capa_foto": "voting booth election ballot",
   "capa_titulo": "Os EUA votam e o petróleo cede",
