@@ -1,5 +1,225 @@
 [
  {
+  "asOf": "2026-11-05T07:50:00Z",
+  "capa_foto": "oil refinery sunset",
+  "capa_titulo": "Petróleo afunda e Wall Street dispara",
+  "id": "2026-11-05",
+  "ideas": [
+   {
+    "market": "Tóquio",
+    "name": "Toyota Motor",
+    "risks": "Se o Brent voltar a subir ou a guerra no Irão se agravar, o movimento reverte, e a empresa depende das tarifas e do iene.",
+    "sources": [
+     {
+      "title": "Kotak Neo, 05/11/2026",
+      "url": "https://www.kotakneo.com/news/global-markets/asian-market-rotation-after-us-midterms-elections/"
+     }
+    ],
+    "tag": "Japão",
+    "thesis": "A Toyota subiu cerca de 5% na sessão em que o petróleo desabou, porque combustível mais barato ajuda as vendas de automóveis e os custos de importação do Japão; a Honda subiu o mesmo.",
+    "ticker": "7203.T"
+   },
+   {
+    "market": "Hong Kong",
+    "name": "Tencent Holdings",
+    "risks": "Uma subida de um dia não faz tendência, e a regulação chinesa e as tensões EUA-China continuam a ser fonte de volatilidade.",
+    "sources": [
+     {
+      "title": "FinancialJuice, 05/11/2026",
+      "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
+     }
+    ],
+    "tag": "China",
+    "thesis": "A Tencent ganhou mais de 6% e o índice tecnológico de Hong Kong subiu 5% num dia em que os chips coreanos caíram, sinal de que parte do dinheiro está a rodar da IA americana para tecnológicas chinesas.",
+    "ticker": "0700.HK"
+   },
+   {
+    "market": "NYSE",
+    "name": "Agree Realty",
+    "risks": "É sensível aos juros longos e, se os rendimentos das obrigações voltarem a subir, o preço tende a cair; a rentabilidade é inferior à da Realty Income.",
+    "sources": [
+     {
+      "title": "24/7 Wall St, 03/11/2026",
+      "url": "https://247wallst.com/investing/2026/11/03/realty-income-just-raised-its-dividend-again-here-are-2-more-monthly-payers/"
+     }
+    ],
+    "tag": "Dividendos",
+    "thesis": "Imobiliária de rendas que paga dividendos mensais: subiu o dividendo para 0,271 $ por mês (pagamento a 13/11) e rende cerca de 4,7% ao preço de 68,64 $.",
+    "ticker": "ADC"
+   },
+   {
+    "market": "NYSE",
+    "name": "McDonald's",
+    "risks": "As vendas comparáveis nos EUA estão em queda e o consumidor com menos poder de compra pode cortar nas refeições fora.",
+    "sources": [
+     {
+      "title": "TheStreet, 04/11/2026",
+      "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+     }
+    ],
+    "tag": "Consumo",
+    "thesis": "Apesar de receitas de 7,16 mil M$ abaixo dos 7,28 mil M$ esperados, o lucro por ação ajustado foi de 3,57 $ (previsão 3,38 $) e a ação subiu 4,7%, com as vendas nos EUA a caírem apenas 0,2%.",
+    "ticker": "MCD"
+   },
+   {
+    "market": "NYSE",
+    "name": "Uber Technologies",
+    "risks": "A previsão de lucro por ação para o 4.º trimestre (0,95-0,99 $) ficou abaixo dos 1,06 $ que os analistas esperavam.",
+    "sources": [
+     {
+      "title": "TheStreet, 04/11/2026",
+      "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+     }
+    ],
+    "tag": "Tecnologia",
+    "thesis": "Superou as previsões do 3.º trimestre e a ação subiu 3,5%; um petróleo mais barato alivia os custos dos motoristas.",
+    "ticker": "UBER"
+   },
+   {
+    "market": "Nasdaq",
+    "name": "iShares Bitcoin Trust (ETF de Bitcoin)",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor, não paga dividendos e depende de regulação e de fluxos de ETF que mudam depressa.",
+    "sources": [
+     {
+      "title": "Motley Fool, 04/11/2026",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/04/crypto-market-today-nov-4-bitcoin-stages-sharp-recovery-as-wall-street-rallies-and-regulatory-hopes-return/"
+     },
+     {
+      "title": "crypto.news, 04/11/2026",
+      "url": "https://crypto.news/bitcoin-after-the-us-midterms-can-the-recovery-outlast-etf-selling/"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O Bitcoin voltou a rondar os 80.000 $ depois de tocar os 75.700 $, com o IBIT a subir 2,9% a 4/11, mas os ETF de Bitcoin dos EUA perderam cerca de 1,16 mil M$ em três sessões.",
+    "ticker": "IBIT"
+   }
+  ],
+  "legenda": "O petróleo caiu quase 9% numa sessão, o Dow Jones subiu mais de 3% e as bolsas respiraram depois das eleições nos EUA. Na Europa, a inflação chegou aos 4% e o BCE admite subir juros em dezembro. Na Ásia, os chips afundaram na Coreia enquanto as tecnológicas chinesas dispararam. O Bitcoin recuperou perto dos 80 mil dólares, mas continua muito volátil.\n\n#mercados #economia #bolsa #petroleo #inflacao #bce #bitcoin #oil #stocks #markets",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "oil refinery night",
+    "tag": "Energia",
+    "texto": "O petróleo estava nos 118 dólares na sexta e agora ronda os 94, o valor mais baixo desde setembro, com o mercado a apostar numa saída para a guerra com o Irão. Pode aliviar as bombas.",
+    "tipo": "ultima_hora",
+    "titulo": "Brent cai 9% numa sessão e desce dos 95 dólares"
+   },
+   {
+    "foto": "stock exchange trading floor",
+    "tag": "Bolsa",
+    "texto": "Wall Street festejou o fim das eleições e o petróleo mais barato. O S&P 500 ganhou 1,6% e o Nasdaq 1,4%, com a energia a ser o único setor em dificuldades.",
+    "tipo": "noticia",
+    "titulo": "Dow Jones sobe 3% e chega aos 53.356 pontos"
+   },
+   {
+    "foto": "european central bank building",
+    "tag": "Europa",
+    "texto": "É o valor mais alto desde 2023, com a energia 20,8% mais cara. O BCE admite subir juros em dezembro, o que pode encarecer as prestações do crédito à habitação.",
+    "tipo": "noticia",
+    "titulo": "Inflação na zona euro sobe para 4%"
+   },
+   {
+    "foto": "semiconductor chip closeup",
+    "tag": "Ásia",
+    "texto": "O Kospi caiu mais de 3% com a Samsung e a SK Hynix em baixa, enquanto o Hang Seng subiu 3,1% e a Tencent e a Alibaba ganharam mais de 6%.",
+    "tipo": "noticia",
+    "titulo": "Chips afundam na Coreia, tecnológicas chinesas voam"
+   },
+   {
+    "foto": "bitcoin coin closeup",
+    "tag": "Cripto",
+    "texto": "Recuperou 3,5% depois de tocar os 75.700 dólares, mas os ETF de Bitcoin dos EUA perderam cerca de 1,16 mil milhões em três sessões. Continua muito volátil.",
+    "tipo": "noticia",
+    "titulo": "Bitcoin volta perto dos 80 mil dólares"
+   }
+  ],
+  "sources": [
+   {
+    "title": "TheStreet, 04/11/2026",
+    "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+   },
+   {
+    "title": "OilPrice.com, 04/11/2026",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+   },
+   {
+    "title": "Yahoo Finance, 04/11/2026",
+    "url": "https://finance.yahoo.com/markets/article/oil-prices-fall-below-90-as-traders-bet-on-iran-war-ending-after-democrats-sweep-midterms-192105228.html"
+   },
+   {
+    "title": "Bloomberg via Yahoo Finance, 04/11/2026",
+    "url": "https://finance.yahoo.com/economy/policy/articles/euro-zone-inflation-accelerates-double-100342689.html"
+   },
+   {
+    "title": "European Business Magazine, 04/11/2026",
+    "url": "https://europeanbusinessmagazine.com/eurozone-inflation-hits-4"
+   },
+   {
+    "title": "Rio Times, 04/11/2026",
+    "url": "https://www.riotimesonline.com/euro-area-inflation-latin-america-exporters-2026/"
+   },
+   {
+    "title": "Kotak Neo, 05/11/2026",
+    "url": "https://www.kotakneo.com/news/global-markets/asian-market-rotation-after-us-midterms-elections/"
+   },
+   {
+    "title": "FinancialJuice, 05/11/2026",
+    "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
+   },
+   {
+    "title": "The Block, 04/11/2026",
+    "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030"
+   },
+   {
+    "title": "crypto.news, 04/11/2026",
+    "url": "https://crypto.news/bitcoin-after-the-us-midterms-can-the-recovery-outlast-etf-selling/"
+   },
+   {
+    "title": "Dnoticias/Lusa, 07/10/2026",
+    "url": "https://www.dnoticias.pt/2026/10/7/508053-banco-de-portugal-preve-inflacao-de-31-este-ano/"
+   },
+   {
+    "title": "Essential Utilities (SEC), 03/11/2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000078128/000155278126000537/e26437_ex99-1.htm"
+   },
+   {
+    "title": "Realty Income via Yahoo Finance, 04/11/2026",
+    "url": "https://finance.yahoo.com/real-estate/articles/realty-income-corp-o-q3-190138132.html"
+   },
+   {
+    "title": "Tech Insider, 04/11/2026",
+    "url": "https://tech-insider.org/spacex-tesla-fall-election-risks-morgan-stanley-175b-forecast-2026/"
+   }
+  ],
+  "summary": "O petróleo foi o grande protagonista das últimas horas: o Brent caiu quase 9% numa só sessão, para perto de 95 dólares, quando na sexta-feira andava nos 118, porque os mercados apostam que as eleições nos EUA obriguem Washington a procurar uma saída para a guerra com o Irão. Foi o suficiente para a bolsa americana disparar (o Dow Jones subiu mais de 3%) e para aliviar o receio de combustíveis ainda mais caros neste inverno. Do outro lado do Atlântico a notícia é menos simpática: a inflação na zona euro chegou aos 4%, o valor mais alto desde 2023, e o Banco Central Europeu admite subir juros em dezembro, o que pesa nas prestações de quem tem crédito à habitação com taxa variável.",
+  "themes": [
+   {
+    "t": "Brent a pique: de 118 para 95 dólares em cinco dias",
+    "txt": "O petróleo caiu cerca de 9% na quarta-feira e hoje continua a recuar para perto de 94 dólares, o valor mais baixo desde setembro. O motivo é político: depois de os democratas ganharem o Congresso, Trump disse que o problema foi \"o preço da gasolina\" e garantiu que não tem planos imediatos para atacar o Irão. Para o consumidor, é um alívio possível nas bombas, mas ainda frágil: os stocks de gasóleo nos EUA estão em mínimos de duas décadas e o líder supremo iraniano avisou que a hostilidade não acaba com a mudança de partido."
+   },
+   {
+    "t": "Wall Street sobe com o fim do suspense eleitoral",
+    "txt": "O Dow Jones saltou 3,03% para 53.356 pontos e o S&P 500 ganhou 1,58%, com a energia a ser o setor mais fraco do dia e o petróleo mais barato a aliviar as pressões sobre os custos das empresas. A McDonald's subiu 4,7% apesar de vendas abaixo do esperado, porque o lucro por ação superou as previsões, e a Uber subiu 3,5% mesmo com uma previsão para o último trimestre abaixo do que os analistas queriam. Trump já avisou que, com o Congresso dividido, usará o veto, por isso o mercado deve passar da euforia à leitura atenta do que será possível aprovar."
+   },
+   {
+    "t": "Zona euro com inflação a 4%: o BCE pode subir juros em dezembro",
+    "txt": "Os preços ao consumidor subiram 4% em outubro, contra 3,8% em setembro, empurrados pela energia, que está 20,8% mais cara do que há um ano. Há grandes diferenças entre países: a Alemanha desacelerou para 2,8%, mas a Itália chegou aos 5,6% e a Lituânia aos 6,1%. O presidente do Bundesbank disse que outra subida em dezembro \"provavelmente será necessária\", e os mercados contam com ela. Para as famílias com prestação indexada à Euribor, isso quer dizer mais uns euros por mês no início de 2027, a menos que o petróleo mais barato acalme os preços."
+   },
+   {
+    "t": "Ásia: chips afundam na Coreia, tecnológicas chinesas disparam",
+    "txt": "O Kospi sul-coreano chegou a perder mais de 3%, com a Samsung e a SK Hynix a caírem mais de 5%, por receios de que um Congresso democrata aperte as regras aos centros de dados e abrande o investimento em IA. Em contraste, o Hang Seng subiu 3,1% e a Tencent e a Alibaba ganharam mais de 6%, enquanto a Toyota e a Honda valorizaram cerca de 5% com o petróleo mais barato. Na Índia o Nifty somou 1,8% e na Austrália o índice subiu 2,5%: os países que importam muita energia são os que mais respiram."
+   },
+   {
+    "t": "Bitcoin volta aos 80 mil, mas os ETF continuam a perder dinheiro",
+    "txt": "A maior criptomoeda recuperou 3,5% e chegou perto dos 80.500 dólares depois de ter tocado os 75.700, enquanto o ether subiu quase 6%. A recuperação convive com mais de 1,1 mil milhões de dólares de saídas dos ETF de Bitcoin nos EUA em três sessões e com o rescaldo da falha de segurança na Binance, que afetou cerca de 6,3 mil milhões de dólares em ativos. Há também esperança de que os democratas revejam a lei CLARITY, que define as regras do setor, mas as conversas ainda são preliminares."
+   },
+   {
+    "t": "Portugal: inflação a abrandar, mas só para o ano",
+    "txt": "O Banco de Portugal prevê uma inflação de 3,1% em 2026, a descer para 2,4% em 2027 e 2,0% em 2028, à medida que o choque energético se dilui e os custos salariais moderam. O desemprego deve ficar em 5,6% e o emprego crescer 1,7% este ano. Com o petróleo a recuar, o cenário do banco central ganha crédito, mas depende de a energia não voltar a disparar e de o BCE não apertar mais do que o previsto."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-04T07:45:00Z",
   "capa_foto": "us capitol building night",
   "capa_titulo": "O Congresso muda e as bolsas abanam",

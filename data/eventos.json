@@ -1,16 +1,6 @@
 {
- "asOf": "2026-11-04",
+ "asOf": "2026-11-05",
  "events": [
-  {
-   "d": "2026-11-04",
-   "k": "earnings",
-   "src": {
-    "title": "Essential Utilities · resultados",
-    "url": "https://finviz.com/news/402734/essential-utilities-to-report-financial-results-for-q3-2026"
-   },
-   "t": "WTRG",
-   "txt": "Chamada com analistas hoje às 11h de Nova Iorque (15h em Lisboa), depois dos resultados do 3.º trimestre."
-  },
   {
    "d": "2026-11-10",
    "k": "ex",
@@ -40,7 +30,7 @@
     "url": "https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings"
    },
    "t": "NVDA",
-   "txt": "Resultados do 3.º trimestre fiscal de 2027, depois do fecho (22h em Lisboa). Data ainda não confirmada pela NVIDIA."
+   "txt": "Resultados do 3.º trimestre fiscal de 2027, depois do fecho (22h em Lisboa). Data ainda não confirmada pela NVIDIA; algumas fontes apontam 17/11."
   },
   {
    "d": "2026-11-27",
