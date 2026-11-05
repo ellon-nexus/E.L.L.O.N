@@ -16,13 +16,29 @@ def get(url):
         return r.read().decode("utf-8", "replace")
 
 def yahoo(sym):
+    """Fecho do último dia de bolsa. As barras horárias aparecem logo após o fecho;
+    a barra diária do Yahoo às vezes só chega horas depois (dava sempre o dia anterior)."""
     import yfinance as yf  # trata dos cookies do Yahoo e evita o erro 429
-    h = yf.Ticker(sym).history(period="10d", interval="1d", auto_adjust=False)
-    h = h[h["Close"].notna()]
-    p, prev = float(h["Close"].iloc[-1]), float(h["Close"].iloc[-2])
-    when = min(h.index[-1].to_pydatetime().astimezone(timezone.utc).replace(hour=21), datetime.now(timezone.utc))
+    tk = yf.Ticker(sym)
+    p = prev = day = None
     try:
-        cur = yf.Ticker(sym).fast_info.get("currency")
+        h = tk.history(period="7d", interval="1h", auto_adjust=False)
+        h = h[h["Close"].notna()]
+        days = sorted({ts.date() for ts in h.index})
+        if len(days) >= 2:
+            last = h[[ts.date() == days[-1] for ts in h.index]]
+            before = h[[ts.date() == days[-2] for ts in h.index]]
+            p, prev, day = float(last["Close"].iloc[-1]), float(before["Close"].iloc[-1]), days[-1]
+    except Exception:
+        pass
+    d = tk.history(period="10d", interval="1d", auto_adjust=False)
+    d = d[d["Close"].notna()]
+    dday = d.index[-1].date()
+    if day is None or dday >= day:  # a barra diária já tem o último dia: usa o fecho oficial
+        p, prev, day = float(d["Close"].iloc[-1]), float(d["Close"].iloc[-2]), dday
+    when = min(datetime(day.year, day.month, day.day, 21, tzinfo=timezone.utc), datetime.now(timezone.utc))
+    try:
+        cur = tk.fast_info.get("currency")
     except Exception:
         cur = None
     return round(p, 4), round(prev, 4), when, cur
@@ -57,7 +73,8 @@ def fetch(ys, ss):
 
 path = "data/quotes.json"
 old = json.load(open(path)) if os.path.exists(path) else {"prices": {}, "watch": {}}
-out = {"prices": dict(old.get("prices", {})), "watch": dict(old.get("watch", {})), "fx": old.get("fx")}
+keep = lambda g, tab: {k: v for k, v in (old.get(g) or {}).items() if k in tab}  # só ativos atuais (tira os vendidos)
+out = {"prices": keep("prices", ASSETS), "watch": keep("watch", WATCH), "fx": old.get("fx")}
 latest, used, failed = None, set(), []
 for group, table in (("prices", ASSETS), ("watch", WATCH)):
     for t, (ys, ss, cur) in table.items():
