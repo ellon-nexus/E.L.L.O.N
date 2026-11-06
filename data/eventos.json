@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-05",
+ "asOf": "2026-11-06",
  "events": [
   {
    "d": "2026-11-10",
@@ -23,14 +23,13 @@
   },
   {
    "d": "2026-11-18",
-   "est": true,
    "k": "earnings",
    "src": {
-    "title": "MarketBeat · data estimada",
-    "url": "https://www.marketbeat.com/stocks/NASDAQ/NVDA/earnings"
+    "title": "ECIKS · agenda de resultados",
+    "url": "https://eciks.org/29651-nvidia-fiscal-2027-q3-results"
    },
    "t": "NVDA",
-   "txt": "Resultados do 3.º trimestre fiscal de 2027, depois do fecho (22h em Lisboa). Data ainda não confirmada pela NVIDIA; algumas fontes apontam 17/11."
+   "txt": "Resultados do 3.º trimestre fiscal de 2027, depois do fecho (22h em Lisboa); consenso de 108,8 mil M$ de receitas e 2,47 $ por ação."
   },
   {
    "d": "2026-11-27",

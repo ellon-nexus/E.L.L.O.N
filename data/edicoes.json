@@ -1,5 +1,195 @@
 [
  {
+  "asOf": "2026-11-06T07:50:00Z",
+  "capa_foto": "stock market screens red",
+  "capa_titulo": "A IA assusta Wall Street e o mundo sente",
+  "id": "2026-11-06",
+  "ideas": [
+   {
+    "market": "Paris",
+    "name": "Air France-KLM",
+    "risks": "O Brent ainda oscila com a guerra no Irão e uma nova subida reverteria o ganho; o setor é muito cíclico e depende da procura em viagens.",
+    "sources": [
+     {
+      "title": "The Private Banker, 05/11/2026",
+      "url": "https://leprivatebanker.com/2026/11/05/europes-stoxx-600-pushes-to-edge-of-record-at-661-99-as-miners-surge-while-chip-stocks-slide-on-democratic-ai-scrutiny/"
+     },
+     {
+      "title": "The Irish Times, 05/11/2026",
+      "url": "https://www.irishtimes.com/business/2026/11/05/tech-stocks-plunge-on-ai-regulation-fears/"
+     }
+    ],
+    "tag": "Viagens",
+    "thesis": "A ação subiu cerca de 12% depois de o lucro operacional ajustado do 3.º trimestre ter ficado em cerca de 1,35 mil M€, contra 1,08 mil M€ esperados; o petróleo mais barato também alivia o combustível das companhias aéreas.",
+    "ticker": "AF"
+   },
+   {
+    "market": "Amesterdão",
+    "name": "ArcelorMittal",
+    "risks": "O aço depende da construção e da indústria na Europa e na China, e os preços da energia pesam nos custos.",
+    "sources": [
+     {
+      "title": "The Private Banker, 05/11/2026",
+      "url": "https://leprivatebanker.com/2026/11/05/europes-stoxx-600-pushes-to-edge-of-record-at-661-99-as-miners-surge-while-chip-stocks-slide-on-democratic-ai-scrutiny/"
+     }
+    ],
+    "tag": "Materiais",
+    "thesis": "A siderúrgica subiu cerca de 5% depois de superar as expectativas de lucro, num dia em que os recursos básicos europeus ganharam cerca de 2% enquanto a tecnologia caía.",
+    "ticker": "MT"
+   },
+   {
+    "market": "Xetra",
+    "name": "SAP",
+    "risks": "É uma subida pequena de um dia e a tecnologia europeia caiu 3,2%; a regulação de IA pode afetar todo o setor.",
+    "sources": [
+     {
+      "title": "The Private Banker, 05/11/2026",
+      "url": "https://leprivatebanker.com/2026/11/05/europes-stoxx-600-pushes-to-edge-of-record-at-661-99-as-miners-surge-while-chip-stocks-slide-on-democratic-ai-scrutiny/"
+     },
+     {
+      "title": "The Irish Times, 05/11/2026",
+      "url": "https://www.irishtimes.com/business/2026/11/05/tech-stocks-plunge-on-ai-regulation-fears/"
+     }
+    ],
+    "tag": "Software",
+    "thesis": "A SAP ganhou mais de 1% numa sessão em que os chips europeus afundaram, sinal de que parte dos investidores distingue software empresarial de fabricantes de semicondutores.",
+    "ticker": "SAP"
+   },
+   {
+    "market": "Copenhaga",
+    "name": "Ørsted",
+    "risks": "É um setor muito sensível aos juros, e a subida de taxas na Europa e no Reino Unido encarece os projetos.",
+    "sources": [
+     {
+      "title": "The Private Banker, 05/11/2026",
+      "url": "https://leprivatebanker.com/2026/11/05/europes-stoxx-600-pushes-to-edge-of-record-at-661-99-as-miners-surge-while-chip-stocks-slide-on-democratic-ai-scrutiny/"
+     },
+     {
+      "title": "The Irish Times, 05/11/2026",
+      "url": "https://www.irishtimes.com/business/2026/11/05/tech-stocks-plunge-on-ai-regulation-fears/"
+     }
+    ],
+    "tag": "Renováveis",
+    "thesis": "A empresa de eólica offshore subiu entre 3,5% e 4,2% num dia mau para a tecnologia, ajudada pela rotação para setores menos ligados à IA.",
+    "ticker": "ORSTED.CO"
+   },
+   {
+    "market": "Nasdaq",
+    "name": "iShares Bitcoin Trust (ETF de Bitcoin)",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor, não paga dividendos e depende de regulação e de fluxos de ETF que mudam depressa.",
+    "sources": [
+     {
+      "title": "Motley Fool, 05/11/2026",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/crypto-market-today-nov-5-bitcoin-erases-post-election-rally-as-wall-street-suffers-worst-day-in-18-months/"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O Bitcoin caiu 5,6% para cerca de 75.900 $ e o IBIT cedeu 5,1% para 43,03 $, depois de mais de 1,1 mil M$ de saídas dos ETF em três sessões; para quem estuda o ativo, o suporte apontado ronda os 75.000-76.000 $.",
+    "ticker": "IBIT"
+   }
+  ],
+  "legenda": "A inteligência artificial deu o susto do ano a Wall Street: o Nasdaq caiu 5,5%, o pior dia em 18 meses, com o receio de regras mais duras para os centros de dados. O abalo chegou à Coreia, onde o Kospi perdeu 5%, e à Europa, com a Rheinmetall a afundar 16%. No Reino Unido, o Banco de Inglaterra subiu os juros para 4% e avisou que a inflação pode chegar perto dos 5%. O Bitcoin desceu aos 76 mil dólares.\n\n#mercados #economia #bolsa #nasdaq #inteligenciaartificial #juros #bitcoin #stocks #markets #investing",
+  "next": "segunda-feira de manhã",
+  "slides": [
+   {
+    "foto": "stock exchange trading floor",
+    "tag": "Bolsa",
+    "texto": "O receio de regras mais duras para os centros de dados de IA arrasou a tecnologia: o S&P 500 caiu 4,4%. Fundos e PPR com muita bolsa americana sentem o abalo.",
+    "tipo": "ultima_hora",
+    "titulo": "Nasdaq afunda 5,5% no pior dia em 18 meses"
+   },
+   {
+    "foto": "semiconductor chip closeup",
+    "tag": "Ásia",
+    "texto": "A Coreia pagou a conta dos chips, enquanto a Alibaba e a Tencent subiram em Hong Kong. A Qualcomm viu as vendas de chips para telemóveis caírem 26%.",
+    "tipo": "noticia",
+    "titulo": "Kospi cai 5% e a SK hynix perde 9%"
+   },
+   {
+    "foto": "london financial district",
+    "tag": "Reino Unido",
+    "texto": "Primeira subida desde 2023, por 8 votos contra 1. O banco prevê inflação de 4,8% em 2027 e a luz sobe em janeiro. O BCE decide em dezembro.",
+    "tipo": "noticia",
+    "titulo": "Banco de Inglaterra sobe os juros para 4%"
+   },
+   {
+    "foto": "military vehicle factory",
+    "tag": "Europa",
+    "texto": "A fabricante alemã cortou pela segunda vez em três meses a previsão de vendas. Em sentido contrário, a Air France-KLM subiu 12% com lucros acima do esperado.",
+    "tipo": "noticia",
+    "titulo": "Rheinmetall perde 16% e a defesa recua"
+   },
+   {
+    "foto": "bitcoin coin closeup",
+    "tag": "Cripto",
+    "texto": "Perdeu 5,6% e o ether 7,8%, com liquidações a acelerarem a queda. Os ETF de Bitcoin dos EUA já tinham perdido mais de 1,1 mil milhões em três sessões.",
+    "tipo": "noticia",
+    "titulo": "Bitcoin cai para os 76 mil dólares"
+   }
+  ],
+  "sources": [
+   {
+    "title": "StockTitan, 05/11/2026",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+   },
+   {
+    "title": "HNGN, 05/11/2026",
+    "url": "https://www.hngn.com/articles/273703/20261105/bank-england-hikes-rate-4-warns-inflation-near-5.htm"
+   },
+   {
+    "title": "The National (Emirados), 05/11/2026",
+    "url": "https://www.thenationalnews.com/business/energy/2026/11/05/oil-rebounds-from-two-month-low-as-uncertainty-lingers-over-iran-war/"
+   },
+   {
+    "title": "ECO/Lusa, 05/11/2026",
+    "url": "https://eco.sapo.pt/2026/11/05/euribor-sobe-para-maximo-de-um-ano-a-tres-meses/"
+   },
+   {
+    "title": "Motley Fool, 05/11/2026",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/crypto-market-today-nov-5-bitcoin-erases-post-election-rally-as-wall-street-suffers-worst-day-in-18-months/"
+   },
+   {
+    "title": "ECIKS, 02/11/2026",
+    "url": "https://eciks.org/29651-nvidia-fiscal-2027-q3-results"
+   },
+   {
+    "title": "The Private Banker, 05/11/2026",
+    "url": "https://leprivatebanker.com/2026/11/05/europes-stoxx-600-pushes-to-edge-of-record-at-661-99-as-miners-surge-while-chip-stocks-slide-on-democratic-ai-scrutiny/"
+   },
+   {
+    "title": "The Irish Times, 05/11/2026",
+    "url": "https://www.irishtimes.com/business/2026/11/05/tech-stocks-plunge-on-ai-regulation-fears/"
+   }
+  ],
+  "summary": "Ontem a conversa mudou: já não foi o petróleo que mandou nos mercados, foi a política a mexer com a inteligência artificial. O receio de que um Congresso com maioria democrata aperte as regras aos centros de dados fez o Nasdaq afundar 5,5%, o pior dia em 18 meses, e arrastou chips na Coreia, na Europa e até o Bitcoin. Do outro lado do Canal da Mancha, o Banco de Inglaterra subiu os juros para 4% e avisou que a inflação pode chegar quase aos 5%, o que mostra como a guerra no Irão continua a pesar nas contas das famílias. Para o leitor comum, o que está em jogo é a fatura da energia, a prestação da casa e o valor dos fundos de reforma que têm muita tecnologia.",
+  "themes": [
+   {
+    "t": "A política trava a corrida da IA e Wall Street paga a fatura",
+    "txt": "O Nasdaq perdeu 5,5% e o S&P 500 4,4%, o pior dia desde abril de 2025, depois de a vitória dos democratas nas eleições intercalares ter alimentado o receio de mais fiscalização aos centros de dados. A UBS estima que cerca de 30% dos centros previstos para 2028 estão agora em risco, e o índice de volatilidade chegou aos 28 pontos. Quem tem fundos de ações ou um PPR com muito peso americano sente-o nas contas; já o mercado passou a ver cerca de 70% de probabilidade de a Reserva Federal subir os juros em dezembro, menos do que os 83% do dia anterior."
+   },
+   {
+    "t": "Reino Unido: juros a 4% e inflação perto de 5%",
+    "txt": "O Banco de Inglaterra subiu a taxa de 3,75% para 4% por 8 votos contra 1, a primeira subida desde 2023; um membro queria 4,25%. A inflação britânica já está em 3,5% e o banco prevê um pico de 4,8% no segundo trimestre de 2027, impulsionada pela energia da guerra no Irão. A conta da luz também vai subir: o teto da Ofgem passa de 1.720 para 2.150 libras em janeiro, e um crédito fixo a dois anos custa cerca de 6%. Cá, o BCE reúne-se a 16 e 17 de dezembro com o mesmo dilema."
+   },
+   {
+    "t": "Coreia cai 5% e a Europa recua: o abalo dos chips dá a volta ao mundo",
+    "txt": "Na Coreia do Sul o Kospi perdeu 5,3% e a SK hynix 9%, enquanto Alibaba e Tencent subiram em Hong Kong. Na Europa o STOXX 600 fechou a perder 0,4%, com a tecnologia a cair 3,2% e a ASML a ceder 6,6%. A fraqueza dos telemóveis também pesou: as vendas de chips da Qualcomm para smartphones caíram 26%. A Rheinmetall afundou 16% depois de cortar pela segunda vez em três meses a previsão de vendas, ao passo que a Air France-KLM saltou 12% com lucros acima do esperado."
+   },
+   {
+    "t": "Petróleo recupera para 97 dólares com Ormuz em tensão",
+    "txt": "Depois de tocar nos 93 dólares na quarta-feira, o Brent subiu 2,5% para cerca de 97 dólares, mas continua cerca de 14% abaixo do valor de há uma semana. Um petroleiro bateu numa mina a leste do estreito de Ormuz, o Irão reforçou os contactos diplomáticos com a Arábia Saudita e o Qatar, e os Houthis continuam a atacar território saudita. A UBS diz que, sem guerra, o petróleo valeria entre 80 e 85 dólares, por isso o alívio nas bombas ainda depende de um acordo de paz."
+   },
+   {
+    "t": "Portugal: Euribor a 3 meses no valor mais alto em quase um ano",
+    "txt": "A Euribor a 3 meses subiu para 2,812% e a de 6 meses para 3,014%, enquanto a de 12 meses desceu para 3,283%. O BCE manteve as taxas a 28 de outubro e o mercado espera uma subida só em dezembro. A taxa a 6 meses é a que indexa 40% dos créditos à habitação de taxa variável, pelo que quem revê a prestação nos próximos meses deve estar atento à reunião de dezembro."
+   },
+   {
+    "t": "Bitcoin cai para os 76 mil dólares e o ether perde 8%",
+    "txt": "O Bitcoin recuou 5,6% para cerca de 75.900 dólares, apagando a recuperação pós-eleições, e o ether caiu 7,8% para 2.234 dólares. Os ETF de Bitcoin dos EUA tinham perdido mais de 1,1 mil milhões de dólares em três sessões e o IBIT cedeu 5%. As liquidações de posições alavancadas aceleraram a queda, o que mostra como as criptomoedas se comportam como ativos de risco ligados à tecnologia."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-05T07:50:00Z",
   "capa_foto": "oil refinery sunset",
   "capa_titulo": "Petróleo afunda e Wall Street dispara",
