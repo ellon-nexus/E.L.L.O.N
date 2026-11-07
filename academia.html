@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Manual de introdução à bolsa: o que é uma ação, dividendos, ETF, corretoras, câmbios, impostos e muito mais.">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html,body{margin:0}[hidden]{display:none!important}img{max-width:100%}</style>
+<title>Academia da Bolsa</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=Unbounded:wght@500;700&family=Orbitron:wght@500;700&display=swap">
+</head>
+<body>
+<style>
+/* Layout: cabeçalho do E.L.L.O.N; índice dos capítulos com progresso; capítulos em sequência (leitura de cima para baixo); teste final e glossário. */
+:root {
+  --floor: #dfe5ea; --surface: #f5f7f9; --line: #c3ced8; --ink: #18232d; --muted: #566573;
+  --up: #1b7f54; --down: #c2392f; --accent: #2c58d6; --accent-ink: #ffffff; --gold: #b7791f;
+  --tint: rgba(44,88,214,.08); --gold-tint: rgba(183,121,31,.12);
+  --hud: #b8323f; --hud2: #c2565e;
+  --font-display: "Unbounded", "Trebuchet MS", sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --floor: #131a21; --surface: #1b252f; --line: #2c3a47; --ink: #e6edf3; --muted: #8fa1b0; --up: #3ecf8e; --down: #ff6b5e; --accent: #7c9cff; --accent-ink: #0c1320; --gold: #e3b45a; --tint: rgba(124,156,255,.1); --gold-tint: rgba(227,180,90,.12); --hud: #ff9a88; --hud2: #c9606a; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --floor: #131a21; --surface: #1b252f; --line: #2c3a47; --ink: #e6edf3; --muted: #8fa1b0; --up: #3ecf8e; --down: #ff6b5e; --accent: #7c9cff; --accent-ink: #0c1320; --gold: #e3b45a; --tint: rgba(124,156,255,.1); --gold-tint: rgba(227,180,90,.12); --hud: #ff9a88; --hud2: #c9606a; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { background: var(--floor); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.6;
+  padding-block: 20px 48px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.wrap { max-width: 1080px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a { color: var(--accent); }
+
+header { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: flex-end; justify-content: space-between; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(22px, 4.5vw, 32px); line-height: 1.1; margin: 0; text-wrap: balance; }
+.hud { font-family: "Orbitron", var(--font-data); text-transform: uppercase; text-align: right; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+.hclock { font-weight: 500; font-size: clamp(16px, 3vw, 30px); letter-spacing: .14em; color: var(--hud); text-shadow: 0 0 14px rgba(255,74,92,.35); font-variant-numeric: tabular-nums; }
+.hmotto { font-size: clamp(9px, 1vw, 11px); letter-spacing: .22em; color: var(--hud2); }
+@media (max-width: 720px) { .hud { align-items: flex-start; text-align: left; } }
+
+/* índice */
+.index { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px; display: flex; flex-direction: column; gap: 14px; }
+.prog { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.prog .bar { flex: 1 1 200px; height: 10px; border-radius: 999px; background: var(--floor); border: 1px solid var(--line); overflow: hidden; }
+.prog .bar i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--accent), var(--up)); transition: width .5s; }
+.prog .txt { font-family: var(--font-data); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.parts { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; }
+.part h2 { font-family: var(--font-display); font-weight: 500; font-size: 13px; letter-spacing: .02em; margin: 0 0 6px; color: var(--gold); }
+.part ol { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.part a { display: flex; gap: 10px; align-items: baseline; text-decoration: none; color: var(--ink); padding: 5px 8px; border-radius: 8px; font-size: 14.5px; line-height: 1.35; }
+.part a:hover { background: var(--tint); }
+.part a .n { font-family: var(--font-data); font-size: 12px; color: var(--muted); min-width: 20px; }
+.part a.done .t::after { content: " ✓"; color: var(--up); font-weight: 600; }
+
+/* capítulos */
+.partband { font-family: var(--font-display); font-weight: 700; font-size: clamp(16px, 2.6vw, 20px); margin: 14px 0 -6px; display: flex; gap: 12px; align-items: baseline; }
+.partband span { font-family: var(--font-data); font-weight: 400; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--gold); }
+.cap { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: clamp(18px, 3vw, 28px); display: grid; grid-template-columns: 56px minmax(0, 1fr); gap: 4px 18px; scroll-margin-top: 16px; }
+.cap.done { border-color: var(--up); }
+.cap .num { font-family: var(--font-display); font-weight: 700; font-size: 30px; line-height: 1; color: var(--accent); }
+.cap .body { min-width: 0; display: flex; flex-direction: column; gap: 12px; }
+.cap h3 { font-family: var(--font-display); font-weight: 500; font-size: clamp(18px, 2.8vw, 22px); line-height: 1.25; margin: 0; text-wrap: balance; }
+.cap p { margin: 0; max-width: 68ch; }
+.cap ul { margin: 0; padding-left: 20px; max-width: 66ch; display: flex; flex-direction: column; gap: 4px; }
+.lead { font-size: 17px; color: var(--ink); }
+.ex { background: var(--tint); border-radius: 10px; padding: 12px 14px; font-size: 15px; max-width: 70ch; }
+.ex b { font-family: var(--font-data); font-weight: 600; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); display: block; margin-bottom: 4px; }
+.sum { border-left: 3px solid var(--gold); background: var(--gold-tint); border-radius: 0 10px 10px 0; padding: 10px 14px; font-size: 15px; max-width: 70ch; }
+.sum b { color: var(--gold); }
+.tbl { overflow-x: auto; max-width: 100%; }
+table { border-collapse: collapse; font-size: 14px; min-width: 520px; }
+th, td { text-align: left; padding: 7px 12px 7px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-family: var(--font-data); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+td.mono { font-family: var(--font-data); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.duo { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.duo > div { border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.duo h4 { margin: 0; font-size: 15px; }
+.duo p { font-size: 15px; }
+.mark { justify-self: start; grid-column: 2; margin-top: 4px; background: none; border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; font-size: 14px; cursor: pointer; color: var(--muted); }
+.mark:hover { border-color: var(--accent); color: var(--ink); }
+.cap.done .mark { border-color: var(--up); color: var(--up); }
+@media (max-width: 560px) { .cap { grid-template-columns: minmax(0, 1fr); } .cap .num { font-size: 24px; } .mark { grid-column: 1; } }
+
+/* teste */
+.quiz { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: clamp(18px, 3vw, 28px); display: flex; flex-direction: column; gap: 16px; }
+.quiz h2, .gloss h2 { font-family: var(--font-display); font-weight: 500; font-size: clamp(18px, 2.8vw, 22px); margin: 0; }
+.q { display: flex; flex-direction: column; gap: 8px; }
+.q .qt { font-weight: 600; }
+.opts { display: flex; flex-direction: column; gap: 6px; }
+.opt { text-align: left; background: var(--floor); border: 1px solid var(--line); border-radius: 10px; padding: 9px 12px; cursor: pointer; font-size: 15px; line-height: 1.4; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:disabled { cursor: default; }
+.opt.ok { border-color: var(--up); background: color-mix(in srgb, var(--up) 14%, var(--floor)); }
+.opt.no { border-color: var(--down); background: color-mix(in srgb, var(--down) 12%, var(--floor)); }
+.why { font-size: 14.5px; color: var(--muted); }
+.score { font-family: var(--font-data); font-size: 14px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.btn { background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 7px 16px; cursor: pointer; font-size: 14px; }
+.btn:hover { border-color: var(--accent); }
+.btn.primary { align-self: flex-start; background: var(--accent); color: var(--accent-ink); border-color: var(--accent); font-weight: 600; padding: 10px 20px; font-size: 15px; }
+
+/* glossário */
+.gloss { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: clamp(18px, 3vw, 28px); display: flex; flex-direction: column; gap: 12px; }
+.gl { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 10px 24px; margin: 0; }
+.gl div { min-width: 0; }
+.gl dt { font-weight: 600; }
+.gl dd { margin: 0; font-size: 14.5px; color: var(--muted); }
+.note { font-size: 13px; color: var(--muted); margin: 0; max-width: 80ch; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+html { scroll-behavior: smooth; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div style="display:flex;flex-direction:column;gap:8px"><h1>Academia da Bolsa</h1><a href="./" style="font-size:14px;text-decoration:none">← Sala de Mercados</a></div>
+    <div class="hud" aria-live="off">
+      <div class="hclock" id="hclock"></div>
+      <div class="hmotto"><a class="ellon-link" href="./" title="Ir para a Sala de Mercados">E.L.L.O.N</a> · Electronic Living Learning Orbital Nexus</div>
+    </div>
+  </header>
+
+  <nav class="index" aria-label="Capítulos">
+    <div class="prog"><div class="bar" aria-hidden="true"><i id="pbar"></i></div><span class="txt" id="ptxt">0 de 18 capítulos lidos</span></div>
+    <div class="parts" id="parts"></div>
+  </nav>
+
+  <div id="caps"></div>
+
+  <section class="quiz" id="teste" aria-labelledby="qh">
+    <h2 id="qh">Mini teste</h2>
+    <p class="note">Dez perguntas sobre a matéria toda. Leia os capítulos primeiro e depois ponha-se à prova.</p>
+    <button class="btn primary" id="qopen" type="button" aria-expanded="false" aria-controls="qbox">Fazer o mini teste</button>
+    <div id="qbox" hidden style="display:flex;flex-direction:column;gap:18px">
+      <div id="qlist" style="display:flex;flex-direction:column;gap:18px"></div>
+      <div class="score"><span id="qscore">0 de 10 certas</span><button class="btn" id="qreset" type="button">Recomeçar o teste</button></div>
+    </div>
+  </section>
+
+  <section class="gloss" id="glossario" aria-labelledby="gh">
+    <h2 id="gh">Glossário</h2>
+    <dl class="gl" id="gl"></dl>
+  </section>
+
+  <p class="note">Manual de introdução, com informação geral e simplificada. Não é recomendação de investimento. Antes de investir, leia a informação da corretora e de cada produto.</p>
+</div>
+
+<style>
+.ellon-link { display: inline-block; font: 700 19px/1 "Orbitron", ui-monospace, monospace; letter-spacing: .22em; color: #ff1f3d; text-decoration: none; vertical-align: -3px; margin-right: 4px; position: relative;
+  text-shadow: 0 0 3px #ff1f3d, 0 0 9px #ff1f3d, 0 0 20px rgba(255,20,50,.9), 0 0 40px rgba(230,0,40,.7); animation: ellonNeon 4s infinite; transition: transform .2s, filter .2s; }
+.ellon-link:hover, .ellon-link:focus-visible { filter: brightness(1.35); transform: scale(1.06); }
+@keyframes ellonNeon { 0%, 100% { opacity: 1; } 92% { opacity: 1; } 93% { opacity: .55; } 94% { opacity: 1; } 96% { opacity: .7; } 97% { opacity: 1; } }
+.ellon-mail { position: absolute; left: -22px; top: -22px; display: none; align-items: center; gap: 4px; font: 700 11px/1 "Orbitron", ui-monospace, monospace; letter-spacing: .06em; color: #fff; background: #1f6bff; border-radius: 6px; padding: 4px 7px; box-shadow: 0 0 10px rgba(60,140,255,.9), 0 0 24px rgba(31,107,255,.6); animation: ellonMailBob 1.1s ease-in-out infinite; pointer-events: none; text-shadow: none; }
+.ellon-link.has-mail .ellon-mail { display: inline-flex; }
+@keyframes ellonMailBob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+@media (prefers-reduced-motion: reduce) { .ellon-link, .ellon-mail { animation: none; } }
+</style>
+<script>
+(function () {
+  "use strict";
+  function $(id) { return document.getElementById(id); }
+
+  /* ---------- relógio ---------- */
+  function hud() {
+    var o = {}; new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Lisbon", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit", weekday: "short", hourCycle: "h23" }).formatToParts(new Date()).forEach(function (q) { o[q.type] = q.value; });
+    var D = { Sun: "DOMINGO", Mon: "SEGUNDA", Tue: "TERÇA", Wed: "QUARTA", Thu: "QUINTA", Fri: "SEXTA", Sat: "SÁBADO" };
+    $("hclock").textContent = (D[o.weekday] || "") + ", " + o.day + "/" + o.month + ", " + o.hour + ":" + o.minute;
+  }
+  hud(); setInterval(hud, 15000);
+
+  /* ---------- conteúdo ---------- */
+  var PARTS = [
+    { t: "Fundamentos", caps: [1, 2, 3, 4, 5] },
+    { t: "Como se ganha (e se perde) dinheiro", caps: [6, 7, 8, 9, 10] },
+    { t: "Na prática", caps: [11, 12, 13, 14, 15] },
+    { t: "Analisar e decidir", caps: [16, 17, 18] }
+  ];
+  var CAPS = {
+    1: { t: "O que é a bolsa", h: '<p class="lead">A bolsa é um mercado organizado onde se compram e vendem partes de empresas (ações) e outros produtos financeiros. Funciona como uma feira, só que as bancas são ecrãs e quem fecha os negócios são computadores.</p><p>Quem quer vender diz a que preço vende. Quem quer comprar diz quanto paga. Quando os dois preços se encontram, faz-se o negócio. O preço de uma ação muda ao longo do dia por isso mesmo: há mais gente a querer comprar (o preço sobe) ou mais gente a querer vender (o preço desce).</p><p>A bolsa existe para duas coisas: as empresas arranjam dinheiro para crescer, e as pessoas têm um sítio para pôr as poupanças a trabalhar, podendo vender quando precisarem.</p><div class="sum"><b>Em resumo:</b> a bolsa é o sítio onde se trocam partes de empresas. O preço é o que alguém está disposto a pagar naquele momento.</div>' },
+    2: { t: "As bolsas do mundo", h: '<p class="lead">Cada país ou região tem a sua bolsa. As maiores são as dos Estados Unidos, onde estão as empresas mais conhecidas do mundo.</p><div class="tbl"><table><thead><tr><th>Bolsa</th><th>Onde</th><th>Exemplos de empresas</th><th>Horário (hora de Lisboa)</th></tr></thead><tbody><tr><td>NYSE</td><td>Nova Iorque</td><td>Coca-Cola, JPMorgan, Realty Income</td><td class="mono">14h30–21h00</td></tr><tr><td>Nasdaq</td><td>Nova Iorque</td><td>Apple, Microsoft, Nvidia</td><td class="mono">14h30–21h00</td></tr><tr><td>Euronext Lisboa</td><td>Portugal</td><td>EDP, Galp, BCP, Jerónimo Martins</td><td class="mono">08h00–16h30</td></tr><tr><td>Euronext Paris / Amesterdão</td><td>França, Países Baixos</td><td>LVMH, ASML</td><td class="mono">08h00–16h30</td></tr><tr><td>Xetra (Frankfurt)</td><td>Alemanha</td><td>Siemens, SAP; muitos ETF em euros</td><td class="mono">08h00–16h30</td></tr><tr><td>Londres (LSE)</td><td>Reino Unido</td><td>Shell, Unilever; muitos ETF</td><td class="mono">08h00–16h30</td></tr><tr><td>Tóquio</td><td>Japão</td><td>Toyota, Sony</td><td class="mono">00h00–06h30</td></tr><tr><td>Hong Kong e Xangai</td><td>China</td><td>Tencent, Alibaba</td><td class="mono">01h30–08h00</td></tr><tr><td>Toronto (TSX)</td><td>Canadá</td><td>bancos e petrolíferas canadianas</td><td class="mono">14h30–21h00</td></tr></tbody></table></div><p>Os horários são aproximados e mudam uma ou duas semanas por ano, quando a hora de verão muda em datas diferentes nos EUA e na Europa. Muitas empresas grandes estão cotadas em mais de uma bolsa: a mesma ação pode ser comprada em Nova Iorque em dólares ou em Frankfurt em euros.</p><div class="sum"><b>Em resumo:</b> as bolsas americanas abrem às 14h30 de Lisboa; as europeias funcionam durante o nosso horário de trabalho.</div>' },
+    3: { t: "O que é uma ação", h: '<p class="lead">Uma ação é um pedacinho de uma empresa. Quem tem uma ação é dono de uma parte, por mais pequena que seja.</p><div class="ex"><b>Exemplo</b>Uma empresa dividida em 1 milhão de ações. Quem compra 100 ações fica dono de 0,01% da empresa: tem direito a essa parte dos lucros que forem distribuídos e pode votar nas assembleias de acionistas.</div><p>Ser acionista dá três coisas:</p><ul><li><b>Valorização:</b> se a empresa crescer e der mais lucro, a ação tende a valer mais.</li><li><b>Dividendos:</b> parte dos lucros que algumas empresas distribuem pelos acionistas.</li><li><b>Voto:</b> nas assembleias gerais, na proporção das ações que tem.</li></ul><p>Também tem um risco: se a empresa correr mal, a ação perde valor, e se a empresa falir pode valer zero. O máximo que se perde é o que se investiu.</p><div class="sum"><b>Em resumo:</b> comprar uma ação é tornar-se sócio de uma empresa, nos bons e nos maus momentos.</div>' },
+    4: { t: "Porque é que as empresas entram em bolsa", h: '<p class="lead">Uma empresa que precisa de muito dinheiro pode pedir ao banco (e paga juros) ou vender partes de si mesma a investidores (e não paga juros, mas passa a ter mais donos).</p><p>Entrar em bolsa serve para:</p><ul><li><b>Arranjar dinheiro</b> para construir fábricas, abrir lojas, investigar ou comprar outras empresas.</li><li><b>Permitir que os fundadores e os primeiros investidores vendam</b> parte da sua posição e recebam pelo trabalho de anos.</li><li><b>Ganhar visibilidade e credibilidade:</b> uma empresa cotada tem de publicar as contas e é mais conhecida.</li><li><b>Pagar aos trabalhadores com ações,</b> o que ajuda a atrair talento.</li></ul><p>Em troca, a empresa passa a ter obrigações: publicar resultados a cada três meses, ser vigiada pelo regulador (em Portugal, a CMVM) e explicar as decisões aos acionistas.</p><div class="sum"><b>Em resumo:</b> as empresas vão à bolsa buscar dinheiro dos investidores, em troca de partes de si mesmas e de mais transparência.</div>' },
+    5: { t: "O que é um IPO", h: '<p class="lead">IPO quer dizer «oferta pública inicial»: é o dia em que uma empresa entra em bolsa e vende ações ao público pela primeira vez.</p><p>Antes do IPO, os bancos que organizam a operação ajudam a fixar um preço. No primeiro dia de negociação, o preço pode subir muito (se houver muita procura) ou cair abaixo do preço da oferta (se a procura for fraca).</p><div class="ex"><b>Exemplo</b>Uma empresa entra em bolsa a 20 € por ação. No primeiro dia, há tanta gente a querer comprar que a ação abre a 28 €. Quem conseguiu ações na oferta ganhou logo 40%. Mas também há IPO que, meses depois, valem metade.</div><p>Cuidados com os IPO: a empresa ainda tem pouco historial em bolsa, o entusiasmo inicial costuma exagerar o preço, e os primeiros donos podem vender muitas ações alguns meses depois (no fim do chamado «período de bloqueio»), o que pressiona o preço.</p><div class="sum"><b>Em resumo:</b> o IPO é a estreia em bolsa. Pode dar grandes ganhos, mas também é das fases mais incertas.</div>' },
+    6: { t: "Como se ganha dinheiro com ações", h: '<p class="lead">Há duas formas: a ação valer mais quando a vende (mais-valia) e receber dividendos enquanto a tem.</p><div class="ex"><b>Exemplo</b>Compra 10 ações a 50 € (500 €). Dois anos depois vende-as a 65 € (650 €). Ganhou 150 € de mais-valia, ou 30%. Se pelo caminho recebeu 2 € por ação em dividendos, ganhou mais 20 €.</div><p>E também se pode perder: se as vender a 40 €, perde 100 €. Enquanto não vende, o ganho ou a perda é só «no papel»; só se torna real quando vende.</p><p>O tempo é o maior aliado de quem investe. Em períodos curtos, a bolsa sobe e desce sem razão aparente. Em períodos de 10 ou mais anos, as bolsas dos países desenvolvidos têm tendido a subir, porque as empresas crescem e dão lucro. Isso não é garantido, mas é o padrão histórico.</p><div class="sum"><b>Em resumo:</b> ganha-se com a subida do preço e com os dividendos. Paciência e prazos longos jogam a favor.</div>' },
+    7: { t: "Dividendos", h: '<p class="lead">Um dividendo é uma parte do lucro que a empresa entrega aos acionistas, em dinheiro, normalmente a cada três meses, seis meses ou uma vez por ano. Algumas pagam todos os meses.</p><p>Nem todas as empresas pagam. As que estão a crescer depressa preferem guardar o lucro para investir. As empresas maduras e estáveis (eletricidade, água, alimentação, bancos) costumam pagar.</p><p>Há duas datas que interessam:</p><ul><li><b>Data ex-dividendo:</b> para receber, tem de ter a ação <i>antes</i> deste dia. Quem compra nesse dia ou depois já não recebe esse pagamento.</li><li><b>Data de pagamento:</b> o dia em que o dinheiro entra na conta, normalmente algumas semanas depois.</li></ul><div class="ex"><b>Exemplo</b>Tem 100 ações de uma empresa que paga 0,50 € por ação a cada trimestre. Recebe 50 € brutos de três em três meses, 200 € por ano. Em Portugal, ao valor bruto tira-se 28% de imposto.</div><p>No dia ex-dividendo, o preço da ação costuma descer mais ou menos o valor do dividendo, porque esse dinheiro sai da empresa. Por isso, comprar uma ação só para apanhar o dividendo não dá lucro garantido.</p><div class="sum"><b>Em resumo:</b> os dividendos são um rendimento regular. Reinvesti-los faz a bola de neve crescer com o tempo.</div>' },
+    8: { t: "Ações defensivas", h: '<p class="lead">São ações de empresas que vendem coisas de que as pessoas precisam sempre, haja crise ou não. Por isso os lucros mexem pouco e as ações costumam cair menos quando a bolsa está má.</p><p>Setores típicos:</p><ul><li><b>Eletricidade, gás e água</b> (as chamadas «utilities»): toda a gente paga a conta da luz.</li><li><b>Alimentação, bebidas e produtos de higiene:</b> pasta de dentes, detergente, comida.</li><li><b>Saúde:</b> medicamentos e hospitais.</li><li><b>Imobiliário de rendas</b> (REIT): empresas que recebem rendas de lojas, armazéns ou escritórios.</li></ul><p>Normalmente pagam dividendos regulares e sobem devagar. O lado menos bom: nos anos de euforia, ficam para trás das ações de crescimento. E são sensíveis aos juros, porque costumam ter muita dívida.</p><div class="sum"><b>Em resumo:</b> as defensivas dão estabilidade e rendimento. Não enriquecem depressa, mas também não tiram o sono.</div>' },
+    9: { t: "Ações especulativas", h: '<p class="lead">São ações de empresas cujo preço depende sobretudo do que se espera que venham a ser, e não do que lucram hoje. Podem multiplicar de valor ou perder quase tudo.</p><p>Exemplos típicos: empresas jovens de tecnologia que ainda não dão lucro, biotecnológicas à espera de aprovação de um medicamento, mineiras à procura de um jazigo, empresas de setores novos (energia nuclear pequena, viagens espaciais, inteligência artificial).</p><ul><li>O preço pode subir ou descer 10% ou 20% num só dia.</li><li>Muitas vezes não pagam dividendos.</li><li>Notícias e modas mexem muito com elas.</li></ul><div class="ex"><b>Regra prática</b>Muitos investidores reservam só uma parte pequena da carteira (por exemplo 5% a 10%) para este tipo de ações, e só com dinheiro que aceitam perder.</div><div class="sum"><b>Em resumo:</b> as especulativas são apostas no futuro. Podem correr muito bem, mas o risco é muito maior.</div>' },
+    10: { t: "ETF: um cesto de ações", h: '<p class="lead">Um ETF é um fundo que se compra e vende na bolsa como se fosse uma ação, mas que tem lá dentro dezenas ou centenas de empresas.</p><div class="ex"><b>Exemplo</b>Um ETF do S&amp;P 500 tem as 500 maiores empresas americanas. Com uma só compra, fica com um bocadinho de todas. Se uma correr mal, quase não se nota.</div><ul><li><b>Vantagens:</b> diversificação imediata, custos baixos (a gestão custa por ano, tipicamente, entre 0,05% e 0,50% do valor) e simplicidade.</li><li><b>De acumulação:</b> os dividendos não são pagos; ficam dentro do fundo e são reinvestidos.</li><li><b>De distribuição:</b> os dividendos são pagos ao investidor.</li></ul><p>Para quem está a começar, um ETF que replica um índice largo (o S&amp;P 500, a Europa ou o mundo inteiro) é muitas vezes o primeiro passo mais simples.</p><div class="sum"><b>Em resumo:</b> um ETF dá-lhe muitas empresas de uma vez, com pouco custo e menos risco do que escolher ações soltas.</div>' },
+    11: { t: "As corretoras", h: '<p class="lead">Ninguém compra ações diretamente na bolsa. É preciso uma corretora: a empresa que recebe a ordem, executa-a na bolsa e guarda as ações em nome do cliente.</p><p>Hoje quase tudo se faz por aplicação no telemóvel. Há bancos portugueses com serviço de bolsa e corretoras online europeias, normalmente mais baratas.</p><p>O que ver antes de escolher:</p><ul><li><b>Regulação:</b> tem de estar autorizada na União Europeia e registada na CMVM para operar em Portugal.</li><li><b>Comissões:</b> quanto cobra por cada compra e venda, pela conversão de moeda e se tem custos mensais ou de inatividade.</li><li><b>Produtos:</b> que bolsas e que ações e ETF tem disponíveis.</li><li><b>Proteção do investidor:</b> as ações são do cliente e ficam separadas do dinheiro da corretora. Se a corretora falir, existe um fundo de garantia que, na UE, cobre pelo menos 20 000 € de perdas por cliente.</li><li><b>Documentos fiscais:</b> se dá um extrato anual que ajude a preencher o IRS.</li></ul><div class="ex"><b>Cuidado</b>Muitas aplicações oferecem também CFD: produtos com alavancagem, em que se aposta na subida ou descida sem ter a ação. A maioria dos clientes perde dinheiro com eles. Para começar, fique pelas ações e ETF normais.</div><div class="sum"><b>Em resumo:</b> a corretora é a porta de entrada. Escolha uma regulada, barata e simples de usar.</div>' },
+    12: { t: "Câmbios: comprar noutras moedas", h: '<p class="lead">As ações americanas negociam em dólares, as inglesas em libras, as suíças em francos. Quem tem a conta em euros tem de converter o dinheiro, e o câmbio passa a influenciar o resultado.</p><div class="ex"><b>Exemplo</b>Com o euro a 1,10 dólares, 1 100 € compram 1 210 $ de ações. Um ano depois as ações valem exatamente o mesmo, 1 210 $, mas o euro subiu para 1,21 dólares. Ao converter de volta, recebe só 1 000 €: perdeu 100 € sem a ação ter mexido. Se o dólar tivesse subido em vez de descer, teria ganho.</div><ul><li><b>Custo da conversão:</b> as corretoras cobram uma pequena percentagem em cada troca (de 0,15% a mais de 1%, conforme a corretora). Vale a pena comparar.</li><li><b>Ações duplicadas em euros:</b> muitas ações e ETF estrangeiros também estão cotados em bolsas europeias, em euros. Isso evita a conversão na compra, mas o risco do câmbio continua lá dentro, porque a empresa ganha o dinheiro em dólares.</li><li><b>No longo prazo,</b> as subidas e descidas das moedas tendem a compensar-se em parte. No curto prazo podem pesar bastante.</li></ul><div class="sum"><b>Em resumo:</b> investir fora da zona euro tem um risco extra, a moeda. Conte com o custo da conversão e com as oscilações.</div>' },
+    13: { t: "Como se dá uma ordem", h: '<p class="lead">Uma ordem é a instrução que dá à corretora para comprar ou vender. Há três tipos que servem para quase tudo.</p><div class="duo"><div><h4>Ordem a mercado</h4><p>Compra ou vende já, ao melhor preço disponível nesse momento. É rápida, mas o preço final pode ser ligeiramente diferente do que via no ecrã.</p></div><div><h4>Ordem limite</h4><p>Só compra até um preço máximo (ou só vende a partir de um preço mínimo) que escolhe. Pode demorar ou nunca chegar a ser executada.</p></div><div><h4>Ordem stop</h4><p>Fica à espera e dispara quando o preço chega a um certo valor. Usa-se muito para limitar perdas: «se cair até X, vende».</p></div></div><div class="ex"><b>Exemplo</b>A ação está a 52 €, mas quer pagar no máximo 50 €. Coloca uma ordem limite de compra a 50 €. Se a ação descer até lá, a compra faz-se. Se não descer, não compra e o dinheiro fica na conta.</div><p>Dois conceitos que aparecem no ecrã: o <b>preço de compra</b> (o que paga) é sempre um pouco mais alto do que o <b>preço de venda</b> (o que recebe). A diferença chama-se spread e é maior em ações pouco negociadas ou fora de horas.</p><div class="sum"><b>Em resumo:</b> para começar, as ordens limite dão mais controlo sobre o preço que paga.</div>' },
+    14: { t: "Liquidação: quando o negócio fica fechado", h: '<p class="lead">Quando compra uma ação, o negócio fica feito em segundos, mas a troca oficial do dinheiro pelas ações (a liquidação) só se completa um ou dois dias úteis depois.</p><ul><li><b>Nos Estados Unidos:</b> um dia útil depois da compra (T+1).</li><li><b>Na Europa:</b> dois dias úteis depois (T+2).</li></ul><p>Na prática, quase não se nota: a ação aparece logo na aplicação. Mas conta para os dividendos (para receber, o registo tem de estar feito a tempo) e para levantar o dinheiro de uma venda, que pode demorar esses dias a ficar disponível.</p><p>A palavra liquidação também aparece noutros dois sentidos que convém conhecer:</p><ul><li><b>Liquidação forçada:</b> em produtos com alavancagem (dinheiro emprestado ou CFD), se as perdas forem grandes, a corretora fecha a posição sozinha. Com ações normais compradas com o seu dinheiro, isto não acontece.</li><li><b>Liquidação de uma empresa:</b> quando uma empresa fecha ou vai à falência, vende tudo o que tem e paga primeiro aos credores. Os acionistas são os últimos e muitas vezes não recebem nada.</li></ul><div class="sum"><b>Em resumo:</b> as compras e vendas ficam oficialmente fechadas em 1 a 2 dias úteis. Sem alavancagem, ninguém lhe vende as ações à força.</div>' },
+    15: { t: "Impostos em Portugal", h: '<p class="lead">Os ganhos com ações pagam IRS. A regra geral é simples: 28% sobre o lucro.</p><ul><li><b>Mais-valias:</b> paga 28% sobre a diferença entre o preço de venda e o de compra, contando as comissões. As perdas do mesmo ano descontam nos ganhos.</li><li><b>Dividendos:</b> 28% sobre o valor bruto. Nas ações estrangeiras, o país da empresa costuma reter uma parte (nos EUA, 15%, se preencher o formulário W-8BEN na corretora), que depois desconta no imposto português.</li><li><b>Englobamento:</b> em vez dos 28% fixos, pode juntar estes rendimentos ao salário e pagar à taxa do seu escalão. Compensa a quem ganha pouco; o simulador do Portal das Finanças ajuda a decidir.</li><li><b>Corretoras estrangeiras:</b> não retêm o imposto português. O investidor declara tudo no IRS do ano seguinte (anexo J) e paga lá.</li></ul><div class="ex"><b>Exemplo</b>Comprou ações por 1 000 € e vendeu-as por 1 400 €. O lucro é 400 €; o imposto é 28% de 400 €, ou seja 112 €. Se vender em janeiro em vez de dezembro, o imposto só é pago no IRS do ano a seguir.</div><div class="sum"><b>Em resumo:</b> lucros e dividendos pagam 28%. Guarde os extratos da corretora: são eles que permitem preencher o IRS.</div>' },
+    16: { t: "Análise fundamental", h: '<p class="lead">É estudar a empresa em si: o negócio, as contas e a gestão, para perceber quanto ela vale e se o preço na bolsa está caro ou barato.</p><p>Perguntas que a análise fundamental tenta responder:</p><ul><li>Como ganha dinheiro a empresa e se as vendas e os lucros estão a crescer.</li><li>Se tem muita dívida.</li><li>Se tem vantagens difíceis de copiar: uma marca forte, patentes, clientes que não mudam facilmente.</li><li>Quem são os concorrentes e se a empresa está a ganhar ou a perder terreno.</li><li>Se a administração é competente e de confiança.</li><li>Se o preço da ação é razoável face aos lucros que a empresa gera.</li></ul><p>É a forma de pensar de quem investe a longo prazo: comprar boas empresas a preços razoáveis e esperar.</p><div class="sum"><b>Em resumo:</b> a análise fundamental olha para a empresa. Pergunta «isto é um bom negócio e está a bom preço?».</div>' },
+    17: { t: "Análise técnica", h: '<p class="lead">É estudar o gráfico do preço da ação, e não a empresa, para tentar prever para onde o preço vai a seguir.</p><p>Parte da ideia de que o comportamento dos investidores se repete e deixa marcas no gráfico. Usa coisas como:</p><ul><li><b>Tendências:</b> se o preço tem feito subidas e descidas cada vez mais altas, ou cada vez mais baixas.</li><li><b>Suportes e resistências:</b> níveis de preço onde a ação parou de cair ou de subir várias vezes.</li><li><b>Médias móveis:</b> a média do preço dos últimos 50 ou 200 dias, para ver a tendência sem o ruído do dia a dia.</li><li><b>Volume:</b> quantas ações se trocaram; um movimento com muito volume é levado mais a sério.</li></ul><p>É mais usada por quem compra e vende em prazos curtos. Muitos investidores de longo prazo usam-na só para escolher um bom momento de entrada numa empresa que já escolheram pela análise fundamental.</p><div class="sum"><b>Em resumo:</b> a análise técnica olha para o gráfico. Pergunta «qual é um bom momento para comprar ou vender?».</div>' },
+    18: { t: "Riscos e regras de ouro", h: '<p class="lead">A bolsa pode fazer crescer as poupanças, mas também pode fazer perder dinheiro. Estas regras protegem quem começa.</p><ul><li><b>Primeiro, uma reserva de emergência:</b> 3 a 6 meses de despesas numa conta à ordem ou a prazo, fora da bolsa.</li><li><b>Só invista o que não vai precisar nos próximos anos.</b> Ter de vender numa queda é a forma mais comum de perder.</li><li><b>Diversifique:</b> várias empresas, vários setores, vários países. Um ETF largo faz isto por si.</li><li><b>Invista aos poucos:</b> uma quantia todos os meses, em vez de tudo de uma vez. Assim compra a preços médios e não depende de acertar no momento.</li><li><b>Pense em anos, não em dias.</b> Quedas de 10% a 20% acontecem com frequência; de 30% ou mais, algumas vezes por década.</li><li><b>Desconfie de promessas fáceis:</b> rendimentos garantidos, «oportunidades únicas», contactos inesperados por telefone ou redes sociais. São sinais clássicos de burla. Na dúvida, consulte a lista de entidades autorizadas no site da CMVM.</li><li><b>Perceba o que compra.</b> Se não consegue explicar em duas frases o que a empresa faz, espere até saber.</li></ul><div class="sum"><b>Em resumo:</b> reserva primeiro, diversificação sempre, paciência acima de tudo.</div>' }
+  };
+
+  /* ---------- progresso (fica só neste navegador) ---------- */
+  var KEY = "academia-lidos-v1", read = {};
+  try { read = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { read = {}; }
+  function saveRead() { try { localStorage.setItem(KEY, JSON.stringify(read)); } catch (e) {} }
+
+  var parts = $("parts"), caps = $("caps"), total = 0;
+  PARTS.forEach(function (p, pi) {
+    var box = document.createElement("div"); box.className = "part";
+    var h = document.createElement("h2"); h.textContent = "Parte " + ["I", "II", "III", "IV"][pi] + " · " + p.t; box.appendChild(h);
+    var ol = document.createElement("ol");
+    var band = document.createElement("h2"); band.className = "partband"; band.innerHTML = '<span></span>'; band.querySelector("span").textContent = "Parte " + ["I", "II", "III", "IV"][pi]; band.appendChild(document.createTextNode(p.t)); caps.appendChild(band);
+    p.caps.forEach(function (n) {
+      total++; var c = CAPS[n];
+      var li = document.createElement("li"), a = document.createElement("a"); a.href = "#cap-" + n; a.id = "nav-" + n;
+      a.innerHTML = '<span class="n"></span><span class="t"></span>'; a.querySelector(".n").textContent = n; a.querySelector(".t").textContent = c.t;
+      li.appendChild(a); ol.appendChild(li);
+      var s = document.createElement("section"); s.className = "cap"; s.id = "cap-" + n; s.setAttribute("aria-labelledby", "h-" + n);
+      s.innerHTML = '<div class="num" aria-hidden="true">' + n + '</div><div class="body"><h3 id="h-' + n + '"></h3>' + c.h + '</div><button class="mark" type="button" id="mk-' + n + '"></button>';
+      s.querySelector("h3").textContent = c.t;
+      s.querySelector(".mark").addEventListener("click", function () { if (read[n]) delete read[n]; else read[n] = 1; saveRead(); paint(); });
+      caps.appendChild(s);
+    });
+    box.appendChild(ol); parts.appendChild(box);
+  });
+  caps.style.cssText = "display:flex;flex-direction:column;gap:14px";
+  function paint() {
+    var k = 0;
+    Object.keys(CAPS).forEach(function (n) {
+      var on = !!read[n]; if (on) k++;
+      $("cap-" + n).classList.toggle("done", on); $("nav-" + n).classList.toggle("done", on);
+      $("mk-" + n).textContent = on ? "Lido ✓ (tocar para desmarcar)" : "Marcar como lido";
+    });
+    $("pbar").style.width = (k / total * 100) + "%";
+    $("ptxt").textContent = k + " de " + total + (total === 1 ? " capítulo lido" : " capítulos lidos") + (k === total ? " · pronto para o teste final" : "");
+  }
+  paint();
+
+  /* ---------- teste final ---------- */
+  var QS = [
+    ["O que é uma ação?", ["Um empréstimo a uma empresa, com juro fixo", "Uma pequena parte de uma empresa", "Um depósito no banco"], 1, "Quem tem uma ação é sócio da empresa, com direito a parte dos lucros distribuídos e a voto."],
+    ["A que horas de Lisboa abrem, normalmente, as bolsas de Nova Iorque?", ["08h00", "14h30", "21h00"], 1, "A NYSE e a Nasdaq abrem às 9h30 de Nova Iorque, ou seja 14h30 em Lisboa (com diferenças em algumas semanas por causa da mudança de hora)."],
+    ["Para receber um dividendo, tem de ter a ação…", ["antes da data ex-dividendo", "no dia do pagamento", "até ao fim do ano"], 0, "Quem compra na data ex-dividendo ou depois já não recebe esse pagamento."],
+    ["Que tipo de empresa é mais «defensiva»?", ["Uma startup de biotecnologia sem lucros", "Uma empresa de distribuição de água", "Uma mineira à procura de ouro"], 1, "Água, luz, comida e medicamentos são precisos haja crise ou não, por isso os lucros mexem pouco."],
+    ["O que é um IPO?", ["A entrada de uma empresa em bolsa", "A falência de uma empresa", "O pagamento de um dividendo extra"], 0, "IPO é a oferta pública inicial: a primeira vez que a empresa vende ações ao público."],
+    ["Comprou ações americanas e o dólar desvalorizou face ao euro. O que acontece, em euros?", ["Ganha com isso", "Perde com isso, mesmo que a ação não mexa", "Não faz diferença"], 1, "Os mesmos dólares valem menos euros. O câmbio é um risco extra de investir fora da zona euro."],
+    ["Uma ordem limite de compra a 50 €…", ["compra já, a qualquer preço", "só compra se o preço chegar aos 50 € ou menos", "vende automaticamente se cair abaixo de 50 €"], 1, "A ordem limite fixa o preço máximo que está disposto a pagar."],
+    ["Qual é a taxa geral de imposto sobre mais-valias e dividendos em Portugal?", ["15%", "28%", "48%"], 1, "A taxa liberatória é 28%. Pode optar por englobar estes rendimentos com o salário, se compensar."],
+    ["A análise que estuda o gráfico do preço é a…", ["análise fundamental", "análise técnica", "análise fiscal"], 1, "A técnica olha para o gráfico; a fundamental olha para a empresa e as contas."],
+    ["Qual destas é uma boa regra para quem começa?", ["Investir as poupanças de emergência para render mais", "Pôr tudo numa só ação promissora", "Ter primeiro uma reserva e diversificar"], 2, "Reserva de emergência primeiro, depois investir com diversificação e paciência."]
+  ];
+  var right = 0, answered = 0;
+  function buildQuiz() {
+    var list = $("qlist"); list.textContent = ""; right = 0; answered = 0; $("qscore").textContent = "0 de " + QS.length + " certas";
+    QS.forEach(function (q, qi) {
+      var d = document.createElement("div"); d.className = "q";
+      var t = document.createElement("div"); t.className = "qt"; t.textContent = (qi + 1) + ". " + q[0]; d.appendChild(t);
+      var o = document.createElement("div"); o.className = "opts";
+      var why = document.createElement("div"); why.className = "why"; why.hidden = true; why.textContent = q[3];
+      q[1].forEach(function (txt, oi) {
+        var b = document.createElement("button"); b.type = "button"; b.className = "opt"; b.id = "q" + qi + "o" + oi; b.textContent = txt;
+        b.addEventListener("click", function () {
+          var all = o.querySelectorAll("button"); all.forEach(function (x) { x.disabled = true; });
+          all[q[2]].classList.add("ok"); if (oi !== q[2]) b.classList.add("no"); else right++;
+          answered++; why.hidden = false;
+          $("qscore").textContent = right + " de " + QS.length + " certas" + (answered === QS.length ? (right >= 8 ? " · muito bem!" : right >= 5 ? " · bom começo" : " · vale a pena reler alguns capítulos") : "");
+        });
+        o.appendChild(b);
+      });
+      d.appendChild(o); d.appendChild(why); list.appendChild(d);
+    });
+  }
+  buildQuiz(); $("qreset").addEventListener("click", buildQuiz);
+  $("qopen").addEventListener("click", function () { var b = $("qbox"), open = b.hidden; b.hidden = !open; this.setAttribute("aria-expanded", open ? "true" : "false"); this.textContent = open ? "Fechar o mini teste" : "Fazer o mini teste"; if (open) { try { b.scrollIntoView({ block: "start", behavior: "smooth" }); } catch (e) {} } });
+
+  /* ---------- glossário ---------- */
+  var GL = [
+    ["Ação", "Parte do capital de uma empresa."], ["Acionista", "Dono de ações de uma empresa."], ["Bolsa", "Mercado organizado onde se negoceiam ações e outros produtos."],
+    ["Carteira", "Conjunto de todos os investimentos de uma pessoa."], ["Câmbio", "Preço de uma moeda noutra (ex.: 1 € = 1,12 $)."], ["CMVM", "Comissão do Mercado de Valores Mobiliários, o regulador da bolsa em Portugal."],
+    ["Corretora", "Empresa que executa as ordens de compra e venda e guarda as ações do cliente."], ["Cotação", "Preço de uma ação num dado momento."], ["Data ex-dividendo", "A partir deste dia, quem compra a ação já não recebe o próximo dividendo."],
+    ["Diversificar", "Repartir o dinheiro por vários investimentos para reduzir o risco."], ["Dividendo", "Parte do lucro distribuída aos acionistas."], ["ETF", "Fundo negociado em bolsa que junta muitas ações num só produto."],
+    ["Índice", "Conjunto de ações que mede um mercado (ex.: S&P 500, PSI, Euro Stoxx 50)."], ["IPO", "Entrada de uma empresa em bolsa."], ["Liquidação", "Troca oficial do dinheiro pelas ações, 1 a 2 dias úteis depois do negócio."],
+    ["Mais-valia", "Lucro entre o preço de venda e o de compra."], ["Ordem limite", "Ordem que só é executada a um preço igual ou melhor do que o escolhido."], ["Spread", "Diferença entre o preço de compra e o de venda no ecrã."],
+    ["Volatilidade", "Quanto o preço sobe e desce; muita volatilidade significa mais risco."], ["Utilities", "Empresas de eletricidade, gás e água, típicas ações defensivas."]
+  ];
+  var gl = $("gl");
+  GL.forEach(function (g) { var w = document.createElement("div"), dt = document.createElement("dt"), dd = document.createElement("dd"); dt.textContent = g[0]; dd.textContent = g[1]; w.appendChild(dt); w.appendChild(dd); gl.appendChild(w); });
+})();
+</script>
+
+</body>
+</html>

@@ -61,6 +61,8 @@ a { color: var(--accent); }
 h1 { font-family: var(--display); font-weight: 700; font-size: clamp(22px, 4.5vw, 32px); line-height: 1.1; margin: 0; text-wrap: balance; }
 .edition { font-family: var(--data); font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 2px 14px; margin-top: 6px; }
 .edition b { color: var(--gold); font-weight: 600; }
+.acad { display: inline-flex; align-items: center; margin-top: 10px; font-family: var(--body); font-size: 14px; font-weight: 600; color: var(--accent); text-decoration: none; border: 1px solid var(--rule); border-radius: 999px; padding: 6px 14px; background: var(--sheet); }
+.acad:hover { border-color: var(--accent); }
 .hud { font-family: "Orbitron", var(--data); text-transform: uppercase; text-align: right; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
 .hclock { font-weight: 500; font-size: clamp(16px, 3vw, 30px); letter-spacing: .14em; color: var(--hud); text-shadow: 0 0 14px rgba(255,74,92,.35); font-variant-numeric: tabular-nums; }
 .hmotto { font-size: clamp(9px, 1vw, 11px); letter-spacing: .22em; color: var(--hud2); }
@@ -160,6 +162,7 @@ h2 { font-family: var(--display); font-weight: 700; font-size: 19px; margin: 0; 
       <p class="kicker">E.L.L.O.N · Notícias dos mercados</p>
       <h1>Sala de Mercados</h1>
       <div class="edition" aria-live="polite"><span>Edição <b id="ed">—</b></span><span id="nx">Nova edição nos dias úteis, 7h23</span></div>
+      <a class="acad" href="academia.html">Academia da Bolsa · aprenda o básico →</a>
     </div>
     <div class="hud" aria-live="off">
       <div class="hclock" id="hclock"></div>
