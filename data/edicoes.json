@@ -1,5 +1,172 @@
 [
  {
+  "asOf": "2026-11-09T07:55:00Z",
+  "capa_foto": "supermarket shopping cart prices",
+  "capa_titulo": "Salários perdem para os preços, e agora?",
+  "id": "2026-11-09",
+  "ideas": [
+   {
+    "market": "EUA · Nasdaq",
+    "name": "Lam Research",
+    "risks": "O setor pode continuar a ser vendido se a política contra a inteligência artificial e os juros em alta pesarem mais do que os resultados.",
+    "sources": [
+     {
+      "title": "Schwab, 06/11/2026",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+     },
+     {
+      "title": "Trading Economics, exportações da China",
+      "url": "https://tradingeconomics.com/china/exports-yoy/news/500042"
+     }
+    ],
+    "tag": "Semicondutores",
+    "thesis": "Subia cerca de 11% antes da abertura de sexta depois de autorizar uma recompra de ações de 25 mil milhões de dólares, num momento em que os semicondutores estão cerca de 30% abaixo dos máximos. A China exportou chips a um ritmo recorde em setembro, o que mostra procura forte pela cadeia de equipamentos.",
+    "ticker": "LRCX"
+   },
+   {
+    "market": "EUA · Nasdaq",
+    "name": "Applied Materials",
+    "risks": "Resultados abaixo do esperado ou aviso fraco podem prolongar a queda do setor.",
+    "sources": [
+     {
+      "title": "Schwab, 06/11/2026",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+     }
+    ],
+    "tag": "Equipamentos de chips",
+    "thesis": "Apresenta resultados na quinta-feira, 12 de novembro, depois do fecho, numa semana em que o setor ainda está cerca de 30% abaixo dos picos. O caso de estudo é saber se os fabricantes continuam a investir em fábricas apesar da volatilidade.",
+    "ticker": "AMAT"
+   },
+   {
+    "market": "EUA · NYSE",
+    "name": "Constellation Energy",
+    "risks": "A política dos centros de dados e o preço da energia podem mudar rapidamente a perspetiva.",
+    "sources": [
+     {
+      "title": "Schwab, 06/11/2026",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+     }
+    ],
+    "tag": "Eletricidade",
+    "thesis": "Apresenta resultados esta segunda-feira de manhã. Interessa a quem estuda a ligação entre a inteligência artificial e a procura de eletricidade, uma das ideias que sustenta o setor de utilities.",
+    "ticker": "CEG"
+   },
+   {
+    "market": "EUA · NYSE Arca",
+    "name": "SPDR Gold Shares",
+    "risks": "O ouro não paga dividendos e pode cair se a Fed subir juros mais do que o esperado e o dólar se fortalecer.",
+    "sources": [
+     {
+      "title": "Schwab, 06/11/2026",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+     },
+     {
+      "title": "NordFX, previsão 9–13/11/2026",
+      "url": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-09-13-2026"
+     }
+    ],
+    "tag": "Ouro",
+    "thesis": "O ouro subiu 5% na semana para cerca de 4 080 dólares por onça, enquanto as bolsas e as obrigações oscilavam com a Fed e a inteligência artificial. Serve para estudar a proteção da carteira em períodos de inflação alta.",
+    "ticker": "GLD"
+   },
+   {
+    "market": "EUA · Nasdaq",
+    "name": "iShares Bitcoin Trust",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor e não paga dividendos.",
+    "sources": [
+     {
+      "title": "Schwab, 06/11/2026",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+     },
+     {
+      "title": "NordFX, previsão 9–13/11/2026",
+      "url": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-09-13-2026"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O bitcoin fechou a semana nos 76 038 dólares, o nível mais baixo desde setembro, depois de ter caído cerca de 5% na quinta com a venda de tecnologia. Estudar um fundo cotado de bitcoin ajuda a perceber como o preço reage às bolsas e aos juros.",
+    "ticker": "IBIT"
+   }
+  ],
+  "legenda": "Os salários nos EUA sobem 3,1% mas os preços 3,7%, e o mercado já conta com uma possível subida de juros da Fed em dezembro. O petróleo teve a maior queda semanal desde a pandemia, com o Brent nos 97,75 dólares, enquanto a China bateu um recorde de exportações impulsionado pelos chips. O bitcoin caiu para os 76 mil dólares. Esta semana, a inflação americana sai terça-feira e vários países divulgam os seus números.\n\n#mercados #economia #bolsa #inflacao #petroleo #china #bitcoin #markets #finance #investing",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "cashier supermarket checkout",
+    "tag": "Economia",
+    "texto": "Nos EUA, o poder de compra continua a encolher mesmo com 165 mil novos empregos. A Fed pode subir juros em dezembro.",
+    "tipo": "noticia",
+    "titulo": "Salários sobem 3,1%, preços 3,7%"
+   },
+   {
+    "foto": "gas station fuel pump",
+    "tag": "Energia",
+    "texto": "O Brent fechou a 97,75 dólares, a maior queda semanal desde a pandemia. Pode aliviar a gasolina, mas os preços seguem altos.",
+    "tipo": "noticia",
+    "titulo": "Petróleo cai 13,6% numa semana"
+   },
+   {
+    "foto": "container port cranes cargo",
+    "tag": "China",
+    "texto": "Subiram 36,3% em setembro, para 447 mil milhões de dólares, com chips e eletrónica à frente.",
+    "tipo": "noticia",
+    "titulo": "Exportações da China batem recorde"
+   },
+   {
+    "foto": "bitcoin coin closeup",
+    "tag": "Cripto",
+    "texto": "É o preço mais baixo desde setembro, em linha com a venda de ações de tecnologia.",
+    "tipo": "noticia",
+    "titulo": "Bitcoin cai para os 76 mil dólares"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Schwab, 06/11/2026",
+    "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+   },
+   {
+    "title": "Comprehensive Analysis, 09/11/2026",
+    "url": "https://analysisofficial.substack.com/p/global-macro-week-ahead-nov-913-2026"
+   },
+   {
+    "title": "NordFX, previsão 9–13/11/2026",
+    "url": "https://nordfx.com/market-news/forex-cryptocurrency-forecast-november-09-13-2026"
+   },
+   {
+    "title": "Trading Economics, exportações da China",
+    "url": "https://tradingeconomics.com/china/exports-yoy/news/500042"
+   }
+  ],
+  "summary": "Há uma conta simples que explica o mau humor de muita gente: nos Estados Unidos os salários subiram 3,1% num ano e os preços 3,7%, ou seja, quem trabalha compra menos do que há doze meses. É nesse cenário que o mercado de trabalho surpreendeu com 165 mil novos empregos e que a Reserva Federal pode subir juros em dezembro, o que encarece o crédito em todo o mundo. Ao mesmo tempo, o petróleo teve a maior queda semanal desde a pandemia, o que alivia as bombas de gasolina, e a China exportou como nunca graças aos chips. Esta semana, com a inflação a ser conhecida em vários países, vai dizer se o alívio da energia chega às carteiras.",
+  "themes": [
+   {
+    "t": "Salários a perder para os preços",
+    "txt": "Nos EUA, os salários subiram 3,1% em outubro face a há um ano, mas a inflação estava nos 3,7% em setembro. O emprego voltou a surpreender (+165 mil contra 65 mil esperados) e o desemprego ficou em 4,1%. Notícias boas para o emprego são más para quem quer juros mais baixos: o mercado dá agora cerca de 73% de probabilidade a uma nova subida da Fed em dezembro, e o que os EUA fazem costuma sentir-se nas prestações e nos empréstimos noutros países."
+   },
+   {
+    "t": "Terça-feira, dia de inflação nos EUA",
+    "txt": "Os números de outubro saem às 13h30 em Lisboa; esperam-se +0,3% no mês no índice geral e +0,2% no núcleo. Um núcleo de 0,3% ou mais reforçaria a aposta numa subida de juros em dezembro. Mais de uma dúzia de responsáveis da Fed falam depois dos dados, pelo que a semana pode trazer pistas claras sobre o que aí vem."
+   },
+   {
+    "t": "Petróleo cai 13,6% numa semana",
+    "txt": "O Brent fechou a sexta-feira nos 97,75 dólares, a maior queda semanal desde a pandemia, depois de ter tocado os 94 dólares na quinta. Para quem conduz, é um alívio possível nas bombas, mas ainda longe de normal: nos EUA a gasolina rondava os 4,27 dólares por galão no fim de outubro, no Reino Unido os combustíveis estavam 29,8% mais caros do que um ano antes e no Canadá 27,8%."
+   },
+   {
+    "t": "China exporta recordes graças aos chips",
+    "txt": "As exportações chinesas de setembro subiram 36,3% e chegaram a 447 mil milhões de dólares, empurradas por eletrónica, semicondutores e inteligência artificial; as vendas para os EUA subiram 39,6% e para a UE 25,3%. Em setembro, EUA e China prolongaram a trégua comercial até janeiro, e a UE acordou com Pequim limitar a entrada de híbridos chineses. Esta segunda-feira conhecem-se também os preços na China: espera-se que os preços à saída das fábricas subam 5,7%, o que mostra pressão de custos que pode chegar às lojas europeias."
+   },
+   {
+    "t": "Uma semana de inflação à volta do mundo",
+    "txt": "A Índia divulga na quinta-feira a inflação de outubro (esperam-se 5,93%, contra 5,54% antes), a Rússia na sexta (7,1%) e o México hoje (3,65%). No Reino Unido sai o PIB do terceiro trimestre na quinta, e Christine Lagarde fala na quarta e na quinta. Em muitas economias, o preço da energia deu o primeiro empurrão e a dúvida é se se espalha ao supermercado e aos serviços."
+   },
+   {
+    "t": "Ouro sobe 5% e bitcoin afunda para os 76 mil",
+    "txt": "O ouro ganhou 5% na semana e ronda os 4 080 dólares por onça, o refúgio tradicional de quem desconfia de bolsas e juros. O bitcoin fechou a semana nos 76 038 dólares, com um mínimo desde setembro, e o ether ficou nos 2 246 dólares. A queda do cripto acompanhou a das ações de tecnologia, o que mostra que ainda anda colado ao apetite pelo risco."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-06T07:50:00Z",
   "capa_foto": "stock market screens red",
   "capa_titulo": "A IA assusta Wall Street e o mundo sente",
