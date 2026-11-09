@@ -6,9 +6,9 @@ from datetime import datetime, timezone
 ASSETS = {  # ticker do E.L.L.O.N: (Yahoo, Stooq, moeda)
     "VUAA": ("VUAA.L", "vuaa.uk", "USD"), "O": ("O", "o.us", "USD"), "NEE": ("NEE", "nee.us", "USD"),
     "CMCSA": ("CMCSA", "cmcsa.us", "USD"), "NVDA": ("NVDA", "nvda.us", "USD"), "WTRG": ("WTRG", "wtrg.us", "USD"),
-    "SPCX": ("SPCX", "spcx.us", "USD"),
+    "SPCX": ("SPCX", "spcx.us", "USD"), "CNQ": ("CNQ", "cnq.us", "USD"),
 }
-WATCH = {"CNQ": ("CNQ", "cnq.us", "USD"), "JPM": ("CMC.DE", "cmc.de", "EUR")}  # JPM vendida a 9/11/2026; fica em observação
+WATCH = {"JPM": ("CMC.DE", "cmc.de", "EUR")}  # JPM vendida a 9/11/2026; fica em observação
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"}
 
 def get(url):
