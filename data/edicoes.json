@@ -1,5 +1,192 @@
 [
  {
+  "asOf": "2026-11-10T07:50:00Z",
+  "capa_foto": "oil refinery sunrise",
+  "capa_titulo": "Petróleo cai e Wall Street dispara",
+  "id": "2026-11-10",
+  "ideas": [
+   {
+    "market": "EUA · Nasdaq",
+    "name": "Constellation Energy",
+    "risks": "Depois de uma subida tão forte, a ação pode devolver ganhos, e a procura dos centros de dados depende do ritmo do investimento em IA.",
+    "sources": [
+     {
+      "title": "AP via Manila Times, 10/11/2026",
+      "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/2465954"
+     }
+    ],
+    "tag": "Eletricidade",
+    "thesis": "Subiu 10,5% na segunda-feira depois de resultados acima do esperado e de contratos de fornecimento a centros de dados, segundo a AP. É um caso para estudar a ligação entre a inteligência artificial e a procura de eletricidade.",
+    "ticker": "CEG"
+   },
+   {
+    "market": "EUA · Nasdaq",
+    "name": "Advanced Micro Devices",
+    "risks": "Os chips continuam muito voláteis e uma subida de juros pode penalizar de novo as ações de tecnologia.",
+    "sources": [
+     {
+      "title": "AP via Manila Times, 10/11/2026",
+      "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/2465954"
+     },
+     {
+      "title": "Reuters Morning Bid via AOL, 10/11/2026",
+      "url": "https://www.aol.com/articles/morning-bid-anthropic-ipo-please-053143000.html"
+     }
+    ],
+    "tag": "Semicondutores",
+    "thesis": "Subiu 13,3% na segunda-feira no melhor dia do S&P 500 desde abril, segundo a AP. Interessa estudar como os fabricantes de chips competem numa semana em que a Nvidia está sob pressão por causa da investigação ao seu líder.",
+    "ticker": "AMD"
+   },
+   {
+    "market": "EUA · NYSE Arca",
+    "name": "iShares MSCI South Korea ETF",
+    "risks": "O mercado coreano é muito dependente de poucas empresas de tecnologia e pode inverter depressa se as conversações EUA-Irão falharem.",
+    "sources": [
+     {
+      "title": "Reuters via Business Standard, 10/11/2026",
+      "url": "https://www.business-standard.com/amp/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html"
+     },
+     {
+      "title": "Reuters via AsiaOne, 10/11/2026",
+      "url": "https://www.asiaone.com/money/asian-stocks-climb-oil-prices-slide-ahead-us-cpi"
+     }
+    ],
+    "tag": "Coreia do Sul",
+    "thesis": "O Kospi chegou a subir entre 4% e 5% na sessão de hoje com a descida do petróleo, de acordo com a Reuters. Um ETF sobre a Coreia do Sul serve para estudar uma economia exportadora e muito ligada aos chips.",
+    "ticker": "EWY"
+   },
+   {
+    "market": "EUA · NYSE Arca",
+    "name": "iShares MSCI Brazil ETF",
+    "risks": "A política, o câmbio do real e o regresso da inflação na região podem travar a descida dos juros.",
+    "sources": [
+     {
+      "title": "Rio Times, Latin American Pulse, 03/11/2026",
+      "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-november-3-2026/"
+     }
+    ],
+    "tag": "Brasil",
+    "thesis": "O Ibovespa estava nos 168 498 pontos, com juros Selic a 13,75%, abaixo dos 15% de janeiro, segundo o Rio Times. Serve para estudar como a descida gradual dos juros e o petróleo mais barato influenciam um grande mercado emergente.",
+    "ticker": "EWZ"
+   },
+   {
+    "market": "EUA · Nasdaq",
+    "name": "iShares Bitcoin Trust",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor e não tem dividendos.",
+    "sources": [
+     {
+      "title": "NordFX, Market Pulse, 10/11/2026",
+      "url": "https://nordfx.com/market-news/market-pulse-november-10-2026"
+     },
+     {
+      "title": "AP via Manila Times, 10/11/2026",
+      "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/2465954"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O bitcoin negociava perto dos 74 580 dólares, valor aproximado indicado pela NordFX, num dia em que as bolsas recuperaram. Serve para estudar se o ativo acompanha a tecnologia e os juros.",
+    "ticker": "IBIT"
+   }
+  ],
+  "legenda": "Wall Street teve o melhor dia desde abril, com o S&P 500 a subir 2,3%, e o petróleo desceu para cerca de 92 dólares por esperança de conversações entre os EUA e o Irão. A Ásia seguiu o movimento, com a Coreia do Sul a disparar. Hoje saem os preços ao consumidor dos EUA e o mercado dá 84% de probabilidade a uma subida de juros em dezembro. A Anthropic arranca o roadshow para uma oferta de quase 70 mil milhões de dólares.\n\n#mercados #economia #bolsa #petroleo #inflacao #fed #ipo #markets #finance #oil",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "stock exchange trading floor",
+    "tag": "Bolsas",
+    "texto": "O S&P 500 subiu 2,3% para 7 549 pontos e o Nasdaq 2,7%, com o petróleo a cair e esperança de conversações entre EUA e Irão.",
+    "tipo": "noticia",
+    "titulo": "Wall Street tem o melhor dia desde abril"
+   },
+   {
+    "foto": "oil tanker sea sunset",
+    "tag": "Energia",
+    "texto": "Recuou 5,8% na segunda-feira, depois de passar os 112 dólares no início do mês. Pode aliviar a gasolina, se a trégua se mantiver.",
+    "tipo": "noticia",
+    "titulo": "Brent cai para os 92 dólares"
+   },
+   {
+    "foto": "tokyo stock exchange board",
+    "tag": "Ásia",
+    "texto": "O Kospi disparou e o Nikkei japonês ganhou cerca de 2,7%, com o petróleo mais barato a ajudar economias que importam energia.",
+    "tipo": "noticia",
+    "titulo": "Bolsa da Coreia do Sul sobe até 5%"
+   },
+   {
+    "foto": "server room data center",
+    "tag": "Tecnologia",
+    "texto": "O roadshow da oferta pública começa hoje e o preço deve ficar definido na semana seguinte, num teste ao interesse pela inteligência artificial.",
+    "tipo": "noticia",
+    "titulo": "Anthropic quer 70 mil milhões na bolsa"
+   }
+  ],
+  "sources": [
+   {
+    "title": "AP via Manila Times, 10/11/2026",
+    "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/2465954"
+   },
+   {
+    "title": "Reuters via Business Standard, 10/11/2026",
+    "url": "https://www.business-standard.com/amp/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html"
+   },
+   {
+    "title": "Reuters via AsiaOne, 10/11/2026",
+    "url": "https://www.asiaone.com/money/asian-stocks-climb-oil-prices-slide-ahead-us-cpi"
+   },
+   {
+    "title": "Reuters Morning Bid via AOL, 10/11/2026",
+    "url": "https://www.aol.com/articles/morning-bid-anthropic-ipo-please-053143000.html"
+   },
+   {
+    "title": "NordFX, Market Pulse, 10/11/2026",
+    "url": "https://nordfx.com/market-news/market-pulse-november-10-2026"
+   },
+   {
+    "title": "Lusa via Diário de Notícias da Madeira, 07/10/2026",
+    "url": "https://www.dnoticias.pt/2026/10/7/508053-banco-de-portugal-preve-inflacao-de-31-este-ano/"
+   },
+   {
+    "title": "Rio Times, Latin American Pulse, 03/11/2026",
+    "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-november-3-2026/"
+   },
+   {
+    "title": "Let's Data Science (NYT), 29/10/2026",
+    "url": "https://letsdatascience.com/news/nyt-reports-us-intelligence-tied-chinese-asset-to-nvidias-hu-6cd13a47"
+   },
+   {
+    "title": "Brapi, 07/11/2026",
+    "url": "https://brapi.dev/news/executiva-ligada-a-nvidia-e-investigada-por-suposta-espionagem-para-a-china-e86b9374"
+   }
+  ],
+  "summary": "Wall Street teve ontem o melhor dia desde abril e o petróleo desceu para perto dos 92 dólares o barril, tudo porque Washington e Teerão parecem dispostos a conversar em vez de se atacarem. Para quem enche o depósito ou paga a luz, é um alívio possível, mas só se a trégua se mantiver. Hoje à tarde saem os preços ao consumidor dos EUA e o mercado já aposta, com 84% de probabilidade, numa subida de juros da Reserva Federal. Se isso acontecer, o dinheiro fica mais caro em todo o mundo, incluindo para quem tem crédito à habitação.",
+  "themes": [
+   {
+    "t": "Petróleo desce com sinais de conversações entre EUA e Irão",
+    "txt": "O Brent caiu 5,8% na segunda-feira para 92,57 dólares e hoje desliza mais 1%, depois de ter passado os 112 dólares no início do mês. Donald Trump disse à CNN que retomar os ataques ao Irão é «altamente improvável» se as negociações avançarem, embora o secretário de Estado Marco Rubio tenha chamado «ridículas» a algumas exigências iranianas. Se o petróleo se mantiver nestes valores, o efeito chega às bombas de gasolina e aos preços dos transportes dentro de algumas semanas, mas basta um falhanço nas conversas para o barril voltar a disparar."
+   },
+   {
+    "t": "Melhor dia de Wall Street desde abril, e a Anthropic prepara a bolsa",
+    "txt": "O S&P 500 subiu 2,3% para 7 549,94 pontos e o Nasdaq 2,7%, recuperando grande parte das perdas da semana passada. A AMD saltou 13,3% e a Constellation Energy 10,5%, depois de resultados acima do esperado e de contratos de eletricidade para centros de dados. Em paralelo, a Reuters noticia que a Anthropic, criadora do Claude, planeia angariar quase 70 mil milhões de dólares na bolsa, com o roadshow a começar hoje e o preço definido na semana seguinte: será um teste ao apetite dos investidores por inteligência artificial."
+   },
+   {
+    "t": "Inflação americana sai hoje e a Fed pode subir juros",
+    "txt": "Os economistas esperam que os preços ao consumidor nos EUA tenham subido 0,3% em outubro, depois de 0,6% em setembro. Segundo a ferramenta FedWatch da CME, a probabilidade de uma subida de juros na reunião de 9 de dezembro está nos 84%, contra 74% há uma semana. O rendimento da dívida a 10 anos está nos 4,87%, depois de ter passado os 5,30% no mês passado. Juros americanos mais altos tendem a fortalecer o dólar e a encarecer o crédito noutros países."
+   },
+   {
+    "t": "Ásia ganha fôlego: Coreia e Japão disparam",
+    "txt": "O Kospi sul-coreano chegou a subir entre 4% e 5% e o Nikkei japonês subiu cerca de 2,7%, para os 60 362 pontos, acompanhando o alívio no petróleo, que a Ásia importa em grande quantidade. A bolsa de Xangai ficou praticamente estável, com +0,15%. Para economias muito dependentes de energia importada, como o Japão e a Coreia do Sul, o petróleo mais barato alivia os custos das fábricas e das famílias."
+   },
+   {
+    "t": "Portugal: inflação ainda acima dos 3%",
+    "txt": "O Banco de Portugal prevê, no boletim de outubro, uma inflação de 3,1% em 2026, a descer para 2,4% em 2027 e 2,0% em 2028, com o desemprego em 5,6%. Quer dizer que os preços continuam a subir mais depressa do que os salários de muitas famílias este ano, e que o alívio só é esperado de forma gradual. Uma descida do petróleo, se se confirmar, ajudaria a travar esta trajetória."
+   },
+   {
+    "t": "América Latina: juros altos no Brasil e inflação em alta no Peru",
+    "txt": "No Brasil a taxa Selic estava em 13,75%, abaixo dos 15% de janeiro, e o Ibovespa rondava os 168 mil pontos na segunda-feira. No Peru, a inflação em Lima chegou a 5,25% em outubro, a primeira leitura acima dos 5% desde 2023, e o banco central reúne-se a 12 de novembro. O Equador manteve um recolher obrigatório noturno em cinco províncias costeiras até hoje, antes das eleições de 29 de novembro."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-09T07:55:00Z",
   "capa_foto": "supermarket shopping cart prices",
   "capa_titulo": "Salários perdem para os preços, e agora?",
