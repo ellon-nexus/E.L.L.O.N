@@ -1,5 +1,211 @@
 [
  {
+  "asOf": "2026-11-11T07:55:00Z",
+  "capa_foto": "stock exchange trading floor",
+  "capa_titulo": "Inflação sobe e o mundo muda de rumo",
+  "id": "2026-11-11",
+  "ideas": [
+   {
+    "market": "NYSE (Taiwan)",
+    "name": "Taiwan Semiconductor (ADR)",
+    "risks": "Depende de poucos clientes de IA, de tensões em torno de Taiwan e de ciclos de investimento que podem abrandar; a valorização já é elevada.",
+    "sources": [
+     {
+      "title": "TSMC (SEC, formulário 6-K), 10/11/2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm"
+     },
+     {
+      "title": "AP (ClickOrlando), 11/11/2026",
+      "url": "https://www.clickorlando.com/business/2026/11/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+     }
+    ],
+    "tag": "Semicondutores",
+    "thesis": "A TSMC anunciou receitas de outubro de NT$586,9 mil milhões, mais 14,7% do que em setembro e mais 59,7% do que há um ano; de janeiro a outubro vai com +43,3%. Subiu 3,1% num dia em que a Nvidia caiu 5,5%.",
+    "ticker": "TSM"
+   },
+   {
+    "market": "NYSE Arca (Japão)",
+    "name": "iShares MSCI Japan ETF",
+    "risks": "O iene está nos 158,9 por dólar e o juro das obrigações a 10 anos subiu para 2,76%: um iene fraco ou uma intervenção súbita pode abalar o fundo (que é em dólares).",
+    "sources": [
+     {
+      "title": "AP (ClickOrlando), 11/11/2026",
+      "url": "https://www.clickorlando.com/business/2026/11/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+     },
+     {
+      "title": "Reuters (Business Recorder), 11/11/2026",
+      "url": "https://www.brecorder.com/news/40448387/bonds-reel-as-hot-inflation-fuels-jumbo-fed-hike-fears"
+     }
+    ],
+    "tag": "Japão",
+    "thesis": "O Nikkei fechou nos 60 942 pontos (+0,8%) mesmo com a SoftBank a perder 3,7%; a bolsa japonesa é uma forma de diversificar fora dos EUA e do ciclo da Nvidia.",
+    "ticker": "EWJ"
+   },
+   {
+    "market": "NYSE Arca (ouro)",
+    "name": "SPDR Gold Shares",
+    "risks": "Não paga dividendos e perde atrativo quando os juros reais sobem; pode continuar a cair se a Fed apertar mais.",
+    "sources": [
+     {
+      "title": "Reuters (Business Recorder), 11/11/2026",
+      "url": "https://www.brecorder.com/news/40448387/bonds-reel-as-hot-inflation-fuels-jumbo-fed-hike-fears"
+     },
+     {
+      "title": "ATFX, 11/11/2026",
+      "url": "https://www.atfxcapital.com/en/analysis/market-news/20261111-daily-market-highlight"
+     }
+    ],
+    "tag": "Ouro",
+    "thesis": "O ouro caiu 2,6% para cerca de 4 030 dólares a onça com a subida dos juros; o TD Securities vê suporte perto de 3 900 dólares, o que pode interessar a quem queira proteção contra choques geopolíticos.",
+    "ticker": "GLD"
+   },
+   {
+    "market": "NYSE Arca (energia)",
+    "name": "Energy Select Sector SPDR Fund",
+    "risks": "Um acordo de paz pode fazer o petróleo cair a pique e arrastar o setor; os resultados dependem do preço do barril.",
+    "sources": [
+     {
+      "title": "ATFX, 11/11/2026",
+      "url": "https://www.atfxcapital.com/en/analysis/market-news/20261111-daily-market-highlight"
+     },
+     {
+      "title": "Al-Monitor (Reuters), 04/11/2026",
+      "url": "https://www.al-monitor.com/originals/2026/11/iran-us-still-far-apart-deal-trump-says-ready-no-hurry-strikes"
+     }
+    ],
+    "tag": "Energia",
+    "thesis": "Com o Brent entre 89 e 92 dólares e um acordo com o Irão ainda por fechar, o setor energético funciona como cobertura caso as negociações falhem; os inventários de crude nos EUA caíram 9,8 milhões de barris, segundo o API.",
+    "ticker": "XLE"
+   },
+   {
+    "market": "Criptomoedas",
+    "name": "Ether (Ethereum)",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor e não tem dividendos; a regulação e os fluxos dos ETF podem inverter-se de repente.",
+    "sources": [
+     {
+      "title": "The Block, 07/11/2026",
+      "url": "https://theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "Os fundos americanos de ether registaram saídas de 365 milhões de dólares na semana passada, a sexta semana negativa seguida, com o ether perto de 2 244 dólares: um sinal de que os investidores institucionais estão a reduzir risco.",
+    "ticker": "ETH"
+   }
+  ],
+  "legenda": "Os preços nos EUA subiram mais do que o esperado em outubro e os mercados passaram a contar com juros mais altos durante mais tempo. O juro a 10 anos americano chegou aos 5%, o ouro caiu quase 3% e a Nvidia perdeu cerca de 30% desde o pico. Na Ásia, a TSMC mostrou que a procura por chips continua forte. Em Portugal, o Banco de Portugal prevê crescimento de 2,3% mas inflação de 3,1%.\n\n#mercados #economia #bolsa #inflação #juros #fed #nvidia #ouro #petroleo #markets #economy #stocks",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "federal reserve building washington",
+    "tag": "EUA",
+    "texto": "Os preços nos EUA subiram 0,4% em outubro, mais do que o previsto. A Fed deve subir os juros em dezembro e o dinheiro fica mais caro, também para crédito à habitação.",
+    "tipo": "ultima_hora",
+    "titulo": "Inflação sobe e os juros a 10 anos tocam nos 5%"
+   },
+   {
+    "foto": "semiconductor chip closeup",
+    "tag": "Tecnologia",
+    "texto": "A empresa investiga se o seu presidente foi alvo de espionagem. Em Taiwan, a TSMC anunciou receitas 59,7% acima de há um ano.",
+    "tipo": "noticia",
+    "titulo": "Nvidia cai 5,5% e já vale menos 30% do que no pico"
+   },
+   {
+    "foto": "gold bars closeup",
+    "tag": "Ouro",
+    "texto": "Com juros mais altos e o dólar mais forte, o ouro perdeu brilho. Os analistas olham para os 3 900 dólares como possível suporte.",
+    "tipo": "noticia",
+    "titulo": "Ouro perde 2,6% e fica perto dos 4 030 dólares"
+   },
+   {
+    "foto": "oil refinery night",
+    "tag": "Energia",
+    "texto": "O Irão diz que ainda está longe de um acordo. Se houver paz, a gasolina pode baixar; se falhar, o barril volta a subir.",
+    "tipo": "noticia",
+    "titulo": "Petróleo ronda os 92 dólares à espera de acordo com o Irão"
+   },
+   {
+    "foto": "lisbon street tram",
+    "tag": "Portugal",
+    "texto": "O Banco de Portugal subiu a previsão de crescimento, mas avisa que os preços só voltam aos 2% em 2028. A descida das prestações pode demorar.",
+    "tipo": "noticia",
+    "titulo": "Economia portuguesa cresce 2,3%, mas a inflação fica nos 3,1%"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Reuters (Business Recorder), 11/11/2026",
+    "url": "https://www.brecorder.com/news/40448387/bonds-reel-as-hot-inflation-fuels-jumbo-fed-hike-fears"
+   },
+   {
+    "title": "AP (ClickOrlando), 11/11/2026",
+    "url": "https://www.clickorlando.com/business/2026/11/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+   },
+   {
+    "title": "ATFX, 11/11/2026",
+    "url": "https://www.atfxcapital.com/en/analysis/market-news/20261111-daily-market-highlight"
+   },
+   {
+    "title": "IC Markets, 11/11/2026",
+    "url": "https://www.icmarkets.com.au/blog/general-market-analysis-11-november-2026-ic-markets/"
+   },
+   {
+    "title": "TradingKey, 09/11/2026",
+    "url": "https://www.tradingkey.com/news/market-movers/262296446-market-movers-nvda-20261109"
+   },
+   {
+    "title": "The Block, 07/11/2026",
+    "url": "https://theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+   },
+   {
+    "title": "Forbes Portugal (Banco de Portugal), 07/10/2026",
+    "url": "https://www.forbespt.com/banco-de-portugal-mais-otimista-para-a-economia-portuguesa-mas-alerta-para-inflacao-de-31/"
+   },
+   {
+    "title": "Al-Monitor (Reuters), 04/11/2026",
+    "url": "https://www.al-monitor.com/originals/2026/11/iran-us-still-far-apart-deal-trump-says-ready-no-hurry-strikes"
+   },
+   {
+    "title": "Rio Times, 04/11/2026",
+    "url": "https://www.riotimesonline.com/brazil-central-bank-holds-selic-13-75-copom-4-november-2026/"
+   },
+   {
+    "title": "TSMC (SEC, formulário 6-K), 10/11/2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm"
+   }
+  ],
+  "summary": "Os preços nos EUA subiram mais do que se esperava em outubro e, de um dia para o outro, o mundo passou a contar com juros mais altos durante mais tempo: o juro a 10 anos americano chegou aos 5%, o ouro tombou quase 3% e a Nvidia perdeu 30% desde o pico. Do outro lado do mundo, os chips continuam a render: a TSMC faturou quase 60% mais do que há um ano e a bolsa sul-coreana subiu. Para quem tem uma prestação variável ou pensa pedir um empréstimo, a mensagem é simples: a era do dinheiro barato não está a voltar tão cedo, e o petróleo, perto dos 92 dólares, ainda não deixa a inflação respirar.",
+  "themes": [
+   {
+    "t": "Inflação americana acima do esperado põe a Fed em modo subida",
+    "txt": "Os preços ao consumidor nos EUA subiram 0,4% em outubro, quando se esperavam 0,3%, e a inflação sem energia e alimentos subiu 0,3% contra 0,2% previstos. Um governador da Reserva Federal admitiu uma subida de 0,5 pontos em dezembro, e os mercados já contam com três subidas de 0,25 pontos até meados de 2027. O juro das obrigações americanas a 2 anos saltou 18 pontos base de uma vez. Quando os EUA sobem juros, o dinheiro fica mais caro em todo o lado: empréstimos, cartões e crédito à habitação sentem o efeito."
+   },
+   {
+    "t": "Ouro cai quase 3% e o dólar ganha força",
+    "txt": "O ouro perdeu 2,6% numa sessão e ficou perto de 4 030 dólares a onça, o dólar valorizou 0,5% e o iene está nos 159 por dólar, um nível em que o Japão já interveio no passado. Com juros a subir, quem tem dinheiro parado prefere obrigações que pagam mais a um metal que não rende nada. Para os poupadores, é um lembrete de que o ouro não é um refúgio sem altos e baixos."
+   },
+   {
+    "t": "Chips pesam em Wall Street mas disparam na Ásia",
+    "txt": "A Nvidia caiu 5,5% e já vale cerca de 30% menos do que no pico, enquanto o conselho investiga se o presidente executivo foi alvo de uma operação de espionagem estrangeira. No mesmo dia, em Taiwan, a TSMC anunciou receitas de outubro 59,7% acima do ano anterior e subiu 3,1%, a SK Hynix ganhou 3,4% e a bolsa sul-coreana avançou 1,6%. A procura por inteligência artificial não desapareceu: está a mudar de mãos, dos nomes mais caros para quem fabrica os chips."
+   },
+   {
+    "t": "Japão: SoftBank perde 7 mil milhões e o iene continua fraco",
+    "txt": "A SoftBank registou um prejuízo trimestral de cerca de 1,1 biliões de ienes (7 mil milhões de dólares) por causa dos centros de dados nos EUA e caiu mais de 3%. O Nikkei fechou nos 60 942 pontos, mas o juro das obrigações japonesas a 10 anos subiu para 2,76%, o que encarece o crédito no país e pressiona o iene. Para os japoneses, um iene fraco significa importações, como energia e comida, mais caras."
+   },
+   {
+    "t": "Irão: negociações lentas mantêm o petróleo perto dos 92 dólares",
+    "txt": "O barril de Brent oscila entre 89 e 92 dólares, com os mercados a apostar num acordo que ponha fim à guerra com o Irão. Teerão diz que as partes ainda estão longe de um entendimento e o Qatar continua a mediar; Donald Trump afirmou que a guerra está militarmente quase terminada, mas não excluiu retomar ataques. Se houver acordo, a gasolina e a eletricidade podem aliviar; se falhar, o petróleo volta a subir."
+   },
+   {
+    "t": "Brasil pausa as descidas de juros e a Selic fica nos 13,75%",
+    "txt": "O banco central brasileiro manteve a taxa em 13,75% por unanimidade, depois de cinco cortes seguidos de 0,25 pontos, porque a inflação anual de 4,58% já ultrapassa o limite da meta (4,5%). A próxima decisão é a 9 de dezembro. Com juros assim, os brasileiros continuam a pagar muito caro o crédito, mesmo com a descida do último ano."
+   },
+   {
+    "t": "Portugal: economia mais forte, mas preços ainda acima de 3%",
+    "txt": "O Banco de Portugal subiu em outubro a previsão de crescimento para 2,3% em 2026 e 1,8% em 2027, graças ao dinheiro do PRR, às contas públicas e às exportações. Mas a inflação deste ano deverá ficar nos 3,1% antes de descer para 2,4% em 2027, por causa do choque energético. Com os juros americanos a subir e o BCE e o Banco de Inglaterra mais duros, o alívio nas prestações da casa pode demorar mais do que o esperado."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-10T07:50:00Z",
   "capa_foto": "oil refinery sunrise",
   "capa_titulo": "Petróleo cai e Wall Street dispara",

@@ -1,16 +1,6 @@
 {
- "asOf": "2026-11-10",
+ "asOf": "2026-11-11",
  "events": [
-  {
-   "d": "2026-11-10",
-   "k": "ex",
-   "src": {
-    "title": "Essential Utilities · dividendo",
-    "url": "https://finviz.com/news/405624/essential-utilities-declares-december-2026-dividend"
-   },
-   "t": "WTRG",
-   "txt": "Dividendo de 0,3606 $ por ação. Pago a 1/12."
-  },
   {
    "d": "2026-11-13",
    "k": "pay",
