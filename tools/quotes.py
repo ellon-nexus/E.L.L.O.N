@@ -93,7 +93,7 @@ fx = fetch("EURUSD=X", "eurusd")
 if fx and 0.9 < fx[0] < 1.4:
     out["fx"] = fx[0]; used.add(fx[4])
 out["asOf"] = (latest or datetime.now(timezone.utc)).strftime("%Y-%m-%dT%H:%M:%SZ")
-out["source"] = "Fecho diário via " + " e ".join(sorted({"yahoo": "Yahoo Finance", "google": "Google Finance", "stooq": "Stooq"}[u] for u in used)) + (f"; sem dados: {', '.join(failed)}" if failed else "")
+out["source"] = ("Fecho via " if datetime.now(timezone.utc).hour >= 21 or datetime.now(timezone.utc).weekday() >= 5 else "Durante a sessão via ") + " e ".join(sorted({"yahoo": "Yahoo Finance", "google": "Google Finance", "stooq": "Stooq"}[u] for u in used)) + (f"; sem dados: {', '.join(failed)}" if failed else "")
 out["erros"] = ERRS[:12]
 json.dump(out, open(path, "w"), ensure_ascii=False, indent=1)
 print(json.dumps(out, ensure_ascii=False))
