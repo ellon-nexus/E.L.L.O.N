@@ -1,55 +1,55 @@
 {
  "prices": {
   "VUAA": {
-   "p": 147.44,
-   "prev": 145.18,
+   "p": 147.78,
+   "prev": 147.34,
    "cur": "USD"
   },
   "O": {
-   "p": 59.575,
-   "prev": 59.545,
+   "p": 59.525,
+   "prev": 59.57,
    "cur": "USD"
   },
   "NEE": {
-   "p": 85.995,
-   "prev": 86.275,
+   "p": 86.255,
+   "prev": 85.99,
    "cur": "USD"
   },
   "CMCSA": {
-   "p": 25.03,
-   "prev": 24.73,
+   "p": 25.015,
+   "prev": 25.02,
    "cur": "USD"
   },
   "NVDA": {
-   "p": 173.85,
-   "prev": 168.79,
+   "p": 166.0493,
+   "prev": 173.73,
    "cur": "USD"
   },
   "WTRG": {
-   "p": 44.98,
-   "prev": 45.185,
+   "p": 44.89,
+   "prev": 44.95,
    "cur": "USD"
   },
   "SPCX": {
-   "p": 139.84,
-   "prev": 143.15,
+   "p": 142.99,
+   "prev": 139.75,
    "cur": "USD"
   },
   "CNQ": {
-   "p": 48.885,
-   "prev": 48.235,
+   "p": 49.12,
+   "prev": 48.89,
    "cur": "USD"
   }
  },
  "watch": {
   "JPM": {
-   "p": 309.55,
-   "prev": 307.15,
+   "p": 311.6,
+   "prev": 309.7,
    "cur": "EUR"
   }
  },
- "fx": 1.109,
- "asOf": "2026-11-11T21:00:00Z",
- "source": "Fecho diário via Yahoo Finance",
+ "fx": 1.1056,
+ "asOf": "2026-11-12T18:30:38Z",
+ "source": "Durante a sessão via Yahoo Finance",
  "erros": []
 }
