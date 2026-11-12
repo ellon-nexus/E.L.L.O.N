@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-11",
+ "asOf": "2026-11-12",
  "events": [
   {
    "d": "2026-11-13",
@@ -13,13 +13,14 @@
   },
   {
    "d": "2026-11-18",
+   "est": true,
    "k": "earnings",
    "src": {
     "title": "ECIKS · agenda de resultados",
     "url": "https://eciks.org/29651-nvidia-fiscal-2027-q3-results"
    },
    "t": "NVDA",
-   "txt": "Resultados do 3.º trimestre fiscal de 2027, depois do fecho (22h em Lisboa); consenso de 108,8 mil M$ de receitas e 2,47 $ por ação."
+   "txt": "Resultados do 3.º trimestre fiscal de 2027, depois do fecho (22h em Lisboa); consenso de 108,8 mil M$ de receitas e 2,47 $ por ação. Uma fonte aponta terça-feira, 17/11: data por confirmar."
   },
   {
    "d": "2026-11-27",

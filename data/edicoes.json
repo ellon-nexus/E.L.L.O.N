@@ -1,5 +1,217 @@
 [
  {
+  "asOf": "2026-11-12T07:27:49Z",
+  "capa_foto": "stock exchange trading screens",
+  "capa_titulo": "Nvidia treme e o petróleo respira",
+  "id": "2026-11-12",
+  "ideas": [
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "iShares MSCI South Korea ETF",
+    "risks": "Está muito concentrado em poucas empresas de chips e depende do ciclo da inteligência artificial; uma queda da Nvidia ou da procura por memória pode refletir-se aqui.",
+    "sources": [
+     {
+      "title": "Charles Schwab, 11/11/2026",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+     },
+     {
+      "title": "Rio Times, 12/11/2026",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-november-12-2026/"
+     }
+    ],
+    "tag": "Ásia · Chips",
+    "thesis": "As exportações sul-coreanas nos primeiros dez dias de novembro mais do que duplicaram face a há um ano, com os semicondutores a quadruplicar, e o KOSPI está nos 5.362 pontos.",
+    "ticker": "EWY"
+   },
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "iShares MSCI Brazil ETF",
+    "risks": "A inflação brasileira deverá subir para cerca de 4,74% em outubro, acima do teto de 4,5%, o que pode adiar cortes; há também risco cambial.",
+    "sources": [
+     {
+      "title": "Rio Times, 12/11/2026",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-november-12-2026/"
+     }
+    ],
+    "tag": "América Latina",
+    "thesis": "O Copom manteve a Selic em 13,75% após cinco cortes seguidos e o Ibovespa está nos 172.060 pontos; os juros altos pagam bem a poupança, mas já se discute quando recomeçam as descidas.",
+    "ticker": "EWZ"
+   },
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "iShares MSCI Germany ETF",
+    "risks": "Sem a Irlanda, o crescimento da zona do euro foi só de 0,2%, e o BCE pode subir juros em dezembro; a indústria alemã é sensível à energia.",
+    "sources": [
+     {
+      "title": "Rio Times, 12/11/2026",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-november-12-2026/"
+     },
+     {
+      "title": "AP (ClickOnDetroit), 30/10/2026",
+      "url": "https://www.clickondetroit.com/business/2026/10/30/europes-economy-brushes-off-energy-shock-from-iran-war-shows-moderate-growth-in-q3/"
+     }
+    ],
+    "tag": "Europa",
+    "thesis": "A inflação alemã desceu para 2,8% em outubro, o DAX subiu 1,2% para 26.663 pontos e a zona do euro cresceu 0,4% no terceiro trimestre, acima do esperado.",
+    "ticker": "EWG"
+   },
+   {
+    "market": "Nasdaq (EUA)",
+    "name": "iShares 7-10 Year Treasury Bond ETF",
+    "risks": "Se a Fed subir juros em dezembro, como o mercado espera, o preço das obrigações pode cair mais; o fundo também tem risco cambial para quem investe em euros.",
+    "sources": [
+     {
+      "title": "ABC News Australia, 12/11/2026",
+      "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
+     },
+     {
+      "title": "Rio Times, 12/11/2026",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-november-12-2026/"
+     }
+    ],
+    "tag": "Obrigações",
+    "thesis": "Com o juro a 10 anos dos EUA a rondar os 5% e um regulador a falar do nível mais alto em 15 anos, as obrigações públicas voltam a pagar rendimentos que há muito não pagavam.",
+    "ticker": "IEF"
+   },
+   {
+    "market": "Nasdaq (EUA)",
+    "name": "CoreWeave",
+    "risks": "É uma empresa de crescimento muito volátil e dependente de poucos grandes clientes; a turbulência na Nvidia pode arrastá-la para baixo.",
+    "sources": [
+     {
+      "title": "Charles Schwab, 11/11/2026",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+     }
+    ],
+    "tag": "Inteligência artificial",
+    "thesis": "Subiu cerca de 14% na quarta-feira, na rotina de recuperação dos chips e da infraestrutura de IA, segundo a Schwab.",
+    "ticker": "CRWV"
+   },
+   {
+    "market": "Nasdaq (EUA)",
+    "name": "iShares Bitcoin Trust ETF",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor e não paga dividendos; as saídas continuarem pode pressionar ainda mais o preço.",
+    "sources": [
+     {
+      "title": "The Block, 07/11/2026",
+      "url": "https://theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+     },
+     {
+      "title": "ABC News Australia, 12/11/2026",
+      "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "Os ETF de Bitcoin dos EUA tiveram saídas líquidas de 1,28 mil milhões de dólares na semana até 6/11, a pior desde junho, e o Bitcoin anda perto de 73.600 dólares; o IBIT concentrou cerca de 88% das saídas brutas de sexta-feira.",
+    "ticker": "IBIT"
+   }
+  ],
+  "legenda": "Dia de contrastes nos mercados: a Nvidia treme com notícias sobre o futuro do seu presidente executivo, mas Wall Street fechou a subir 1,3%. O petróleo recuou de quase 118 para perto de 92 dólares em duas semanas, o que pode aliviar a gasolina e a luz. Os juros de longo prazo continuam nos níveis mais altos em 15 anos, com o 10 anos americano a rondar os 5%. Na Europa, a inflação alemã desce para 2,8%, e na Ásia os chips sul-coreanos disparam.\n\n#mercados #economia #bolsa #Nvidia #petróleo #juros #inflação #stocks #markets #investing",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "graphics card circuit board closeup",
+    "tag": "Tecnologia",
+    "texto": "Segundo a imprensa, o conselho decide o futuro de Jensen Huang. A ação caiu mais de 8% fora de horas e vale cerca de um terço menos do que no pico de outubro.",
+    "tipo": "ultima_hora",
+    "titulo": "Nvidia: conselho pondera afastar o seu CEO"
+   },
+   {
+    "foto": "oil refinery night",
+    "tag": "Energia",
+    "texto": "As negociações EUA-Irão aliviam o Brent. Se se mantiver, a gasolina e a luz podem ficar menos pressionadas nas próximas semanas.",
+    "tipo": "noticia",
+    "titulo": "Petróleo cai de 118 para 92 dólares em duas semanas"
+   },
+   {
+    "foto": "bank building skyscrapers",
+    "tag": "Juros",
+    "texto": "O regulador australiano avisa que os juros de longo prazo estão no máximo em pelo menos 15 anos. Nos EUA, o 10 anos ronda os 5%: crédito mais caro.",
+    "tipo": "noticia",
+    "titulo": "Juros longos no nível mais alto em 15 anos"
+   },
+   {
+    "foto": "semiconductor chip closeup",
+    "tag": "Ásia",
+    "texto": "Nos primeiros dez dias de novembro, as exportações mais do que duplicaram face a há um ano. Na China, as vendas de carros caíram 9,2% em outubro.",
+    "tipo": "noticia",
+    "titulo": "Coreia do Sul: exportações de chips quadruplicam"
+   },
+   {
+    "foto": "frankfurt skyline financial district",
+    "tag": "Europa",
+    "texto": "Caiu de 3,3% em outubro e o DAX subiu 1,2%. Mas com a inflação do euro em 3,8%, o BCE pode subir juros em dezembro.",
+    "tipo": "noticia",
+    "titulo": "Inflação alemã desce para 2,8%"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ABC News Australia, 12/11/2026",
+    "url": "https://www.abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
+   },
+   {
+    "title": "Rio Times, 12/11/2026",
+    "url": "https://www.riotimesonline.com/global-economy-briefing-november-12-2026/"
+   },
+   {
+    "title": "Charles Schwab, 11/11/2026",
+    "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+   },
+   {
+    "title": "The Block, 07/11/2026",
+    "url": "https://theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+   },
+   {
+    "title": "AP (ClickOnDetroit), 30/10/2026",
+    "url": "https://www.clickondetroit.com/business/2026/10/30/europes-economy-brushes-off-energy-shock-from-iran-war-shows-moderate-growth-in-q3/"
+   },
+   {
+    "title": "Bloomberg (Energy Connects), 03/11/2026",
+    "url": "https://www.energyconnects.com/news/gas-lng/2026/november/us-iran-pursue-diplomacy-despite-limited-american-strikes/"
+   },
+   {
+    "title": "Al Jazeera, 01/11/2026",
+    "url": "https://aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know"
+   },
+   {
+    "title": "Khaleej Times (AFP), 02/11/2026",
+    "url": "https://www.khaleejtimes.com/mena/iran-says-intensive-negotiations-us-avert-war"
+   },
+   {
+    "title": "DNoticias (Lusa), 07/10/2026",
+    "url": "https://www.dnoticias.pt/2026/10/7/508053-banco-de-portugal-preve-inflacao-de-31-este-ano/"
+   }
+  ],
+  "summary": "Há dias em que o que mexe com o teu bolso não vem das contas, vem de uma sala de reuniões: o conselho da Nvidia, a empresa mais valiosa da bolsa, estará a decidir o futuro do seu presidente executivo, e a ação já vale cerca de um terço menos do que no pico de outubro. Wall Street, apesar disso, fechou a subir 1,3%, ajudada por um petróleo que recuou de quase 118 dólares para perto de 92 em duas semanas, enquanto as negociações entre os EUA e o Irão continuam. Menos petróleo significa, com o tempo, gasolina e eletricidade menos pressionadas. O reverso é que o dinheiro continua caro: os juros a 10 anos nos EUA rondam os 5%, um nível que um regulador australiano diz ser o mais alto em pelo menos 15 anos.",
+  "themes": [
+   {
+    "t": "Nvidia: conselho decide o futuro do presidente executivo",
+    "txt": "Segundo a imprensa citada pela ABC (WSJ, FT, NYT e Reuters), o conselho da Nvidia reúne-se para decidir se afasta Jensen Huang, por questões pessoais e de conduta. A ação caiu mais de 8% fora de horas e anda perto de 159 dólares, cerca de 33% abaixo do máximo de início de outubro. Como a Nvidia pesa cerca de 7% do S&P 500, quem tem um fundo indexado ao índice também sente o que lá se passa. Os resultados trimestrais estão marcados para a próxima semana."
+   },
+   {
+    "t": "Petróleo: de 118 para 92 dólares em duas semanas",
+    "txt": "O Brent fechou a semana passada perto de 118 dólares e esta quinta anda nos 92, com os EUA e o Irão a negociar através do Qatar e do Paquistão. O Irão diz que reabre o Estreito de Ormuz se os EUA aceitarem as suas exigências, entre elas o fim de sanções recentes. Se a descida se mantiver, deve chegar à bomba de gasolina e à fatura da luz com algumas semanas de atraso; se as conversas falharem, o preço volta a disparar."
+   },
+   {
+    "t": "O dinheiro mais caro em 15 anos",
+    "txt": "O regulador australiano APRA avisou que os juros de longo prazo das economias avançadas estão no nível mais alto em pelo menos 15 anos, e o juro a 10 anos dos EUA ronda os 5%. Os mercados dão mais de 85% de probabilidade a nova subida de 0,25 pontos da Fed em dezembro. Na prática, significa créditos à habitação e empréstimos às empresas mais caros em muitos países, e obrigações que, finalmente, pagam bem a quem as compra."
+   },
+   {
+    "t": "Europa: inflação alemã desce, mas o BCE não relaxa",
+    "txt": "A inflação na Alemanha caiu de 3,3% para 2,8% em outubro e o DAX subiu 1,2%. A zona do euro cresceu 0,4% no terceiro trimestre, mais do que o esperado, mas sem a Irlanda, que distorce os números, o crescimento foi de 0,2%, e a França encolheu 0,1% por causa do impasse orçamental. Com a inflação da zona do euro ainda em 3,8%, o Banco Central Europeu pode subir os juros em dezembro, o que mexeria com as prestações variáveis."
+   },
+   {
+    "t": "Ásia: chips a bombar na Coreia, carros a travar na China",
+    "txt": "As exportações da Coreia do Sul nos primeiros dez dias de novembro mais do que duplicaram face a há um ano, com os semicondutores a quadruplicar, e o índice KOSPI está nos 5.362 pontos. Na China, as vendas de automóveis caíram 9,2% em outubro, pior do que o previsto, sinal de consumo fraco. No Japão, as encomendas de máquinas-ferramenta subiram 42,5%, mas ficaram abaixo do que se esperava."
+   },
+   {
+    "t": "Portugal: o Banco de Portugal vê a inflação a descer em 2027",
+    "txt": "O Banco de Portugal prevê inflação de 3,1% este ano, 2,4% em 2027 e 2,0% em 2028, à medida que o choque da energia se dissipa. O emprego deve crescer 1,7% este ano mas só 0,7% no próximo, com o desemprego nos 5,6%. Para as famílias, a mensagem é que o aperto nos preços alivia devagar, e que o mercado de trabalho vai ficar menos folgado. A previsão é de outubro; com o petróleo a recuar, os números podem melhorar."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-11T07:55:00Z",
   "capa_foto": "stock exchange trading floor",
   "capa_titulo": "Inflação sobe e o mundo muda de rumo",
