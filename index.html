@@ -7,6 +7,21 @@
 <title>Sala de Mercados</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=Unbounded:wght@500;700&family=Orbitron:wght@500;700&display=swap">
+<style id="tema-ellon">
+/* Tema E.L.L.O.N (12/11/2026): azul-petróleo e ciano com dourado, igual ao HUD do E.L.L.O.N */
+html .hud { --hud:#46e0ff !important; --hud2:#a8dee9 !important; }
+html .hclock { text-shadow: 0 0 14px rgba(70,224,255,.45) !important; }
+html:root, html:root:root { color-scheme: dark !important;
+  --floor:#071418 !important; --paper:#071418 !important; --surface:rgba(16,42,50,.92) !important; --sheet:rgba(16,42,50,.92) !important;
+  --line:rgba(100,176,194,.28) !important; --rule:rgba(100,176,194,.28) !important; --ink:#d6f3fa !important; --muted:#7fb0bd !important;
+  --up:#5dffb0 !important; --down:#ff6b81 !important; --hold:#ffc94a !important; --accent:#46e0ff !important; --accent-ink:#04161c !important;
+  --accent-soft:rgba(70,224,255,.14) !important; --tint:rgba(70,224,255,.08) !important; --gold:#ffc94a !important; --gold-soft:rgba(255,201,74,.14) !important;
+  --gold-tint:rgba(255,201,74,.12) !important; --hud:#46e0ff !important; --hud2:#a8dee9 !important; --laurel:#8fe3b0 !important; }
+html body { background-color:#030608 !important;
+  background-image: linear-gradient(rgba(100,176,194,.05) 1px, transparent 1px), linear-gradient(90deg, rgba(100,176,194,.05) 1px, transparent 1px),
+    radial-gradient(ellipse at 50% 25%, #0d2a33 0%, #08171c 55%, #030608 100%) !important;
+  background-size: 32px 32px, 32px 32px, 100% 100% !important; background-attachment: fixed !important; color: var(--ink); }
+</style>
 </head>
 <body>
 <style>
@@ -64,7 +79,7 @@ h1 { font-family: var(--display); font-weight: 700; font-size: clamp(22px, 4.5vw
 .acad { display: inline-flex; align-items: center; margin-top: 10px; font-family: var(--body); font-size: 14px; font-weight: 600; color: var(--accent); text-decoration: none; border: 1px solid var(--rule); border-radius: 999px; padding: 6px 14px; background: var(--sheet); }
 .acad:hover { border-color: var(--accent); }
 .hud { font-family: "Orbitron", var(--data); text-transform: uppercase; text-align: right; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
-.hclock { font-weight: 500; font-size: clamp(16px, 3vw, 30px); letter-spacing: .14em; color: var(--hud); text-shadow: 0 0 14px rgba(255,74,92,.35); font-variant-numeric: tabular-nums; }
+.hclock { font-weight: 500; font-size: clamp(16px, 3vw, 30px); letter-spacing: .14em; color: var(--hud); text-shadow: 0 0 14px rgba(70,224,255,.35); font-variant-numeric: tabular-nums; }
 .hmotto { font-size: clamp(9px, 1vw, 11px); letter-spacing: .22em; color: var(--hud2); }
 .hmotto b { font-weight: 700; color: var(--hud); }
 .kicker { font-family: var(--data); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); margin: 0 0 6px; }
