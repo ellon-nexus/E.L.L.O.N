@@ -1,0 +1,21 @@
+name: Lista de vigia (uma vez por dia útil, depois do fecho)
+on:
+  schedule:
+    - cron: "15 22 * * 1-5"
+  workflow_dispatch:
+  push:
+    paths: ["tools/vigia.py", ".github/workflows/vigia.yml"]
+permissions:
+  contents: write
+jobs:
+  vigia:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q yfinance
+      - run: python3 tools/vigia.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/vigia.json
+          git diff --cached --quiet || (git commit -m "Atualiza lista de vigia" && git pull --rebase -q && git push)

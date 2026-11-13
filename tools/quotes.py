@@ -118,6 +118,13 @@ for group, table in (("prices", {k: v[0] for k, v in ASSETS.items()}), ("cand", 
 fx = fetch("EURUSD=X", "eurusd")
 if fx and 0.9 < fx[0] < 1.4:
     out["fx"] = fx[0]; used.add(fx[4])
+# lista de vigia (gerada uma vez por dia por tools/vigia.py): só as que têm 3+ motivos seguem para as páginas
+try:
+    vg = json.load(open("data/vigia.json"))
+    out["vigia"] = {"asOf": vg.get("asOf"), "itens": {t: {k: r.get(k) for k in ("n", "p", "cur", "ma200", "h52", "div", "motivos")}
+                    for t, r in (vg.get("itens") or {}).items() if len(r.get("motivos") or []) >= 3}}
+except Exception:
+    pass
 out["asOf"] = (latest or datetime.now(timezone.utc)).strftime("%Y-%m-%dT%H:%M:%SZ")
 out["source"] = ("Fecho via " if datetime.now(timezone.utc).hour >= 21 or datetime.now(timezone.utc).weekday() >= 5 else "Durante a sessão via ") + " e ".join(sorted({"yahoo": "Yahoo Finance", "google": "Google Finance", "stooq": "Stooq"}[u] for u in used)) + (f"; sem dados: {', '.join(failed)}" if failed else "")
 out["erros"] = ERRS[:12]
