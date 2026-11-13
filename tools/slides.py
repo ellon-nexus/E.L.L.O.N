@@ -224,12 +224,12 @@ def slide_cover(ed, n, total, date_txt, used, credits, heads):
     return im
 
 
-def slide_end(n, total, date_txt):
+def slide_end(n, total, date_txt, wd=0):
     im = overlay(background(None), 0.0)
     d = ImageDraw.Draw(im)
     logo = Image.open(os.path.join(ROOT, "assets", LOGO)).convert("RGBA").resize((260, 260), Image.LANCZOS)
     im.alpha_composite(logo, ((W - 260) // 2, 260))
-    d.text((W // 2, 590), "Amanhã há mais.", font=serif(78), fill=(255, 255, 255), anchor="ma")
+    d.text((W // 2, 590), "Até segunda-feira." if wd >= 4 else "Amanhã há mais.", font=serif(78), fill=(255, 255, 255), anchor="ma")
     for i, ln in enumerate(["Segue a Conjuntura Diária para receberes", "as notícias dos mercados todas as manhãs."]):
         d.text((W // 2, 720 + i * 52), ln, font=sans(40), fill=(236, 228, 248), anchor="ma")
     for i, ln in enumerate(wrap(d, "Compilação de notícias de fontes públicas, para informação. Não é recomendação de investimento: a decisão é sempre de quem investe.", sans(30), W - 200)):
@@ -274,7 +274,7 @@ def render(ed, force=False):
     ims = [slide_cover(ed, 1, total, date_txt, used, credits, heads)]
     for i, s in enumerate(news):
         ims.append(slide_news(s, i + 2, total, date_txt, used, credits))
-    ims.append(slide_end(total, total, date_txt))
+    ims.append(slide_end(total, total, date_txt, dt.weekday()))
     for i, im in enumerate(ims):
         im.convert("RGB").save(os.path.join(outdir, f"{i + 1:02d}.png"), optimize=True)
     caption = ed.get("legenda") or (ed.get("summary", "")[:600] + "\n\n#mercados #economia #bolsa #investimentos #portugal")
