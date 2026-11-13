@@ -32,7 +32,7 @@
   },
   "SPCX": {
    "p": 139.96,
-   "prev": 139.84,
+   "prev": 139.83,
    "cur": "USD"
   },
   "CNQ": {
@@ -48,7 +48,7 @@
    "cur": "EUR"
   }
  },
- "fx": 1.1057,
+ "fx": 1.1063,
  "asOf": "2026-11-12T21:00:00Z",
  "source": "Durante a sessão via Yahoo Finance",
  "erros": []
