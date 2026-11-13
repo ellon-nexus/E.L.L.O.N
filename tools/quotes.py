@@ -9,6 +9,17 @@ ASSETS = {  # ticker do E.L.L.O.N: (Yahoo, Stooq, moeda)
     "SPCX": ("SPCX", "spcx.us", "USD"), "CNQ": ("CNQ", "cnq.us", "USD"),
 }
 WATCH = {"JPM": ("CMC.DE", "cmc.de", "EUR")}  # JPM vendida a 9/11/2026; fica em observação
+CAND = {"VWCE": "VWCE.DE", "SPYD": "SPYD.DE"}  # ETF candidatos às compras do mês (Xetra, EUR); ainda não são posições
+
+def stats(sym):
+    """Média dos últimos 200 fechos e máximo de 52 semanas, para a regra de compra do dia 20."""
+    import yfinance as yf
+    d = yf.Ticker(sym).history(period="1y", interval="1d", auto_adjust=False)
+    c = d["Close"].dropna()
+    if len(c) < 60:
+        return None
+    return {"ma200": round(float(c.tail(200).mean()), 4), "h52": round(float(c.max()), 4),
+            "p": round(float(c.iloc[-1]), 4), "prev": round(float(c.iloc[-2]), 4)}
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"}
 
 def get(url):
@@ -89,6 +100,21 @@ for group, table in (("prices", ASSETS), ("watch", WATCH)):
             p, prev, cur = p / 100, prev / 100, "GBP"
         out[group][t] = {"p": p, "prev": prev, "cur": cur}
         used.add(r[4]); latest = max(latest or when, when)
+# médias de 200 dias e máximos de 52 semanas (ativos e candidatos); falhas não travam o resto
+out["cand"] = {}
+for group, table in (("prices", {k: v[0] for k, v in ASSETS.items()}), ("cand", CAND)):
+    for t, ys in table.items():
+        try:
+            st = stats(ys)
+        except Exception as e:
+            st = None; ERRS.append(f"stats {ys}: {str(e)[:80]}")
+        if not st:
+            continue
+        if group == "cand":
+            out["cand"][t] = {"p": st["p"], "prev": st["prev"], "cur": "EUR", "ma200": st["ma200"], "h52": st["h52"]}
+        elif t in out["prices"]:
+            k = 100 if out["prices"][t].get("cur") == "GBP" and st["p"] > 1000 else 1
+            out["prices"][t].update({"ma200": round(st["ma200"] / k, 4), "h52": round(st["h52"] / k, 4)})
 fx = fetch("EURUSD=X", "eurusd")
 if fx and 0.9 < fx[0] < 1.4:
     out["fx"] = fx[0]; used.add(fx[4])
