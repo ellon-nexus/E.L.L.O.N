@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-13T12:04:07Z",
+ "asOf": "2026-11-13T12:08:51Z",
  "falhas": [
   "EA (EA): sem histórico",
   "PSKY (PSKY): sem histórico"
@@ -267,7 +267,7 @@
    "cur": "EUR",
    "div": 26,
    "h52": 57.08,
-   "ma200": 44.0988,
+   "ma200": 44.0984,
    "motivos": [
     "dividendos há 26 anos seguidos",
     "analistas a favor (18 opiniões)",
@@ -275,8 +275,8 @@
    ],
    "n": "Bayer AG                      N",
    "nrec": 18,
-   "p": 56.98,
-   "pe": 11.801035,
+   "p": 56.9,
+   "pe": 11.784467,
    "rec": 1.88889,
    "y": "BAYN.DE"
   },
@@ -292,8 +292,8 @@
    ],
    "n": "B.C.P.-BCO COMERCIAL PORTUGUES",
    "nrec": 18,
-   "p": 1.143,
-   "pe": 11.871624,
+   "p": 1.1435,
+   "pe": 11.876817,
    "rec": 2.0,
    "y": "BCP.LS"
   },
@@ -447,7 +447,7 @@
    "cresc": 0.833,
    "cur": "EUR",
    "div": 26,
-   "h52": 5.092,
+   "h52": 5.09,
    "ma200": 4.5632,
    "motivos": [
     "dividendos há 26 anos seguidos",
@@ -457,8 +457,8 @@
    ],
    "n": "EDP, SA",
    "nrec": 23,
-   "p": 5.092,
-   "pe": 15.878758,
+   "p": 5.09,
+   "pe": 15.872521,
    "rec": 1.65217,
    "y": "EDP.LS"
   },
@@ -467,14 +467,14 @@
    "cur": "EUR",
    "div": 2,
    "h52": 14.67,
-   "ma200": 13.4583,
+   "ma200": 13.4584,
    "motivos": [
     "analistas a favor (23 opiniões)"
    ],
    "n": "EDP RENEWABLES, SA",
    "nrec": 23,
-   "p": 13.84,
-   "pe": 27.850447,
+   "p": 13.86,
+   "pe": 27.890692,
    "rec": 2.0,
    "y": "EDPR.LS"
   },
@@ -562,8 +562,8 @@
    ],
    "n": "EASYJET PLC ORD 27 2/7P",
    "nrec": 13,
-   "p": 6.8902,
-   "pe": 19.227571,
+   "p": 6.892,
+   "pe": 19.232594,
    "rec": null,
    "y": "EZJ.L"
   },
@@ -647,12 +647,12 @@
    "motivos": [
     "dividendos há 19 anos seguidos",
     "3% abaixo da média de 200 dias",
-    "P/L de 8"
+    "P/L de 9"
    ],
    "n": "GALP ENERGIA-NOM",
    "nrec": 18,
-   "p": 19.41,
-   "pe": 8.498434,
+   "p": 19.415,
+   "pe": 8.500624,
    "rec": 2.11111,
    "y": "GALP.LS"
   },
@@ -791,15 +791,15 @@
    "cresc": -0.134,
    "cur": "EUR",
    "div": 26,
-   "h52": 23.54,
-   "ma200": 20.426,
+   "h52": 23.53,
+   "ma200": 20.4259,
    "motivos": [
     "dividendos há 26 anos seguidos"
    ],
    "n": "ACCIONES IBERDROLA",
    "nrec": 24,
-   "p": 23.54,
-   "pe": 21.13884,
+   "p": 23.53,
+   "pe": 21.12986,
    "rec": 2.5,
    "y": "IBE.MC"
   },
@@ -883,8 +883,8 @@
    ],
    "n": "J.MARTINS,SGPS",
    "nrec": 21,
-   "p": 19.73,
-   "pe": 15.254368,
+   "p": 19.72,
+   "pe": 15.246635,
    "rec": 1.57143,
    "y": "JMT.LS"
   },
@@ -1074,7 +1074,7 @@
    "cur": "EUR",
    "div": 15,
    "h52": 61.93,
-   "ma200": 48.0808,
+   "ma200": 48.0805,
    "motivos": [
     "dividendos há 15 anos seguidos",
     "15% abaixo da média de 200 dias",
@@ -1084,8 +1084,8 @@
    ],
    "n": "Mercedes-Benz Group AG        N",
    "nrec": 20,
-   "p": 40.855,
-   "pe": 7.004703,
+   "p": 40.795,
+   "pe": 6.9944153,
    "rec": 2.38095,
    "y": "MBG.DE"
   },
@@ -1335,15 +1335,15 @@
    "cur": "CHF",
    "div": 29,
    "h52": 134.48,
-   "ma200": 122.3456,
+   "ma200": 122.3457,
    "motivos": [
     "dividendos há 29 anos seguidos",
     "P/L de 16"
    ],
    "n": "NOVARTIS N",
    "nrec": 22,
-   "p": 134.14,
-   "pe": 16.222956,
+   "p": 134.16,
+   "pe": 16.225376,
    "rec": 2.78261,
    "y": "NOVN.SW"
   },
@@ -1352,7 +1352,7 @@
    "cur": "DKK",
    "div": 25,
    "h52": 401.35,
-   "ma200": 282.176,
+   "ma200": 282.1767,
    "motivos": [
     "dividendos há 25 anos seguidos",
     "32% abaixo do máximo de 52 semanas",
@@ -1360,8 +1360,8 @@
    ],
    "n": "Novo Nordisk B A/S",
    "nrec": 24,
-   "p": 274.55,
-   "pe": 12.068709,
+   "p": 274.7,
+   "pe": 12.075304,
    "rec": 3.03846,
    "y": "NOVO-B.CO"
   },
@@ -1370,15 +1370,15 @@
    "cur": "EUR",
    "div": 26,
    "h52": 455.6,
-   "ma200": 381.8588,
+   "ma200": 381.8585,
    "motivos": [
     "dividendos há 26 anos seguidos",
     "lucros a crescer 5%"
    ],
    "n": "L'OREAL",
    "nrec": 24,
-   "p": 448.1,
-   "pe": 29.373667,
+   "p": 448.05,
+   "pe": 29.370388,
    "rec": 2.125,
    "y": "OR.PA"
   },
@@ -1701,8 +1701,8 @@
    ],
    "n": "ROLLS-ROYCE HOLDINGS PLC ORD SH",
    "nrec": 20,
-   "p": 13.58,
-   "pe": 26.790823,
+   "p": 13.5664,
+   "pe": 26.763914,
    "rec": 1.6,
    "y": "RR.L"
   },
@@ -1729,14 +1729,14 @@
    "cur": "SEK",
    "div": 5,
    "h52": 729.8,
-   "ma200": 602.832,
+   "ma200": 602.84,
    "motivos": [
     "lucros a crescer 45%"
    ],
    "n": "SAAB AB ser. B",
    "nrec": 15,
-   "p": 616.2,
-   "pe": 61.939697,
+   "p": 617.8,
+   "pe": 62.090454,
    "rec": 2.8,
    "y": "SAAB-B.ST"
   },
@@ -1745,7 +1745,7 @@
    "cur": "EUR",
    "div": 27,
    "h52": 218.1,
-   "ma200": 166.5875,
+   "ma200": 166.587,
    "motivos": [
     "dividendos há 27 anos seguidos",
     "analistas a favor (27 opiniões)",
@@ -1753,8 +1753,8 @@
    ],
    "n": "SAP SE                        I",
    "nrec": 27,
-   "p": 213.65,
-   "pe": 25.176613,
+   "p": 213.55,
+   "pe": 25.164831,
    "rec": 1.55172,
    "y": "SAP.DE"
   },
@@ -1781,7 +1781,7 @@
    "cur": "EUR",
    "div": 26,
    "h52": 289.85,
-   "ma200": 260.2782,
+   "ma200": 260.2777,
    "motivos": [
     "dividendos há 26 anos seguidos",
     "analistas a favor (24 opiniões)",
@@ -1790,8 +1790,8 @@
    ],
    "n": "SIEMENS AG                    N",
    "nrec": 24,
-   "p": 279.2,
-   "pe": 18.523802,
+   "p": 279.1,
+   "pe": 18.517168,
    "rec": 1.92,
    "y": "SIE.DE"
   },
@@ -2242,8 +2242,8 @@
    ],
    "n": "VODAFONE GROUP PLC ORD USD0.20 ",
    "nrec": 16,
-   "p": 1.165,
-   "pe": 11.669281,
+   "p": 1.1642,
+   "pe": 11.661729,
    "rec": 2.73333,
    "y": "VOD.L"
   },
@@ -2334,8 +2334,8 @@
    ],
    "n": "WISE GROUP PLC CLS A ORD USD0.0",
    "nrec": 16,
-   "p": 8.832,
-   "pe": 18.077616,
+   "p": 8.824,
+   "pe": 18.061241,
    "rec": 1.85,
    "y": "WISE.L"
   },
