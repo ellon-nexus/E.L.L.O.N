@@ -1,5 +1,195 @@
 [
  {
+  "asOf": "2026-11-13T07:30:00Z",
+  "capa_foto": "stock exchange trading screens",
+  "capa_titulo": "Nvidia sem Huang e petróleo outra vez a subir",
+  "id": "2026-11-13",
+  "ideas": [
+   {
+    "market": "NYSE (ADR) / Taiwan",
+    "name": "TSMC",
+    "risks": "Tensão entre os EUA e a China, restrições à exportação de chips e dependência do ciclo de investimento em IA podem pesar nos resultados.",
+    "sources": [
+     {
+      "title": "AP (click2houston), 12/11/2026",
+      "url": "https://www.click2houston.com/business/2026/11/13/asian-shares-are-mixed-as-investors-assess-impact-of-nvidias-fallout-on-global-ai-development/"
+     },
+     {
+      "title": "AI Business, 09/11/2026",
+      "url": "https://aibusiness.com/data-centers/jensen-huang-future-raises-questions-ai-infrastructure-industry"
+     }
+    ],
+    "tag": "Ásia · Chips",
+    "thesis": "A TSMC subiu 0,9% e a bolsa de Taiwan 1,7% numa sessão em que a Nvidia sofreu, sinal de que a fabricante de chips é vista como menos dependente de uma só empresa; o artigo da AI Business cita-a entre as empresas ligadas ao ecossistema da Nvidia.",
+    "ticker": "TSM"
+   },
+   {
+    "market": "Nasdaq (EUA)",
+    "name": "Advanced Micro Devices",
+    "risks": "A subida pode ser só uma reação de curto prazo e a Nvidia mantém a liderança do mercado; as ações de chips são voláteis.",
+    "sources": [
+     {
+      "title": "AP (click2houston), 12/11/2026",
+      "url": "https://www.click2houston.com/business/2026/11/13/asian-shares-are-mixed-as-investors-assess-impact-of-nvidias-fallout-on-global-ai-development/"
+     }
+    ],
+    "tag": "Inteligência artificial",
+    "thesis": "Subiu cerca de 5,9% na quinta-feira, quando a Nvidia caiu mais de 4% após a saída do seu presidente executivo; a AMD é uma das alternativas em chips de IA.",
+    "ticker": "AMD"
+   },
+   {
+    "market": "Nasdaq (EUA)",
+    "name": "CoreWeave",
+    "risks": "Empresa de crescimento muito volátil, muito dependente de poucos clientes e da Nvidia, que agora vive um momento de incerteza.",
+    "sources": [
+     {
+      "title": "ECO, 12/11/2026",
+      "url": "https://eco.sapo.pt/topico/mercados/"
+     }
+    ],
+    "tag": "Infraestrutura de IA",
+    "thesis": "Subiu 20% em Wall Street a 11 de novembro com contas acima do esperado, segundo o ECO, e puxou por outras tecnológicas.",
+    "ticker": "CRWV"
+   },
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "iShares MSCI Japan ETF",
+    "risks": "O iene fraco encarece importações e pode obrigar o banco central a agir; o fundo tem exposição a empresas de chips e a SoftBank, que caiu 5,2%.",
+    "sources": [
+     {
+      "title": "AP (click2houston), 12/11/2026",
+      "url": "https://www.click2houston.com/business/2026/11/13/asian-shares-are-mixed-as-investors-assess-impact-of-nvidias-fallout-on-global-ai-development/"
+     }
+    ],
+    "tag": "Ásia · Japão",
+    "thesis": "O Nikkei subiu 0,8% para 61.283 pontos, mesmo num dia de nervosismo com a tecnologia, e o iene fraco (cerca de 160 por dólar) ajuda os exportadores japoneses.",
+    "ticker": "EWJ"
+   },
+   {
+    "market": "Cripto",
+    "name": "Bitcoin",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor e não tem dividendos; novas saídas dos fundos ou uma subida de juros maior podem agravar a queda.",
+    "sources": [
+     {
+      "title": "FinanceFeeds, 12/11/2026",
+      "url": "https://financefeeds.com/bitcoin-price-etf-outflows-five-sessions-ppi/"
+     },
+     {
+      "title": "ABC News Australia, 13/11/2026",
+      "url": "https://www.abc.net.au/news/2026-11-13/asx-markets-business-news-live-updates-nov-13/107337368"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "Os ETF de bitcoin dos EUA tiveram saídas líquidas em cinco sessões seguidas, de 1,44 mil milhões de dólares desde 5/11, e o ativo desceu 8,7% numa semana; os analistas citados apontam suporte perto de 73.000 dólares e a inflação dos EUA como o motor da queda.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "A Nvidia perdeu o seu fundador: Jensen Huang demitiu-se e as ações chegaram a cair 13%. O petróleo voltou a subir mais de 3%, para 95,82 dólares, depois de Trump dizer que os EUA não precisam de acordo com o Irão. A inflação americana surpreendeu em alta e os juros a 10 anos estão nos 5,1%. Na Ásia, o Nikkei subiu e Hong Kong caiu, com o iene perto de 160 por dólar. O bitcoin recuou para cerca de 71.500 dólares.\n\n#mercados #economia #bolsa #Nvidia #petróleo #juros #inflação #bitcoin #markets #investing",
+  "next": "segunda-feira de manhã",
+  "slides": [
+   {
+    "foto": "semiconductor chip closeup",
+    "tag": "Tecnologia",
+    "texto": "O fundador demitiu-se após 33 anos. As ações chegaram a cair 13% e fecharam a perder cerca de 5%. Colette Kress é CEO interina: a IA mundial segue a história.",
+    "tipo": "ultima_hora",
+    "titulo": "Jensen Huang deixa a Nvidia"
+   },
+   {
+    "foto": "oil refinery night",
+    "tag": "Energia",
+    "texto": "O Brent fechou nos 95,82 dólares. Se a tensão no Irão e em Ormuz continuar, gasolina e gasóleo demoram mais a baixar.",
+    "tipo": "noticia",
+    "titulo": "Petróleo sobe 3% com Trump a dispensar acordo"
+   },
+   {
+    "foto": "bank building skyscrapers",
+    "tag": "Juros",
+    "texto": "Os preços subiram 0,4% em outubro, contra 0,3% esperado. O juro a 10 anos está nos 5,1%: crédito à habitação e empréstimos mais caros.",
+    "tipo": "noticia",
+    "titulo": "Inflação nos EUA sobe e a Fed pode apertar"
+   },
+   {
+    "foto": "tokyo stock exchange board",
+    "tag": "Ásia",
+    "texto": "O Nikkei ganhou 0,8% e a SoftBank perdeu 5,2%. Com o iene perto de 160 por dólar, importar fica mais caro no Japão.",
+    "tipo": "noticia",
+    "titulo": "Tóquio sobe, Hong Kong cai, iene a 160"
+   },
+   {
+    "foto": "bitcoin coin dark background",
+    "tag": "Cripto",
+    "texto": "Cinco sessões seguidas de saídas nos fundos: 1,44 mil milhões de dólares. É um ativo muito volátil e pode perder grande parte do valor.",
+    "tipo": "noticia",
+    "titulo": "Bitcoin cai para perto de 71.500 dólares"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Nvidia (comunicado do conselho), 08/11/2026",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/"
+   },
+   {
+    "title": "AI Business, 09/11/2026",
+    "url": "https://aibusiness.com/data-centers/jensen-huang-future-raises-questions-ai-infrastructure-industry"
+   },
+   {
+    "title": "ECO, 12/11/2026",
+    "url": "https://eco.sapo.pt/topico/mercados/"
+   },
+   {
+    "title": "Euronews Portugal, 12/11/2026",
+    "url": "https://pt.euronews.com/perfis/1644"
+   },
+   {
+    "title": "ABC News Australia, 13/11/2026",
+    "url": "https://www.abc.net.au/news/2026-11-13/asx-markets-business-news-live-updates-nov-13/107337368"
+   },
+   {
+    "title": "AP (click2houston), 12/11/2026",
+    "url": "https://www.click2houston.com/business/2026/11/13/asian-shares-are-mixed-as-investors-assess-impact-of-nvidias-fallout-on-global-ai-development/"
+   },
+   {
+    "title": "Reuters/Karnataka (petróleo), 13/11/2026",
+    "url": "https://newskarnataka.com/business/brent-crude-rises-above-95-amid-iran-tensions/13112026/"
+   },
+   {
+    "title": "FinanceFeeds, 12/11/2026",
+    "url": "https://financefeeds.com/bitcoin-price-etf-outflows-five-sessions-ppi/"
+   },
+   {
+    "title": "Wealth Awesome (CNQ), 12/11/2026",
+    "url": "https://wealthawesome.com/canadian-natural-resources-ltd-cnq-earnings-beat-estimates-by-107-11092026-earnings"
+   }
+  ],
+  "summary": "A Nvidia, a empresa mais valiosa do mundo em bolsa, ficou sem o homem que a criou: Jensen Huang demitiu-se de presidente executivo depois de uma investigação ligada a suspeitas de espionagem e a relações extraconjugais, e as ações chegaram a cair 13% antes de recuperarem parte da queda. É um abanão para toda a corrida à inteligência artificial, que anda nos preços dos telemóveis, dos serviços online e nos fundos de pensões que têm tecnologia. Ao mesmo tempo, o petróleo voltou a subir mais de 3% depois de Donald Trump dizer que os EUA não precisam de um acordo com o Irão, o que pode atrasar o alívio na gasolina que se esperava, e os juros a 10 anos nos EUA estão nos 5,1%, com o mercado a ponderar uma subida maior da taxa da Fed em dezembro. Em Portugal, o dia traz outro aviso: as faturas de eletricidade e gás desceram no primeiro semestre, mas voltaram a subir em outubro em muitas capitais europeias.",
+  "themes": [
+   {
+    "t": "Nvidia fica sem o seu fundador",
+    "txt": "Jensen Huang demitiu-se de presidente executivo da Nvidia ao fim de 33 anos, depois de uma investigação do conselho ligada a notícias de que teria sido alvo de uma operação de espionagem estrangeira e de relações extraconjugais com uma mulher suspeita pelos serviços americanos de ser espiã chinesa. Colette Kress, a diretora financeira, é presidente executiva interina e Harvey Jones passa a presidir ao conselho. As ações chegaram a perder 13% à abertura e fecharam a cair cerca de 5%, enquanto a concorrente AMD subiu quase 6%. Como a Nvidia vende os chips que alimentam a inteligência artificial, qualquer dúvida sobre quem a lidera mexe com empresas e fundos de todo o mundo."
+   },
+   {
+    "t": "Petróleo volta a subir: Trump dispensa acordo com o Irão",
+    "txt": "O Brent fechou quinta-feira nos 95,82 dólares, mais 3,3%, depois de Trump dizer que os EUA não precisam de um acordo com o Irão e de os Houthis reivindicarem ataques a instalações petrolíferas sauditas (os sauditas dizem ter intercetado dois drones). O preço chegou a cair abaixo dos 90 dólares e, ainda assim, está cerca de 2,5% mais baixo do que há uma semana. Já passou o pior: no fim de fevereiro, antes da guerra, andava perto de 72 dólares. Para o dia a dia, isto significa que gasolina e gasóleo podem demorar mais a baixar."
+   },
+   {
+    "t": "Juros altos e uma Fed que pode apertar mais",
+    "txt": "A inflação dos EUA de outubro subiu 0,4% num mês, acima dos 0,3% esperados, e um governador da Fed, Waller, disse que um valor de 0,3% ou mais poderia justificar uma subida de 0,50 pontos percentuais. Os mercados dão agora cerca de 15% de probabilidade a uma subida desse tamanho em dezembro, contra pouco mais de 1% antes. O juro a 10 anos nos EUA e na Austrália ronda os 5,1%. Juros assim encarecem os empréstimos, incluindo a prestação da casa, e voltam a tornar as obrigações atrativas."
+   },
+   {
+    "t": "Ásia: tecnologia aos solavancos e iene fraco",
+    "txt": "Na Ásia o dia foi misto: o Nikkei de Tóquio subiu 0,8% para 61.283 pontos e a bolsa de Taiwan 1,7%, mas Hong Kong caiu 0,9% e a Coreia do Sul 0,5%. A SoftBank, grande apostadora em IA, perdeu 5,2% e a SK Hynix 2%, enquanto a TSMC ganhou 0,9% e a Tokyo Electron 1,5%. O iene está perto de 160 por dólar, o que encarece as importações japonesas e o turismo de quem sai do Japão."
+   },
+   {
+    "t": "Europa: faturas da luz e ofensiva ucraniana",
+    "txt": "Os preços domésticos da eletricidade e do gás na União Europeia desceram no primeiro semestre de 2026 face ao ano passado, mas voltaram a subir em outubro em muitas capitais e as faturas podem aumentar no início de 2027, segundo a Euronews. A NATO elogiou a Ucrânia pela campanha contra infraestruturas russas de gasóleo, e outro ataque ucraniano atingiu o porto de Ust-Luga, na Rússia, o que pode aliviar ou complicar o fornecimento de combustíveis consoante a duração. Os mercados europeus subiram ligeiramente, com o DAX a ganhar 0,4%."
+   },
+   {
+    "t": "Bitcoin cai abaixo dos 72.000 dólares",
+    "txt": "Os fundos de bitcoin dos EUA tiveram cinco sessões seguidas de saídas, no total de 1,44 mil milhões de dólares desde 5 de novembro, e o bitcoin recuou 4% para cerca de 71.500 dólares. O medo de que a Fed suba mais os juros pesa nos ativos de risco, e o índice MSCI vai retirar de alguns índices empresas que só têm cripto no balanço depois de 30 de novembro. É um ativo muito volátil e pode perder grande parte do valor."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-12T07:27:49Z",
   "capa_foto": "stock exchange trading screens",
   "capa_titulo": "Nvidia treme e o petróleo respira",
