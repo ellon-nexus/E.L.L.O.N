@@ -25,6 +25,11 @@ Y = {
  "LRCX": "LRCX", "SAP": "SAP.DE", "TENCENT": "0700.HK", "HYNIX": "000660.KS", "ENI": "ENI.MI", "PSX": "PSX", "UPS": "UPS",
  "NOC": "NOC", "TOYOTA": "7203.T", "FCNCA": "FCNCA", "JMT": "JMT.LS", "VOD": "VOD.L", "JPM": "JPM",
 }
+# empresas novas pedidas na página Análise de Empresas (a tarefa de análise acrescenta-as aqui)
+try:
+    Y.update(json.load(open("data/vigia-extra.json")))
+except Exception:
+    pass
 CARTEIRA = {"O", "NEE", "CMCSA", "NVDA", "WTRG", "SPCX", "CNQ", "VUAA"}  # já são posições: tratadas pelas cotações
 
 def anos_div(divs):
