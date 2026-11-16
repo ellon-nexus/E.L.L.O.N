@@ -1,26 +1,15 @@
 {
- "asOf": "2026-11-13",
+ "asOf": "2026-11-16",
  "events": [
   {
-   "d": "2026-11-13",
-   "k": "pay",
-   "src": {
-    "title": "Realty Income · comunicado",
-    "url": "https://www.prnewswire.com/news-releases/realty-income-announces-676th-consecutive-common-stock-monthly-dividend-302907388.html"
-   },
-   "t": "O",
-   "txt": "Pagamento do dividendo de 0,2715 $ por ação."
-  },
-  {
-   "d": "2026-11-18",
-   "est": true,
+   "d": "2026-11-17",
    "k": "earnings",
    "src": {
-    "title": "ECIKS · agenda de resultados",
-    "url": "https://eciks.org/29651-nvidia-fiscal-2027-q3-results"
+    "title": "Nvidia (comunicado), 28/10/2026",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
    },
    "t": "NVDA",
-   "txt": "Resultados do 3.º trimestre fiscal de 2027, depois do fecho (22h em Lisboa); consenso de 108,8 mil M$ de receitas e 2,47 $ por ação. Uma fonte aponta terça-feira, 17/11: data por confirmar, e a saída do presidente executivo pode alterar o calendário."
+   "txt": "Resultados do 3.º trimestre fiscal de 2027 depois do fecho em Nova Iorque; conferência às 14h PT (22h em Lisboa)."
   },
   {
    "d": "2026-11-27",
@@ -31,6 +20,16 @@
    },
    "t": "NEE",
    "txt": "Dividendo de 0,6232 $ por ação. Pago a 15/12."
+  },
+  {
+   "d": "2026-11-30",
+   "k": "ex",
+   "src": {
+    "title": "Realty Income (PR Newswire via Finviz), 10/11/2026",
+    "url": "https://finviz.com/news/420493/137th-common-stock-monthly-dividend-increase-declared-by-realty-income"
+   },
+   "t": "O",
+   "txt": "Dividendo mensal de 0,2740 $ por ação (data de registo). Pago a 15/12."
   },
   {
    "d": "2026-12-01",
@@ -53,24 +52,14 @@
    "txt": "Pagamento do dividendo de 0,6232 $ por ação."
   },
   {
-   "d": "2026-12-21",
-   "k": "ex",
-   "src": {
-    "title": "SSGA · calendário de dividendos 2026",
-    "url": "https://www.ssga.com/library-content/products/fund-docs/dividend-distributions/emea/2026-dividend-calender.pdf"
-   },
-   "t": "USDV",
-   "txt": "Distribuição trimestral; valor ainda por anunciar (anúncio a 14/12). Paga a 31/12."
-  },
-  {
-   "d": "2026-12-31",
+   "d": "2026-12-15",
    "k": "pay",
    "src": {
-    "title": "SSGA · calendário de dividendos 2026",
-    "url": "https://www.ssga.com/library-content/products/fund-docs/dividend-distributions/emea/2026-dividend-calender.pdf"
+    "title": "Realty Income (PR Newswire via Finviz), 10/11/2026",
+    "url": "https://finviz.com/news/420493/137th-common-stock-monthly-dividend-increase-declared-by-realty-income"
    },
-   "t": "USDV",
-   "txt": "Pagamento da distribuição trimestral (valor ainda por anunciar)."
+   "t": "O",
+   "txt": "Pagamento do dividendo mensal de 0,2740 $ por ação."
   },
   {
    "d": "2027-01-06",

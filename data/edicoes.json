@@ -1,5 +1,187 @@
 [
  {
+  "asOf": "2026-11-16T07:28:15Z",
+  "capa_foto": "gas station price sign",
+  "capa_titulo": "Inflação a 3,8% e semana decisiva para a Nvidia",
+  "id": "2026-11-16",
+  "ideas": [
+   {
+    "market": "Nasdaq (EUA)",
+    "name": "Micron Technology",
+    "risks": "Setor muito cíclico e volátil, dependente do investimento em IA e do que a Nvidia disser esta semana.",
+    "sources": [
+     {
+      "title": "AP (AJC), 11/11/2026",
+      "url": "https://www.ajc.com/news/2026/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+     }
+    ],
+    "tag": "Chips de memória",
+    "thesis": "A Micron subiu 11,9% a 11/11 no regresso das ações de IA, segundo a AP, e os chips de memória são peça central dos servidores de IA.",
+    "ticker": "MU"
+   },
+   {
+    "market": "NYSE (EUA)",
+    "name": "American Water Works",
+    "risks": "Faltam aprovações na Pensilvânia, Nova Jérsia, Carolina do Norte e Texas, e os aumentos de tarifas dependem dos reguladores.",
+    "sources": [
+     {
+      "title": "Smart Water Magazine, 10/11/2026",
+      "url": "https://smartwatermagazine.com/news/smart-water-magazine/illinois-regulator-approves-american-water-essential-utilities-merger-fourth-state-clearance"
+     }
+    ],
+    "tag": "Utilities · Água",
+    "thesis": "A fusão com a Essential Utilities, só em ações (0,305 ações da AWK por cada ação da Essential), já foi aprovada em quatro estados e deve fechar no 1.º trimestre de 2027; formaria um dos maiores operadores de água e gás dos EUA.",
+    "ticker": "AWK"
+   },
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "iShares MSCI Mexico ETF",
+    "risks": "Exposição ao peso mexicano, ao comércio com os EUA e ao preço do petróleo.",
+    "sources": [
+     {
+      "title": "Rio Times, 07/11/2026",
+      "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-november-7-2026/"
+     }
+    ],
+    "tag": "América Latina · México",
+    "thesis": "O banco central do México baixou a taxa para 6,25%, o que alivia o crédito, num momento em que Europa e EUA estão a subir juros.",
+    "ticker": "EWW"
+   },
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "iShares MSCI South Korea ETF",
+    "risks": "Concentração em poucas empresas de chips e sensibilidade a tensões EUA-China.",
+    "sources": [
+     {
+      "title": "AP (AJC), 11/11/2026",
+      "url": "https://www.ajc.com/news/2026/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+     }
+    ],
+    "tag": "Ásia · Coreia do Sul",
+    "thesis": "O Kospi subiu 2,6% a 11/11 com os chips de IA, segundo a AP; o ETF dá acesso ao mercado sul-coreano, muito ligado a esse setor.",
+    "ticker": "EWY"
+   },
+   {
+    "market": "Cripto",
+    "name": "Bitcoin",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor e não tem dividendos; juros altos e saídas de fundos podem agravar a queda.",
+    "sources": [
+     {
+      "title": "Live Trading News, 16/11/2026",
+      "url": "https://www.livetradingnews.com/the-week-ahead-on-wall-street-16-november-2026-look-for-the-bounce"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O bitcoin fechou sexta nos 68.249 dólares (-9,9% numa semana) e chegou a 62.086 no domingo, com cerca de 2 mil milhões de dólares em liquidações em 24 horas, segundo a Coinglass citada no resumo semanal.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "A inflação em Portugal subiu para 3,8% em outubro e a energia explica grande parte: está 17,4% mais cara do que há um ano. Lá fora, o Estreito de Ormuz continua fechado e o Brent anda perto dos 96 dólares. Esta semana a Nvidia apresenta contas na terça-feira e a Fed publica a ata na quarta. O bitcoin caiu para perto dos 65.000 dólares.\n\n#mercados #economia #inflação #Portugal #petróleo #juros #Nvidia #bitcoin #markets #investing",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "gas station fuel pump",
+    "tag": "Portugal",
+    "texto": "O INE confirmou 3,8% em outubro (3,6% em setembro). A energia ficou 17,4% mais cara num ano e as rendas por m² subiram 5,2%: o aperto sente-se no depósito e na casa.",
+    "tipo": "noticia",
+    "titulo": "Inflação em Portugal sobe para 3,8%"
+   },
+   {
+    "foto": "semiconductor chip closeup",
+    "tag": "Tecnologia",
+    "texto": "Primeiros resultados desde a saída do fundador: a empresa previu cerca de 108 mil M$ de receitas. As ações perderam cerca de 13% numa semana. Conferência às 22h de Lisboa.",
+    "tipo": "noticia",
+    "titulo": "Nvidia apresenta contas na terça"
+   },
+   {
+    "foto": "oil tanker at sea",
+    "tag": "Energia",
+    "texto": "O Brent fechou nos 95,84 dólares e as negociações indiretas via Qatar não trouxeram acordo. Sem a reabertura de Ormuz, o alívio na gasolina continua a esperar.",
+    "tipo": "noticia",
+    "titulo": "Brent perto dos 96 $ com Ormuz fechado"
+   },
+   {
+    "foto": "federal reserve building",
+    "tag": "Juros",
+    "texto": "A taxa a 10 anos fechou nos 5,15%, mais 0,3 pontos numa semana. A ata da Fed sai na quarta-feira: juros altos encarecem crédito e pesam nas bolsas.",
+    "tipo": "noticia",
+    "titulo": "Juros dos EUA a 10 anos acima de 5%"
+   },
+   {
+    "foto": "digital coins abstract",
+    "tag": "Cripto",
+    "texto": "O bitcoin perdeu 9,9% numa semana e tocou nos 62.086 dólares no domingo, com cerca de 2 mil M$ em posições liquidadas em 24 horas.",
+    "tipo": "noticia",
+    "titulo": "Bitcoin cai para perto dos 65.000 $"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Live Trading News, 16/11/2026",
+    "url": "https://www.livetradingnews.com/the-week-ahead-on-wall-street-16-november-2026-look-for-the-bounce"
+   },
+   {
+    "title": "AP (AJC), 11/11/2026",
+    "url": "https://www.ajc.com/news/2026/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+   },
+   {
+    "title": "MUFG Research, 30/10/2026",
+    "url": "https://www.mufgresearch.com/macro/european-macro-weekly-30-october-2026/"
+   },
+   {
+    "title": "Nvidia (comunicado), 28/10/2026",
+    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+   },
+   {
+    "title": "Al Jazeera, 04/11/2026",
+    "url": "https://aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+   },
+   {
+    "title": "Rio Times, 07/11/2026",
+    "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-november-7-2026/"
+   },
+   {
+    "title": "Smart Water Magazine, 10/11/2026",
+    "url": "https://smartwatermagazine.com/news/smart-water-magazine/illinois-regulator-approves-american-water-essential-utilities-merger-fourth-state-clearance"
+   },
+   {
+    "title": "Realty Income (PR Newswire via Finviz), 10/11/2026",
+    "url": "https://finviz.com/news/420493/137th-common-stock-monthly-dividend-increase-declared-by-realty-income"
+   },
+   {
+    "title": "Simula.pt, 11/11/2026",
+    "url": "https://simula.pt/noticias/inflacao-outubro-2026-definitiva/"
+   }
+  ],
+  "summary": "Quando a bomba de gasolina sobe, a inflação sobe atrás: em Portugal os preços subiram 3,8% em outubro face a há um ano, e só a energia ficou 17,4% mais cara. É por isso que o que se passa longe, no Estreito de Ormuz, acaba na fatura do carro, da luz e do supermercado. A semana que começa traz três pontos de decisão: as contas da Nvidia na terça-feira à noite, a ata da Fed na quarta e o encontro entre Trump e Xi Jinping na cimeira da APEC, em Shenzhen. Entretanto os juros americanos a 10 anos estão acima de 5% e o bitcoin caiu para perto dos 65.000 dólares, o que mostra um mercado com pouco apetite por risco.",
+  "themes": [
+   {
+    "t": "Portugal: a energia empurra a inflação para 3,8%",
+    "txt": "O INE confirmou que os preços ao consumidor subiram 3,8% em outubro face ao ano anterior (3,6% em setembro). Os produtos energéticos ficaram 17,4% mais caros num ano e os transportes 8,3%. As rendas por metro quadrado subiram 5,2%. Na prática, quem enche o depósito, paga a luz e a renda sente o aperto mais do que quem só olha para a taxa média."
+   },
+   {
+    "t": "Nvidia: as contas que todos esperam esta terça",
+    "txt": "A Nvidia divulga os resultados do 3.º trimestre fiscal na terça-feira, 17, depois do fecho em Nova Iorque (a conferência é às 22h de Lisboa). É a primeira vez que presta contas desde a saída do fundador, e o mercado quer saber se a procura por chips de IA aguenta e quem vai liderar a empresa. A empresa tinha apontado cerca de 108 mil milhões de dólares de receitas; as ações perderam cerca de 13% numa semana, e a bolsa de Taiwan e a de Seul, ligadas aos chips, mexem em reação."
+   },
+   {
+    "t": "Ormuz fechado, petróleo perto dos 96 dólares",
+    "txt": "O Brent fechou sexta-feira nos 95,84 dólares e o WTI nos 88,56. O Irão diz que a resposta americana às suas sete condições para reabrir o Estreito de Ormuz não foi convincente, e o Qatar continua a mediar de forma indireta. Há um contrapeso: segundo o resumo semanal consultado, a oferta mundial de petróleo está acima da procura, e o Brent está cerca de 18% abaixo do fecho de 30 de outubro. Por isso o preço da gasolina depende mais de uma resolução diplomática do que de falta de crude."
+   },
+   {
+    "t": "Europa: inflação a 4% e o BCE sem folga",
+    "txt": "A inflação da zona euro estimada para outubro foi de 4,0% (3,8% em setembro), com Itália nos 5,6% e França nos 3,8%, e o gás TTF acima de 100 euros por megawatt-hora. A economia surpreendeu com um crescimento de 0,4% no 3.º trimestre, o que deixa o BCE com razões para apertar mais. A MUFG prevê subidas de 0,25 pontos percentuais em dezembro e em março; quem tem crédito à taxa variável deve contar com prestações mais pesadas mais tempo. Os dados finais de inflação saem na quarta-feira."
+   },
+   {
+    "t": "América Latina: o México corta juros, o Brasil arrefece",
+    "txt": "O banco central do México baixou a taxa para 6,25%, num contraste com a Europa e os EUA, onde os juros estão a subir. No Brasil, os índices PMI de serviços (44,5) e de atividade (44,4) estão abaixo de 50, sinal de contração, e a produção industrial de setembro caiu 2,5% num ano. No Chile a inflação subiu para 4,5% por causa dos combustíveis, e no Paraguai o colapso de um banco digital levou à destituição do presidente, um aviso sobre a fragilidade de alguns sistemas financeiros."
+   },
+   {
+    "t": "Ásia: Seul a subir, Hong Kong a cair e o iene a 160",
+    "txt": "Na quarta-feira passada o Kospi sul-coreano subiu 2,6% com o regresso dos chips de IA, enquanto Hong Kong caiu 1%. O iene está perto dos 160 por dólar e o ministro das Finanças japonês já avisou contra movimentos bruscos, o que encarece importações como energia e alimentos no Japão. Em Shenzhen, na China, Trump e Xi Jinping devem encontrar-se a 19, durante a cimeira da APEC, com a trégua comercial e o controlo de chips na agenda."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-13T07:30:00Z",
   "capa_foto": "stock exchange trading screens",
   "capa_titulo": "Nvidia sem Huang e petróleo outra vez a subir",
