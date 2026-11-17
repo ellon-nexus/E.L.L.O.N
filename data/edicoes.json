@@ -1,5 +1,214 @@
 [
  {
+  "asOf": "2026-11-17T07:30:00Z",
+  "capa_foto": "stock market screens",
+  "capa_titulo": "Bolsas em queda antes das contas da Nvidia",
+  "id": "2026-11-17",
+  "ideas": [
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "SPDR Gold Shares",
+    "risks": "Não paga dividendos e tende a cair quando os juros reais e o dólar sobem.",
+    "sources": [
+     {
+      "title": "Reuters (Business Recorder), 17/11/2026",
+      "url": "https://www.brecorder.com/news/40449311/asia-shares-slide-on-tech-weakness-ahead-of-nvidia-earnings"
+     },
+     {
+      "title": "Rio Times, 11/11/2026",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-november-11-2026/"
+     }
+    ],
+    "tag": "Ouro",
+    "thesis": "O ouro estava nos 3.860 dólares por onça a 17/11 (Reuters), depois de uma queda de 2,4% a 10/11 com os juros americanos perto de 5% (Rio Times); o ETF replica o preço do metal.",
+    "ticker": "GLD"
+   },
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "Global X Copper Miners ETF",
+    "risks": "Setor muito cíclico, sensível à procura chinesa e ao dólar, e com dividendos baixos e variáveis.",
+    "sources": [
+     {
+      "title": "Reuters (Business Recorder), 17/11/2026",
+      "url": "https://www.brecorder.com/news/40449311/asia-shares-slide-on-tech-weakness-ahead-of-nvidia-earnings"
+     }
+    ],
+    "tag": "Matérias-primas · Cobre",
+    "thesis": "O cobre está no nível mais baixo em mais de quatro meses e a Capstone Copper desceu cerca de 6% para um mínimo de oito meses, segundo a Reuters; o setor ficou mais barato mas depende da procura da China.",
+    "ticker": "COPX"
+   },
+   {
+    "market": "NYSE Arca (EUA)",
+    "name": "iShares MSCI Brazil ETF",
+    "risks": "Exposição ao real, a juros elevados, à dívida pública (cerca de 93% do PIB) e a risco político; dividendos variáveis.",
+    "sources": [
+     {
+      "title": "Rio Times, 04/11/2026",
+      "url": "https://www.riotimesonline.com/brazil-central-bank-holds-selic-13-75-copom-4-november-2026/"
+     }
+    ],
+    "tag": "América Latina · Brasil",
+    "thesis": "O Copom manteve a Selic em 13,75% depois de cinco cortes seguidos, com inflação de 12 meses em 4,58%; juros altos e o fim dos cortes pesam na bolsa e no real.",
+    "ticker": "EWZ"
+   },
+   {
+    "market": "Euronext Lisboa",
+    "name": "Banco Comercial Português",
+    "risks": "Os resultados dependem dos juros, do imobiliário (vendas de casas -9% até setembro) e do crescimento; faltou-me ler as contas do banco.",
+    "sources": [
+     {
+      "title": "DG Trésor, 04/11/2026",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/11/04/breves-economiques-et-financieres-du-portugal-n-113"
+     }
+    ],
+    "tag": "Portugal · Banca",
+    "thesis": "O Tesouro francês refere que os bancos portugueses têm uma margem de capital quase duas vezes a média europeia e a economia cresceu 2,4% no 3.º trimestre, o que dá espaço para pagar dividendos.",
+    "ticker": "BCP"
+   },
+   {
+    "market": "Cripto",
+    "name": "Bitcoin",
+    "risks": "É um ativo muito volátil, pode perder grande parte do valor e não tem dividendos; uma subida da Fed em dezembro pode agravar a queda.",
+    "sources": [
+     {
+      "title": "Motley Fool, 13/11/2026",
+      "url": "https://www.fool.com/investing/2026/11/13/why-bitcoin-is-falling-today/"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O bitcoin caiu abaixo dos 70.000 dólares a 13/11, o nível mais baixo desde agosto, com a Motley Fool a apontar a subida dos juros e as liquidações de posições alavancadas como causas.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "As bolsas americanas caíram na segunda-feira, com o Nasdaq a perder 2,5%, e a Ásia seguiu pelo mesmo caminho. Os mercados dão como certa uma subida de juros nos EUA em dezembro e os chips estão sob nova pressão de restrições à China. Esta noite a Nvidia apresenta contas, um teste para toda a tecnologia. Em Portugal, a economia cresceu 2,4% no 3.º trimestre, mas a habitação continua cara.\n\n#mercados #economia #juros #Portugal #Nvidia #bolsa #tecnologia #markets #investing #stocks",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "stock exchange trading floor screens",
+    "tag": "Bolsa",
+    "texto": "Preço fixado a 18/11 e negociação a 19/11 com o código ANT. Intervalo de 70 a 78 dólares por ação, cerca de 825 milhões de ações, até perto de 64 mil milhões de dólares. Pode agitar o setor da IA.",
+    "tipo": "ultima_hora",
+    "titulo": "Anthropic estreia-se na Nasdaq na quinta"
+   },
+   {
+    "foto": "stock exchange trading floor",
+    "tag": "Bolsas",
+    "texto": "O S&P 500 desceu 1,9% e o Dow 1,4%, a terceira queda seguida, com os chips a liderar as perdas. Quem poupa em fundos de ações sente a descida.",
+    "tipo": "noticia",
+    "titulo": "Wall Street cai e o Nasdaq perde 2,5%"
+   },
+   {
+    "foto": "bank building facade",
+    "tag": "Juros",
+    "texto": "Os mercados dão como certa a subida e a taxa a 10 anos dos EUA está nos 5,13%. Juros altos encarecem o crédito e um dólar forte enfraquece o euro.",
+    "tipo": "noticia",
+    "titulo": "Fed deve subir os juros em dezembro"
+   },
+   {
+    "foto": "data center servers",
+    "tag": "Tecnologia",
+    "texto": "A nova regra limita o acesso remoto a computação avançada, incluindo centros de dados na Tailândia e Malásia. O Kospi caiu 1% e o Nikkei 1,2%.",
+    "tipo": "noticia",
+    "titulo": "EUA apertam o acesso da China a chips"
+   },
+   {
+    "foto": "Sao Paulo skyline",
+    "tag": "Brasil",
+    "texto": "A Selic ficou parada depois de cinco cortes seguidos e a inflação de 12 meses (4,58%) está acima do teto de 4,5%. Crédito caro vai durar mais.",
+    "tipo": "noticia",
+    "titulo": "Brasil pára os cortes de juros nos 13,75%"
+   },
+   {
+    "foto": "Lisbon rooftops",
+    "tag": "Portugal",
+    "texto": "O PIB subiu 2,4% no 3.º trimestre e a dívida pública desceu para 88,4% do PIB. Mas as casas custavam 18,4% mais no 2.º trimestre do que um ano antes.",
+    "tipo": "noticia",
+    "titulo": "Economia cresce 2,4%, casas 18,4% mais caras"
+   }
+  ],
+  "sources": [
+   {
+    "title": "AP (myMotherLode), 16/11/2026",
+    "url": "https://mymotherlode.com/news/national/11315541/how-major-us-stock-indexes-fared-monday-11-16-2026.html"
+   },
+   {
+    "title": "AP (myMotherLode), 17/11/2026",
+    "url": "https://mymotherlode.com/news/national/11316577/asian-shares-decline-following-stocks-tumbled-on-wall-street.html"
+   },
+   {
+    "title": "Reuters (Business Recorder), 17/11/2026",
+    "url": "https://www.brecorder.com/news/40449311/asia-shares-slide-on-tech-weakness-ahead-of-nvidia-earnings"
+   },
+   {
+    "title": "MarketPulse, 11/11/2026",
+    "url": "https://www.marketpulse.com/markets/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend/"
+   },
+   {
+    "title": "Earnings Whispers (Finviz), 10/11/2026",
+    "url": "https://finviz.com/news/420663/nvidias-vera-rubin-ramp-meets-a-margin-reset-as-shares-slide-toward-range-lows"
+   },
+   {
+    "title": "Rio Times, 04/11/2026",
+    "url": "https://www.riotimesonline.com/brazil-central-bank-holds-selic-13-75-copom-4-november-2026/"
+   },
+   {
+    "title": "Rio Times, 11/11/2026",
+    "url": "https://www.riotimesonline.com/global-economy-briefing-november-11-2026/"
+   },
+   {
+    "title": "DG Trésor, 04/11/2026",
+    "url": "https://www.tresor.economie.gouv.fr/Articles/2026/11/04/breves-economiques-et-financieres-du-portugal-n-113"
+   },
+   {
+    "title": "OilPrice.com, 09/11/2026",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Sinks-to-94-as-Irans-8-Billion-Hormuz-Deal-Heads-to-Trump.html"
+   },
+   {
+    "title": "Motley Fool, 13/11/2026",
+    "url": "https://www.fool.com/investing/2026/11/13/why-bitcoin-is-falling-today/"
+   },
+   {
+    "title": "RTTNews, 17/11/2026",
+    "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx?type=ipo"
+   },
+   {
+    "title": "The Next Web, 17/11/2026",
+    "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
+   }
+  ],
+  "summary": "Hoje as bolsas acordam divididas entre dois medos: o de que a Nvidia desiluda esta noite e o de que a Reserva Federal americana suba os juros em dezembro. Na segunda-feira a tecnologia arrastou Wall Street (o S&P 500 perdeu 1,9% e o Nasdaq 2,5%) e a queda passou para a Ásia, onde Seul, Tóquio e Hong Kong recuaram mais de 1%. Por trás está uma mistura de juros altos (a taxa a 10 anos dos EUA anda nos 5,13%), novas restrições americanas à venda de chips à China e um dólar mais forte, que torna o euro mais fraco e as viagens e importações mais caras. Para quem poupa em fundos de ações, é um lembrete de que o mercado também desce; para quem tem crédito, de que os juros altos não vão desaparecer tão cedo.",
+  "themes": [
+   {
+    "t": "Wall Street cai e a tecnologia paga a fatura",
+    "txt": "O S&P 500 desceu 1,9% para 7.416,59 pontos, a terceira queda seguida, e o Nasdaq perdeu 2,5%, segundo a AP. A Nvidia liderou as perdas e, segundo a AP, já perdeu cerca de 735 mil milhões de dólares em valor de mercado desde que o fundador deixou a presidência executiva. Para o leitor comum, o que conta é que muitos fundos e planos de poupança têm uma fatia grande em poucas tecnologias: quando elas caem, a poupança sente."
+   },
+   {
+    "t": "Anthropic chega à bolsa na quinta-feira",
+    "txt": "A Anthropic fixa o preço da entrada em bolsa a 18 de novembro e começa a negociar na Nasdaq a 19, com o código ANT. O intervalo é de 70 a 78 dólares por ação, para cerca de 825 milhões de ações, o que pode render perto de 64 mil milhões de dólares. Uma estreia desta dimensão pode mexer com as avaliações de todo o setor da IA e dar a quem investe uma nova forma direta de exposição. Informação, não recomendação."
+   },
+   {
+    "t": "Juros: dezembro pode trazer nova subida nos EUA",
+    "txt": "Segundo a Reuters, os mercados já veem como certa uma subida de juros da Fed em dezembro, com pequena probabilidade de ser maior. A taxa a 10 anos dos EUA está em 5,13%, contra 4,80% no início do mês, e o dólar atingiu o nível mais alto desde abril de 2025, o que levou o euro aos 1,0985 dólares. Dólar forte encarece o petróleo e as viagens para quem ganha em euros, e juros altos tendem a encarecer o crédito também na Europa."
+   },
+   {
+    "t": "Ásia: restrições aos chips e Seul em baixa",
+    "txt": "Na segunda-feira os EUA anunciaram regras que limitam o acesso remoto da China a computação avançada, incluindo centros de dados na Tailândia e na Malásia. O Kospi sul-coreano desceu 1% para 5.051,93 (mais de 10% no último mês) e o Nikkei caiu 1,2%, com a SoftBank a perder 6,2%. O iene continua perto de 159 por dólar. Esta semana há cimeiras da ASEAN, em Manila, e da APEC, em Shenzhen."
+   },
+   {
+    "t": "Petróleo mais barato, mas o Estreito de Ormuz ainda pesa",
+    "txt": "O Brent desceu para cerca de 91,7 dólares e o WTI para 85, segundo a AP. A descida acompanha a esperança numa solução diplomática para a reabertura de Ormuz, mas as notícias de um acordo entre o Irão e os EUA, mediado pelo Qatar, continuam por confirmar e já houve um memorando semelhante que falhou em maio. Se o petróleo ficar abaixo dos 95 dólares, o alívio na gasolina pode chegar, mas só com o acordo assinado."
+   },
+   {
+    "t": "Brasil pára os cortes de juros nos 13,75%",
+    "txt": "O banco central do Brasil manteve a taxa Selic em 13,75% a 4 de novembro, depois de cinco cortes seguidos de 0,25 pontos, e avisou que a economia abrandou mais do que o previsto e a inflação esperada subiu. A inflação de 12 meses está em 4,58%, acima do teto de 4,5%, e o mercado espera 5,2% para este ano. Crédito caro por mais tempo significa menos consumo e menos investimento, e a próxima decisão é a 8 e 9 de dezembro."
+   },
+   {
+    "t": "Portugal cresce 2,4%, mas a casa continua cara",
+    "txt": "Segundo o Tesouro francês, o PIB português cresceu 2,4% em termos homólogos no 3.º trimestre, o Banco de Portugal subiu a previsão de 2026 para 2,3% e o desemprego estava em 5,6% em setembro. A dívida pública desceu para 88,4% do PIB. O reverso está na habitação: os preços das casas subiram 18,4% no 2.º trimestre face a um ano antes e as vendas caíram 9% entre janeiro e setembro."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-16T07:28:15Z",
   "capa_foto": "gas station price sign",
   "capa_titulo": "Inflação a 3,8% e semana decisiva para a Nvidia",

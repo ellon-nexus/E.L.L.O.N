@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-16",
+ "asOf": "2026-11-17",
  "events": [
   {
    "d": "2026-11-17",
@@ -60,26 +60,6 @@
    },
    "t": "O",
    "txt": "Pagamento do dividendo mensal de 0,2740 $ por ação."
-  },
-  {
-   "d": "2027-01-06",
-   "k": "ex",
-   "src": {
-    "title": "Comcast · dividendo",
-    "url": "https://cmcsa.gcs-web.com/news-releases/news-release-details/comcast-declares-quarterly-dividend-57"
-   },
-   "t": "CMCSA",
-   "txt": "Dividendo de 0,33 $ por ação. Pago a 27/01."
-  },
-  {
-   "d": "2027-01-27",
-   "k": "pay",
-   "src": {
-    "title": "Comcast · dividendo",
-    "url": "https://cmcsa.gcs-web.com/news-releases/news-release-details/comcast-declares-quarterly-dividend-57"
-   },
-   "t": "CMCSA",
-   "txt": "Pagamento do dividendo de 0,33 $ por ação."
   }
  ]
 }
