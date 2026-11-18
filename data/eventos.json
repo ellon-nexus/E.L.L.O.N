@@ -1,16 +1,6 @@
 {
- "asOf": "2026-11-17",
+ "asOf": "2026-11-18",
  "events": [
-  {
-   "d": "2026-11-17",
-   "k": "earnings",
-   "src": {
-    "title": "Nvidia (comunicado), 28/10/2026",
-    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
-   },
-   "t": "NVDA",
-   "txt": "Resultados do 3.º trimestre fiscal de 2027 depois do fecho em Nova Iorque; conferência às 14h PT (22h em Lisboa)."
-  },
   {
    "d": "2026-11-27",
    "k": "ex",

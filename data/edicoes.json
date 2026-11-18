@@ -1,5 +1,199 @@
 [
  {
+  "asOf": "2026-11-18T07:30:00Z",
+  "capa_foto": "euro banknotes supermarket shopping",
+  "capa_titulo": "Inflação a 4% na Europa e Nvidia surpreende",
+  "id": "2026-11-18",
+  "ideas": [
+   {
+    "market": "Euronext Amesterdão / Nasdaq",
+    "name": "ASML Holding",
+    "risks": "Depende de encomendas de poucos clientes e é muito sensível a restrições à China e a juros altos.",
+    "sources": [
+     {
+      "title": "Saxo Bank, 18/11/2026",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/asia-market-quick-take--18-november-2026-18112026"
+     },
+     {
+      "title": "Motley Fool, 17/11/2026",
+      "url": "https://www.fool.com/investing/2026/11/17/nvidia-sales-double-under-an-interim-ceo-rapid-earnings-reaction/"
+     }
+    ],
+    "tag": "Tecnologia",
+    "thesis": "A fabricante holandesa de máquinas para chips caiu 5,3% na terça, na sequência das novas restrições americanas à venda de chips à China, apesar de a Nvidia ter previsto vendas de cerca de 130 mil milhões de dólares no próximo trimestre. A queda pode ser uma oportunidade para estudar se o receio é exagerado.",
+    "ticker": "ASML"
+   },
+   {
+    "market": "Bolsas europeias",
+    "name": "iShares Euro Inflation Linked Govt Bond UCITS ETF",
+    "risks": "Se a inflação cair depressa na primavera, como o BCE prevê, a vantagem desaparece; a subida de juros pode fazer baixar o valor.",
+    "sources": [
+     {
+      "title": "StockAnalysis (Reuters), 04/11/2026",
+      "url": "https://stockanalysis.com/news/eurozone-inflation-rises-october-2026/"
+     },
+     {
+      "title": "European Business Magazine, 04/11/2026",
+      "url": "https://europeanbusinessmagazine.com/eurozone-inflation-hits-4/"
+     }
+    ],
+    "tag": "Obrigações",
+    "thesis": "Com a inflação da zona euro nos 4% e o BCE a admitir inflação acima de 4% nos próximos meses, as obrigações indexadas à inflação são uma forma de proteger poupanças da subida dos preços. Convém estudar a duração do fundo, porque os juros a subir penalizam obrigações.",
+    "ticker": "IBCI"
+   },
+   {
+    "market": "NYSE Arca",
+    "name": "WisdomTree Japan Hedged Equity Fund",
+    "risks": "Se o Japão intervir para fortalecer o iene perto de 160, a cobertura cambial perde com isso; a bolsa também caiu esta semana.",
+    "sources": [
+     {
+      "title": "AP (WSLS), 18/11/2026",
+      "url": "https://www.wsls.com/business/2026/11/18/asian-markets-mostly-decline-after-wall-street-losses-as-ai-stocks-swing/"
+     },
+     {
+      "title": "Saxo Bank, 18/11/2026",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/asia-market-quick-take--18-november-2026-18112026"
+     }
+    ],
+    "tag": "Japão",
+    "thesis": "O Nikkei ronda os 58.500 pontos e o iene está perto de 159,5 por dólar; um fundo de ações japonesas com cobertura cambial tenta captar a bolsa sem sofrer com a moeda fraca. O défice comercial de 476,5 mil milhões de ienes em outubro mostra o outro lado: importações caras.",
+    "ticker": "DXJ"
+   },
+   {
+    "market": "NYSE",
+    "name": "Home Depot",
+    "risks": "Juros a 10 anos acima de 5% encarecem o crédito à habitação e podem travar obras e compras de casa.",
+    "sources": [
+     {
+      "title": "Saxo Bank, 18/11/2026",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/asia-market-quick-take--18-november-2026-18112026"
+     }
+    ],
+    "tag": "Consumo",
+    "thesis": "A retalhista de bricolage superou as estimativas nos resultados desta semana, num dia em que as vendas a retalho dos EUA em outubro subiram 0,2% (0,1% esperado). É uma empresa para estudar como termómetro do consumo e da habitação.",
+    "ticker": "HD"
+   },
+   {
+    "market": "Criptomoeda",
+    "name": "Bitcoin",
+    "risks": "É muito volátil, pode perder grande parte do valor e não paga dividendos.",
+    "sources": [
+     {
+      "title": "Motley Fool, 13/11/2026",
+      "url": "https://www.fool.com/investing/2026/11/13/why-bitcoin-is-falling-today/"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O bitcoin caiu abaixo dos 70 mil dólares, o nível mais baixo desde agosto, e chegou a cerca de 68 mil a 13 de novembro, com inflação mais quente que o esperado, dólar mais forte e liquidação de posições alavancadas. Serve para estudar como reage um ativo de risco a juros altos.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "A inflação na zona euro subiu para 4% em outubro, o valor mais alto em três anos, e o BCE pode subir os juros em dezembro. Ontem a Europa e a Ásia caíram com receio dos chips e dos juros altos, mas a Nvidia surpreendeu com vendas de 115,8 mil milhões de dólares. O iene perto de 160 por dólar e o bitcoin abaixo de 70 mil dólares completam o dia. Mais amanhã de manhã.\n\n#conjunturadiaria #economia #inflação #BCE #juros #Nvidia #bolsa #markets #investing #inflation",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "gas station fuel pump",
+    "tag": "Inflação",
+    "texto": "É o valor mais alto em três anos, com a energia 20,8% mais cara. Os mercados apostam em 84% numa subida de juros do BCE a 17 de dezembro, o que encarece prestações e crédito.",
+    "tipo": "noticia",
+    "titulo": "Inflação na zona euro sobe para 4%"
+   },
+   {
+    "foto": "computer chip circuit board",
+    "tag": "Tecnologia",
+    "texto": "A empresa prevê cerca de 130 mil milhões no próximo trimestre, mais do que o esperado, sem contar com a China. Ao mesmo tempo, Jensen Huang deixou o cargo de diretor executivo.",
+    "tipo": "noticia",
+    "titulo": "Nvidia vende 115,8 mil milhões e sobe fora de horas"
+   },
+   {
+    "foto": "stock market screen",
+    "tag": "Bolsas",
+    "texto": "O DAX perdeu 2,1% e a bolsa de Seul 2,6%. Pesam as novas restrições americanas à venda de chips à China e juros altos, com a taxa a 10 anos dos EUA acima de 5%.",
+    "tipo": "noticia",
+    "titulo": "Europa e Ásia caem com receio dos chips"
+   },
+   {
+    "foto": "Tokyo skyline street",
+    "tag": "Japão",
+    "texto": "Perto dos 160 ienes por dólar, Tóquio pode intervir. Um iene fraco encarece energia e alimentos no Japão e deixa o país mais barato para quem viaja.",
+    "tipo": "noticia",
+    "titulo": "Iene a 159 por dólar aproxima intervenção"
+   },
+   {
+    "foto": "digital coins dark background",
+    "tag": "Cripto",
+    "texto": "Chegou a cerca de 68 mil dólares, o mínimo desde agosto, com dólar mais forte e juros altos. É um ativo muito volátil e que pode perder grande parte do valor.",
+    "tipo": "noticia",
+    "titulo": "Bitcoin abaixo de 70 mil dólares"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Motley Fool, 17/11/2026",
+    "url": "https://www.fool.com/investing/2026/11/17/nvidia-sales-double-under-an-interim-ceo-rapid-earnings-reaction/"
+   },
+   {
+    "title": "AP (WSLS), 18/11/2026",
+    "url": "https://www.wsls.com/business/2026/11/18/asian-markets-mostly-decline-after-wall-street-losses-as-ai-stocks-swing/"
+   },
+   {
+    "title": "Saxo Bank, 18/11/2026",
+    "url": "https://www.home.saxo/en-gb/content/articles/macro/asia-market-quick-take--18-november-2026-18112026"
+   },
+   {
+    "title": "StockAnalysis (Reuters), 04/11/2026",
+    "url": "https://stockanalysis.com/news/eurozone-inflation-rises-october-2026/"
+   },
+   {
+    "title": "European Business Magazine, 04/11/2026",
+    "url": "https://europeanbusinessmagazine.com/eurozone-inflation-hits-4/"
+   },
+   {
+    "title": "Khaleej Times (Reuters), 11/11/2026",
+    "url": "https://www.khaleejtimes.com/business/oil-steadies-as-hormuz-attacks-blunt-hopes-for-iran-truce-2"
+   },
+   {
+    "title": "Rio Times, 10/11/2026",
+    "url": "https://www.riotimesonline.com/brazil-copom-minutes-selic-13-75-inflation-november-2026/"
+   },
+   {
+    "title": "Motley Fool, 13/11/2026",
+    "url": "https://www.fool.com/investing/2026/11/13/why-bitcoin-is-falling-today/"
+   },
+   {
+    "title": "Simply Wall St, 10/11/2026",
+    "url": "https://simplywall.st/narratives/hllueeyc-analysts-revise-realty-income-price-targets-amid-dividend-hike-and-modest-valuation-changes"
+   }
+  ],
+  "summary": "A gasolina, a luz e o supermercado voltam a estar no centro das contas europeias: a inflação na zona euro subiu para 4% em outubro, o valor mais alto em três anos, e o Banco Central Europeu já ensaia uma nova subida de juros em dezembro. Ontem os mercados pagaram o susto: a Europa caiu perto de 2%, a Coreia do Sul perdeu 2,6% e Wall Street fechou em baixo pelo quarto dia seguido, com os juros americanos a 10 anos acima de 5%. Esta madrugada, porém, a Nvidia deu algum alívio, com vendas de 115,8 mil milhões de dólares e uma previsão acima do esperado, mesmo sem contar com a China. Para quem tem prestação de casa com taxa variável, poupanças ou planeia viajar, o recado é o mesmo: dinheiro caro e preços da energia a pesar mais tempo do que se esperava.",
+  "themes": [
+   {
+    "t": "Zona euro: inflação a 4% e juros em dezembro",
+    "txt": "Os preços subiram 4% num ano em outubro, contra 3,8% em setembro, com a energia 20,8% mais cara. O BCE, que mantém a taxa em 2,5%, prevê inflação acima de 4% nos próximos meses e os mercados dão cerca de 84% de probabilidade a uma subida de 0,25 pontos a 17 de dezembro. Para as famílias, isto quer dizer prestações indexadas à Euribor mais pesadas e faturas de aquecimento a vigiar, sobretudo com as reservas de gás baixas. A Eurostat publica hoje os números completos de outubro."
+   },
+   {
+    "t": "Europa e Ásia em queda por causa dos chips",
+    "txt": "As bolsas europeias perderam entre 1,6% e 2,1% na terça-feira (o DAX alemão caiu 2,1%), com a holandesa ASML e a alemã SAP a recuarem mais de 5%. Na Ásia, a bolsa de Seul caiu 2,6% e a de Tóquio 1,3%, e esta manhã as perdas foram mais pequenas (Tóquio -0,6%, Hong Kong -0,4%). Pesam as novas restrições americanas à venda de chips à China e o receio de que as ações de inteligência artificial estejam demasiado caras."
+   },
+   {
+    "t": "Nvidia dá fôlego à tecnologia, mas muda o comando",
+    "txt": "A Nvidia vendeu 115,8 mil milhões de dólares no trimestre (mais do dobro de há um ano) e prevê cerca de 130 mil milhões para o próximo, acima do que os analistas esperavam, e isto sem contar com qualquer venda de chips de centros de dados à China. As ações subiram entre 2% e 4% fora de horas. A empresa está, no entanto, sem diretor executivo: Jensen Huang demitiu-se a 12 de novembro e a diretora financeira, Colette Kress, assumiu o cargo de forma interina."
+   },
+   {
+    "t": "Japão: iene fraco e a tentação de intervir",
+    "txt": "O dólar vale cerca de 159,5 ienes, perto do nível de 160 em que o Japão já foi tentado a intervir para travar a queda da moeda. Um iene fraco encarece as importações de energia e alimentos, e o país registou em outubro um défice comercial de 476,5 mil milhões de ienes, mais 58% do que há um ano. Para o turista europeu, o Japão fica mais barato; para as famílias japonesas, a vida fica mais cara."
+   },
+   {
+    "t": "Médio Oriente: Ormuz continua a pesar no petróleo",
+    "txt": "O Brent fechou ontem nos 93,14 dólares por barril. Segundo o Washington Institute, foram atacados 37 navios em outubro, o valor mensal mais alto desde o início da guerra, o que mantém a esperança de um cessar-fogo com o Irão em suspenso. A gasolina nos EUA, curiosamente, está no preço mais baixo em oito meses (3,78 dólares o galão); na Europa, a energia continua a ser o motor da inflação."
+   },
+   {
+    "t": "América Latina: Brasil segura os juros nos 13,75%",
+    "txt": "O banco central brasileiro manteve a taxa Selic em 13,75% a 4 de novembro, por unanimidade, depois de cinco cortes seguidos, porque a inflação anual (4,58%) está acima do teto de 4,5%. A ata não dá pistas de novos cortes. Para os brasileiros, crédito caro durante mais tempo; para investidores estrangeiros, uma taxa que continua das mais altas do mundo."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-17T07:30:00Z",
   "capa_foto": "stock market screens",
   "capa_titulo": "Bolsas em queda antes das contas da Nvidia",
