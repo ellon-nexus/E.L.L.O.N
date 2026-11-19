@@ -1,94 +1,94 @@
 {
  "prices": {
   "VUAA": {
-   "p": 141.5,
-   "prev": 142.02,
+   "p": 141.54,
+   "prev": 141.56,
    "cur": "USD",
-   "ma200": 141.9263,
+   "ma200": 142.023,
    "h52": 151.72
   },
   "O": {
-   "p": 58.28,
-   "prev": 58.04,
+   "p": 57.4,
+   "prev": 58.28,
    "cur": "USD",
-   "ma200": 61.4921,
+   "ma200": 61.4668,
    "h52": 67.56
   },
   "NEE": {
-   "p": 84.78,
-   "prev": 84.42,
+   "p": 83.47,
+   "prev": 84.78,
    "cur": "USD",
-   "ma200": 87.3267,
+   "ma200": 87.2942,
    "h52": 97.88
   },
   "CMCSA": {
-   "p": 25.24,
-   "prev": 25.31,
+   "p": 24.84,
+   "prev": 25.24,
    "cur": "USD",
-   "ma200": 25.8053,
+   "ma200": 25.777,
    "h52": 32.48
   },
   "NVDA": {
-   "p": 150.96,
-   "prev": 155.46,
+   "p": 148.77,
+   "prev": 150.96,
    "cur": "USD",
-   "ma200": 203.7182,
+   "ma200": 203.5911,
    "h52": 239.24
   },
   "WTRG": {
-   "p": 45.36,
-   "prev": 44.84,
+   "p": 44.72,
+   "prev": 45.36,
    "cur": "USD",
-   "ma200": 39.7998,
+   "ma200": 39.8364,
    "h52": 46.05
   },
   "SPCX": {
-   "p": 143.5,
-   "prev": 141.7,
+   "p": 136.2348,
+   "prev": 143.5,
    "cur": "USD",
-   "ma200": 144.8549,
+   "ma200": 144.778,
    "h52": 211.39
   },
   "CNQ": {
-   "p": 45.53,
-   "prev": 47.74,
+   "p": 44.98,
+   "prev": 45.53,
    "cur": "USD",
-   "ma200": 46.8332,
+   "ma200": 46.8655,
    "h52": 56.11
   }
  },
  "watch": {
   "JPM": {
-   "p": 297.7,
-   "prev": 301.25,
+   "p": 292.8,
+   "prev": 297.4,
    "cur": "EUR"
   }
  },
- "fx": 1.0971,
+ "fx": 1.0982,
  "cand": {
   "VWCE": {
-   "p": 165.28,
-   "prev": 169.08,
+   "p": 164.86,
+   "prev": 165.32,
    "cur": "EUR",
-   "ma200": 160.8871,
+   "ma200": 161.0664,
    "h52": 173.56
   },
   "SPYD": {
-   "p": 81.5,
-   "prev": 82.36,
+   "p": 80.01,
+   "prev": 81.07,
    "cur": "EUR",
-   "ma200": 73.2788,
+   "ma200": 73.3698,
    "h52": 82.36
   }
  },
  "vigia": {
-  "asOf": "2026-11-18T03:45:07Z",
+  "asOf": "2026-11-19T03:30:33Z",
   "itens": {
    "2317": {
     "n": "HON HAI PRECISION INDUSTRY",
-    "p": 218.5,
+    "p": 218.0,
     "cur": "TWD",
-    "ma200": 239.515,
+    "ma200": 239.5,
     "h52": 309.0,
     "div": 26,
     "motivos": [
@@ -102,9 +102,9 @@
    },
    "ABBV": {
     "n": "AbbVie Inc.",
-    "p": 292.82,
+    "p": 286.01,
     "cur": "USD",
-    "ma200": 241.4812,
+    "ma200": 241.7829,
     "h52": 295.03,
     "div": 13,
     "motivos": [
@@ -116,52 +116,39 @@
    },
    "ADC": {
     "n": "Agree Realty Corporation",
-    "p": 68.95,
+    "p": 70.16,
     "cur": "USD",
-    "ma200": 74.3605,
+    "ma200": 74.3503,
     "h52": 81.92,
     "div": 32,
     "motivos": [
      "dividendos há 32 anos seguidos",
-     "7% abaixo da média de 200 dias",
+     "6% abaixo da média de 200 dias",
      "analistas a favor (18 opiniões)",
      "lucros a crescer 18%"
     ]
    },
    "AMAT": {
     "n": "Applied Materials, Inc.",
-    "p": 349.23,
+    "p": 352.3,
     "cur": "USD",
-    "ma200": 446.7833,
+    "ma200": 446.9514,
     "h52": 723.0,
     "div": 21,
     "motivos": [
      "dividendos há 21 anos seguidos",
-     "22% abaixo da média de 200 dias",
-     "52% abaixo do máximo de 52 semanas",
+     "21% abaixo da média de 200 dias",
+     "51% abaixo do máximo de 52 semanas",
      "analistas a favor (36 opiniões)",
      "P/L de 14",
      "lucros a crescer 43%"
     ]
    },
-   "AMD": {
-    "n": "Advanced Micro Devices, Inc.",
-    "p": 503.41,
-    "cur": "USD",
-    "ma200": 425.7415,
-    "h52": 649.42,
-    "div": 0,
-    "motivos": [
-     "22% abaixo do máximo de 52 semanas",
-     "analistas a favor (49 opiniões)",
-     "lucros a crescer 94%"
-    ]
-   },
    "APA": {
     "n": "APA Corporation",
-    "p": 46.88,
+    "p": 45.52,
     "cur": "USD",
-    "ma200": 38.9521,
+    "ma200": 39.0474,
     "h52": 52.82,
     "div": 44,
     "motivos": [
@@ -172,27 +159,27 @@
    },
    "ARM": {
     "n": "Arm Holdings plc",
-    "p": 183.39,
+    "p": 182.76,
     "cur": "USD",
-    "ma200": 233.5501,
+    "ma200": 233.9411,
     "h52": 439.46,
     "div": 0,
     "motivos": [
-     "21% abaixo da média de 200 dias",
+     "22% abaixo da média de 200 dias",
      "58% abaixo do máximo de 52 semanas",
      "analistas a favor (40 opiniões)"
     ]
    },
    "ASML": {
     "n": "ASML Holding N.V. - New York Re",
-    "p": 1383.11,
+    "p": 1395.27,
     "cur": "USD",
-    "ma200": 1601.8412,
+    "ma200": 1601.8381,
     "h52": 1989.4399,
     "div": 19,
     "motivos": [
      "dividendos há 19 anos seguidos",
-     "14% abaixo da média de 200 dias",
+     "13% abaixo da média de 200 dias",
      "30% abaixo do máximo de 52 semanas",
      "analistas a favor (17 opiniões)",
      "lucros a crescer 136%"
@@ -200,15 +187,15 @@
    },
    "AVGO": {
     "n": "Broadcom Inc.",
-    "p": 341.6,
+    "p": 354.05,
     "cur": "USD",
-    "ma200": 367.4866,
+    "ma200": 367.6552,
     "h52": 481.57,
     "div": 16,
     "motivos": [
      "dividendos há 16 anos seguidos",
-     "7% abaixo da média de 200 dias",
-     "29% abaixo do máximo de 52 semanas",
+     "4% abaixo da média de 200 dias",
+     "26% abaixo do máximo de 52 semanas",
      "analistas a favor (47 opiniões)",
      "P/L de 18",
      "lucros a crescer 215%"
@@ -216,9 +203,9 @@
    },
    "BA": {
     "n": "Boeing Company (The)",
-    "p": 163.91,
+    "p": 162.91,
     "cur": "USD",
-    "ma200": 212.6418,
+    "ma200": 212.2906,
     "h52": 252.15,
     "div": 0,
     "motivos": [
@@ -229,9 +216,9 @@
    },
    "BAYN": {
     "n": "Bayer AG                      N",
-    "p": 57.0,
+    "p": 56.14,
     "cur": "EUR",
-    "ma200": 44.1557,
+    "ma200": 44.2123,
     "h52": 57.08,
     "div": 26,
     "motivos": [
@@ -242,9 +229,9 @@
    },
    "CAPCOM": {
     "n": "CAPCOM CO LTD",
-    "p": 4504.0,
+    "p": 4558.0,
     "cur": "JPY",
-    "ma200": 3658.0725,
+    "ma200": 3663.2175,
     "h52": 4587.0,
     "div": 25,
     "motivos": [
@@ -255,42 +242,43 @@
    },
    "CAT": {
     "n": "Caterpillar, Inc.",
-    "p": 570.79,
+    "p": 558.77,
     "cur": "USD",
-    "ma200": 806.3972,
+    "ma200": 805.6766,
     "h52": 1064.9,
     "div": 44,
     "motivos": [
      "dividendos há 44 anos seguidos",
-     "29% abaixo da média de 200 dias",
-     "46% abaixo do máximo de 52 semanas",
+     "31% abaixo da média de 200 dias",
+     "48% abaixo do máximo de 52 semanas",
      "analistas a favor (26 opiniões)",
-     "P/L de 18",
+     "P/L de 17",
      "lucros a crescer 46%"
     ]
    },
    "CBG": {
     "n": "CLOSE BROTHERS GROUP PLC ORD 25",
-    "p": 3.904,
+    "p": 3.818,
     "cur": "GBP",
-    "ma200": 4.2653,
+    "ma200": 4.2591,
     "h52": 5.35,
     "div": 0,
     "motivos": [
-     "8% abaixo da média de 200 dias",
-     "27% abaixo do máximo de 52 semanas",
+     "10% abaixo da média de 200 dias",
+     "29% abaixo do máximo de 52 semanas",
      "P/L de 5"
     ]
    },
    "CRM": {
     "n": "Salesforce, Inc.",
-    "p": 194.52,
+    "p": 190.4,
     "cur": "USD",
-    "ma200": 197.9171,
+    "ma200": 197.8872,
     "h52": 266.23,
     "div": 2,
     "motivos": [
-     "27% abaixo do máximo de 52 semanas",
+     "4% abaixo da média de 200 dias",
+     "28% abaixo do máximo de 52 semanas",
      "analistas a favor (53 opiniões)",
      "P/L de 12",
      "lucros a crescer 119%"
@@ -298,38 +286,37 @@
    },
    "DELL": {
     "n": "Dell Technologies Inc.",
-    "p": 322.79,
+    "p": 313.11,
     "cur": "USD",
-    "ma200": 345.4491,
+    "ma200": 346.4289,
     "h52": 588.4,
     "div": 4,
     "motivos": [
-     "7% abaixo da média de 200 dias",
-     "45% abaixo do máximo de 52 semanas",
+     "10% abaixo da média de 200 dias",
+     "47% abaixo do máximo de 52 semanas",
      "analistas a favor (25 opiniões)",
-     "P/L de 11",
+     "P/L de 10",
      "lucros a crescer 273%"
     ]
    },
    "DPZ": {
     "n": "Domino's Pizza Inc",
-    "p": 349.86,
+    "p": 353.54,
     "cur": "USD",
-    "ma200": 338.3877,
+    "ma200": 338.1499,
     "h52": 438.42,
     "div": 14,
     "motivos": [
      "dividendos há 14 anos seguidos",
-     "20% abaixo do máximo de 52 semanas",
      "P/L de 17",
      "lucros a crescer 13%"
     ]
    },
    "EDP": {
     "n": "EDP, SA",
-    "p": 5.07,
+    "p": 4.957,
     "cur": "EUR",
-    "ma200": 4.5671,
+    "ma200": 4.5705,
     "h52": 5.122,
     "div": 26,
     "motivos": [
@@ -341,23 +328,23 @@
    },
    "ELV": {
     "n": "Elevance Health, Inc.",
-    "p": 433.93,
+    "p": 400.84,
     "cur": "USD",
-    "ma200": 376.4667,
+    "ma200": 376.7777,
     "h52": 446.28,
     "div": 15,
     "motivos": [
      "dividendos há 15 anos seguidos",
      "analistas a favor (21 opiniões)",
-     "P/L de 14",
+     "P/L de 13",
      "lucros a crescer 18%"
     ]
    },
    "ENB": {
     "n": "Enbridge Inc",
-    "p": 47.15,
+    "p": 46.78,
     "cur": "USD",
-    "ma200": 52.2246,
+    "ma200": 52.2119,
     "h52": 58.04,
     "div": 36,
     "motivos": [
@@ -368,9 +355,9 @@
    },
    "ENI": {
     "n": "ENI",
-    "p": 25.845,
+    "p": 25.61,
     "cur": "EUR",
-    "ma200": 22.9713,
+    "ma200": 23.0119,
     "h52": 27.65,
     "div": 24,
     "motivos": [
@@ -381,9 +368,9 @@
    },
    "ETR": {
     "n": "Entergy Corporation",
-    "p": 107.57,
+    "p": 108.0,
     "cur": "USD",
-    "ma200": 108.431,
+    "ma200": 108.4842,
     "h52": 117.91,
     "div": 38,
     "motivos": [
@@ -394,23 +381,23 @@
    },
    "F": {
     "n": "Ford Motor Company",
-    "p": 11.34,
+    "p": 11.28,
     "cur": "USD",
-    "ma200": 13.2516,
+    "ma200": 13.2394,
     "h52": 17.44,
     "div": 14,
     "motivos": [
      "dividendos há 14 anos seguidos",
-     "14% abaixo da média de 200 dias",
+     "15% abaixo da média de 200 dias",
      "35% abaixo do máximo de 52 semanas",
      "P/L de 6"
     ]
    },
    "FCNCA": {
     "n": "First Citizens BancShares, Inc.",
-    "p": 2259.5601,
+    "p": 2229.8201,
     "cur": "USD",
-    "ma200": 2076.2257,
+    "ma200": 2077.155,
     "h52": 2382.5,
     "div": 40,
     "motivos": [
@@ -421,9 +408,9 @@
    },
    "GALP": {
     "n": "GALP ENERGIA-NOM",
-    "p": 19.335,
+    "p": 19.235,
     "cur": "EUR",
-    "ma200": 20.0471,
+    "ma200": 20.0583,
     "h52": 23.18,
     "div": 19,
     "motivos": [
@@ -434,23 +421,23 @@
    },
    "GIS": {
     "n": "General Mills, Inc.",
-    "p": 34.68,
+    "p": 34.53,
     "cur": "USD",
-    "ma200": 36.9062,
+    "ma200": 36.8464,
     "h52": 49.01,
     "div": 43,
     "motivos": [
      "dividendos há 43 anos seguidos",
      "6% abaixo da média de 200 dias",
-     "29% abaixo do máximo de 52 semanas",
+     "30% abaixo do máximo de 52 semanas",
      "P/L de 11"
     ]
    },
    "GLW": {
     "n": "Corning Incorporated",
-    "p": 108.49,
+    "p": 108.15,
     "cur": "USD",
-    "ma200": 156.5912,
+    "ma200": 156.568,
     "h52": 255.69,
     "div": 19,
     "motivos": [
@@ -463,13 +450,13 @@
    },
    "GOOGL": {
     "n": "Alphabet Inc.",
-    "p": 280.2,
+    "p": 282.44,
     "cur": "USD",
-    "ma200": 337.8915,
+    "ma200": 337.6051,
     "h52": 402.62,
     "div": 2,
     "motivos": [
-     "17% abaixo da média de 200 dias",
+     "16% abaixo da média de 200 dias",
      "30% abaixo do máximo de 52 semanas",
      "analistas a favor (53 opiniões)",
      "P/L de 18"
@@ -477,15 +464,15 @@
    },
    "HYNIX": {
     "n": "SK hynix",
-    "p": 1130000.0,
+    "p": 1122000.0,
     "cur": "KRW",
-    "ma200": 1524960.0,
+    "ma200": 1526805.0,
     "h52": 2919000.0,
     "div": 12,
     "motivos": [
      "dividendos há 12 anos seguidos",
-     "26% abaixo da média de 200 dias",
-     "61% abaixo do máximo de 52 semanas",
+     "27% abaixo da média de 200 dias",
+     "62% abaixo do máximo de 52 semanas",
      "analistas a favor (39 opiniões)",
      "P/L de 2",
      "lucros a crescer 205%"
@@ -493,24 +480,24 @@
    },
    "IBM": {
     "n": "International Business Machines",
-    "p": 231.09,
+    "p": 228.53,
     "cur": "USD",
-    "ma200": 245.9549,
+    "ma200": 245.626,
     "h52": 329.23,
     "div": 64,
     "motivos": [
      "dividendos há 64 anos seguidos",
-     "6% abaixo da média de 200 dias",
-     "30% abaixo do máximo de 52 semanas",
+     "7% abaixo da média de 200 dias",
+     "31% abaixo do máximo de 52 semanas",
      "P/L de 17",
      "lucros a crescer 25%"
     ]
    },
    "JMT": {
     "n": "J.MARTINS,SGPS",
-    "p": 20.0,
+    "p": 19.4,
     "cur": "EUR",
-    "ma200": 18.7822,
+    "ma200": 18.7777,
     "h52": 22.46,
     "div": 14,
     "motivos": [
@@ -521,9 +508,9 @@
    },
    "JPM": {
     "n": "JP Morgan Chase & Co.",
-    "p": 329.96,
+    "p": 324.11,
     "cur": "USD",
-    "ma200": 325.1319,
+    "ma200": 325.1782,
     "h52": 365.18,
     "div": 42,
     "motivos": [
@@ -534,9 +521,9 @@
    },
    "KMI": {
     "n": "Kinder Morgan, Inc.",
-    "p": 31.7,
+    "p": 31.36,
     "cur": "USD",
-    "ma200": 32.2096,
+    "ma200": 32.2148,
     "h52": 34.43,
     "div": 15,
     "motivos": [
@@ -547,22 +534,22 @@
    },
    "KO": {
     "n": "Coca-Cola Company (The)",
-    "p": 98.79,
+    "p": 98.09,
     "cur": "USD",
-    "ma200": 83.5919,
+    "ma200": 83.6978,
     "h52": 99.48,
     "div": 64,
     "motivos": [
      "dividendos há 64 anos seguidos",
-     "analistas a favor (24 opiniões)",
+     "analistas a favor (25 opiniões)",
      "lucros a crescer 8%"
     ]
    },
    "LLY": {
     "n": "Eli Lilly and Company",
-    "p": 1415.55,
+    "p": 1382.75,
     "cur": "USD",
-    "ma200": 1113.1539,
+    "ma200": 1115.0503,
     "h52": 1443.5,
     "div": 54,
     "motivos": [
@@ -573,14 +560,14 @@
    },
    "LRCX": {
     "n": "Lam Research Corporation",
-    "p": 210.69,
+    "p": 211.67,
     "cur": "USD",
-    "ma200": 283.6245,
+    "ma200": 283.5324,
     "h52": 433.33,
     "div": 12,
     "motivos": [
      "dividendos há 12 anos seguidos",
-     "26% abaixo da média de 200 dias",
+     "25% abaixo da média de 200 dias",
      "51% abaixo do máximo de 52 semanas",
      "analistas a favor (30 opiniões)",
      "P/L de 17",
@@ -589,22 +576,22 @@
    },
    "LUNR": {
     "n": "Intuitive Machines, Inc.",
-    "p": 11.045,
+    "p": 10.12,
     "cur": "USD",
-    "ma200": 19.2292,
+    "ma200": 19.1817,
     "h52": 45.7,
     "div": 0,
     "motivos": [
-     "43% abaixo da média de 200 dias",
-     "76% abaixo do máximo de 52 semanas",
+     "47% abaixo da média de 200 dias",
+     "78% abaixo do máximo de 52 semanas",
      "analistas a favor (10 opiniões)"
     ]
    },
    "MA": {
     "n": "Mastercard Incorporated",
-    "p": 645.73,
+    "p": 643.37,
     "cur": "USD",
-    "ma200": 543.1166,
+    "ma200": 543.5799,
     "h52": 672.68,
     "div": 20,
     "motivos": [
@@ -615,41 +602,41 @@
    },
    "MARA": {
     "n": "MARA Holdings, Inc.",
-    "p": 6.42,
+    "p": 6.56,
     "cur": "USD",
-    "ma200": 10.5879,
+    "ma200": 10.5754,
     "h52": 14.85,
     "div": 0,
     "motivos": [
-     "39% abaixo da média de 200 dias",
-     "57% abaixo do máximo de 52 semanas",
+     "38% abaixo da média de 200 dias",
+     "56% abaixo do máximo de 52 semanas",
      "lucros a crescer 382%"
     ]
    },
    "MBG": {
     "n": "Mercedes-Benz Group AG        N",
-    "p": 40.425,
+    "p": 39.535,
     "cur": "EUR",
-    "ma200": 47.9777,
+    "ma200": 47.8804,
     "h52": 61.93,
     "div": 15,
     "motivos": [
      "dividendos há 15 anos seguidos",
-     "16% abaixo da média de 200 dias",
-     "35% abaixo do máximo de 52 semanas",
+     "17% abaixo da média de 200 dias",
+     "36% abaixo do máximo de 52 semanas",
      "P/L de 7",
      "lucros a crescer 34%"
     ]
    },
    "META": {
     "n": "Meta Platforms, Inc.",
-    "p": 618.87,
+    "p": 616.38,
     "cur": "USD",
-    "ma200": 629.8792,
+    "ma200": 629.5026,
     "h52": 777.59,
     "div": 2,
     "motivos": [
-     "20% abaixo do máximo de 52 semanas",
+     "21% abaixo do máximo de 52 semanas",
      "analistas a favor (58 opiniões)",
      "P/L de 17",
      "lucros a crescer 265%"
@@ -657,9 +644,9 @@
    },
    "MO": {
     "n": "Altria Group, Inc.",
-    "p": 77.46,
+    "p": 76.26,
     "cur": "USD",
-    "ma200": 69.8086,
+    "ma200": 69.8691,
     "h52": 78.9,
     "div": 64,
     "motivos": [
@@ -670,37 +657,38 @@
    },
    "MRK": {
     "n": "Merck & Company, Inc.",
-    "p": 143.37,
+    "p": 137.78,
     "cur": "USD",
-    "ma200": 128.966,
+    "ma200": 129.0758,
     "h52": 156.45,
     "div": 64,
     "motivos": [
      "dividendos há 64 anos seguidos",
      "analistas a favor (26 opiniões)",
-     "P/L de 16"
+     "P/L de 15"
     ]
    },
    "MRVL": {
     "n": "Marvell Technology, Inc.",
-    "p": 148.74,
+    "p": 145.54,
     "cur": "USD",
-    "ma200": 187.6813,
+    "ma200": 188.0312,
     "h52": 316.43,
     "div": 14,
     "motivos": [
      "dividendos há 14 anos seguidos",
-     "21% abaixo da média de 200 dias",
-     "53% abaixo do máximo de 52 semanas",
+     "23% abaixo da média de 200 dias",
+     "54% abaixo do máximo de 52 semanas",
      "analistas a favor (40 opiniões)",
+     "P/L de 20",
      "lucros a crescer 50%"
     ]
    },
    "MSFT": {
     "n": "Microsoft Corporation",
-    "p": 506.24,
+    "p": 508.29,
     "cur": "USD",
-    "ma200": 442.2722,
+    "ma200": 442.7576,
     "h52": 555.8,
     "div": 23,
     "motivos": [
@@ -711,29 +699,29 @@
    },
    "MSTR": {
     "n": "Strategy Inc",
-    "p": 96.5,
+    "p": 90.32,
     "cur": "USD",
-    "ma200": 132.3344,
-    "h52": 206.8,
+    "ma200": 132.1197,
+    "h52": 195.94,
     "div": 0,
     "motivos": [
-     "27% abaixo da média de 200 dias",
-     "53% abaixo do máximo de 52 semanas",
+     "32% abaixo da média de 200 dias",
+     "54% abaixo do máximo de 52 semanas",
      "analistas a favor (15 opiniões)",
-     "P/L de 6",
+     "P/L de 5",
      "lucros a crescer 432%"
     ]
    },
    "MU": {
     "n": "Micron Technology, Inc.",
-    "p": 712.42,
+    "p": 705.27,
     "cur": "USD",
-    "ma200": 768.5003,
+    "ma200": 769.9294,
     "h52": 1213.5601,
     "div": 5,
     "motivos": [
-     "7% abaixo da média de 200 dias",
-     "41% abaixo do máximo de 52 semanas",
+     "8% abaixo da média de 200 dias",
+     "42% abaixo do máximo de 52 semanas",
      "analistas a favor (45 opiniões)",
      "P/L de 3",
      "lucros a crescer 1060%"
@@ -741,14 +729,14 @@
    },
    "NFLX": {
     "n": "Netflix, Inc.",
-    "p": 59.68,
+    "p": 59.82,
     "cur": "USD",
-    "ma200": 80.2687,
-    "h52": 114.09,
+    "ma200": 80.1681,
+    "h52": 110.0,
     "div": 0,
     "motivos": [
-     "26% abaixo da média de 200 dias",
-     "48% abaixo do máximo de 52 semanas",
+     "25% abaixo da média de 200 dias",
+     "46% abaixo do máximo de 52 semanas",
      "analistas a favor (43 opiniões)",
      "P/L de 16",
      "lucros a crescer 48%"
@@ -756,50 +744,50 @@
    },
    "NINTENDO": {
     "n": "NINTENDO CO LTD",
-    "p": 8968.0,
+    "p": 9210.0,
     "cur": "JPY",
-    "ma200": 8206.4,
+    "ma200": 8200.62,
     "h52": 13300.0,
     "div": 25,
     "motivos": [
      "dividendos há 25 anos seguidos",
-     "33% abaixo do máximo de 52 semanas",
+     "31% abaixo do máximo de 52 semanas",
      "analistas a favor (27 opiniões)"
     ]
    },
    "NKE": {
     "n": "Nike, Inc.",
-    "p": 35.85,
+    "p": 36.31,
     "cur": "USD",
-    "ma200": 44.5375,
+    "ma200": 44.4144,
     "h52": 67.78,
     "div": 39,
     "motivos": [
      "dividendos há 39 anos seguidos",
-     "20% abaixo da média de 200 dias",
-     "47% abaixo do máximo de 52 semanas"
+     "18% abaixo da média de 200 dias",
+     "46% abaixo do máximo de 52 semanas"
     ]
    },
    "NOC": {
     "n": "Northrop Grumman Corporation",
-    "p": 553.26,
+    "p": 542.99,
     "cur": "USD",
-    "ma200": 583.2102,
+    "ma200": 582.4002,
     "h52": 768.02,
     "div": 44,
     "motivos": [
      "dividendos há 44 anos seguidos",
-     "5% abaixo da média de 200 dias",
-     "28% abaixo do máximo de 52 semanas",
+     "7% abaixo da média de 200 dias",
+     "29% abaixo do máximo de 52 semanas",
      "analistas a favor (24 opiniões)",
      "P/L de 18"
     ]
    },
    "NOS": {
     "n": "NOS, SGPS, SA",
-    "p": 5.76,
+    "p": 5.705,
     "cur": "EUR",
-    "ma200": 5.1822,
+    "ma200": 5.188,
     "h52": 5.76,
     "div": 22,
     "motivos": [
@@ -810,27 +798,27 @@
    },
    "NOVO-B": {
     "n": "Novo Nordisk B A/S",
-    "p": 285.25,
+    "p": 275.5,
     "cur": "DKK",
-    "ma200": 281.7145,
+    "ma200": 281.24,
     "h52": 401.35,
     "div": 25,
     "motivos": [
      "dividendos há 25 anos seguidos",
-     "29% abaixo do máximo de 52 semanas",
+     "31% abaixo do máximo de 52 semanas",
      "P/L de 12"
     ]
    },
    "ORCL": {
     "n": "Oracle Corporation",
-    "p": 115.0,
+    "p": 113.89,
     "cur": "USD",
-    "ma200": 153.6607,
+    "ma200": 153.4568,
     "h52": 248.15,
     "div": 17,
     "motivos": [
      "dividendos há 17 anos seguidos",
-     "25% abaixo da média de 200 dias",
+     "26% abaixo da média de 200 dias",
      "54% abaixo do máximo de 52 semanas",
      "analistas a favor (40 opiniões)",
      "P/L de 10",
@@ -839,14 +827,14 @@
    },
    "PBR": {
     "n": "Petroleo Brasileiro S.A. Petrob",
-    "p": 17.41,
+    "p": 16.73,
     "cur": "USD",
-    "ma200": 19.4115,
+    "ma200": 19.4187,
     "h52": 26.16,
     "div": 8,
     "motivos": [
-     "10% abaixo da média de 200 dias",
-     "33% abaixo do máximo de 52 semanas",
+     "14% abaixo da média de 200 dias",
+     "36% abaixo do máximo de 52 semanas",
      "analistas a favor (12 opiniões)",
      "P/L de 4",
      "lucros a crescer 22%"
@@ -854,22 +842,22 @@
    },
    "PEP": {
     "n": "Pepsico, Inc.",
-    "p": 142.02,
+    "p": 141.87,
     "cur": "USD",
-    "ma200": 145.6516,
+    "ma200": 145.5467,
     "h52": 170.49,
     "div": 54,
     "motivos": [
      "dividendos há 54 anos seguidos",
-     "P/L de 16",
+     "P/L de 17",
      "lucros a crescer 17%"
     ]
    },
    "PLTR": {
     "n": "Palantir Technologies Inc.",
-    "p": 156.56,
+    "p": 156.67,
     "cur": "USD",
-    "ma200": 153.8358,
+    "ma200": 153.8298,
     "h52": 209.05,
     "div": 0,
     "motivos": [
@@ -880,23 +868,23 @@
    },
    "PNR": {
     "n": "Pentair plc.",
-    "p": 66.88,
+    "p": 68.37,
     "cur": "USD",
-    "ma200": 73.9336,
+    "ma200": 73.8015,
     "h52": 108.14,
     "div": 36,
     "motivos": [
      "dividendos há 36 anos seguidos",
-     "10% abaixo da média de 200 dias",
-     "38% abaixo do máximo de 52 semanas",
+     "7% abaixo da média de 200 dias",
+     "37% abaixo do máximo de 52 semanas",
      "P/L de 13"
     ]
    },
    "PROX": {
     "n": "PROXIMUS",
-    "p": 6.46,
+    "p": 6.47,
     "cur": "EUR",
-    "ma200": 6.5633,
+    "ma200": 6.5561,
     "h52": 8.47,
     "div": 21,
     "motivos": [
@@ -908,9 +896,9 @@
    },
    "PSX": {
     "n": "Phillips 66",
-    "p": 256.93,
+    "p": 244.83,
     "cur": "USD",
-    "ma200": 205.9773,
+    "ma200": 206.461,
     "h52": 297.29,
     "div": 14,
     "motivos": [
@@ -921,22 +909,23 @@
    },
    "QCOM": {
     "n": "QUALCOMM Incorporated",
-    "p": 166.67,
+    "p": 159.81,
     "cur": "USD",
-    "ma200": 170.3547,
+    "ma200": 170.4179,
     "h52": 251.02,
     "div": 23,
     "motivos": [
      "dividendos há 23 anos seguidos",
-     "34% abaixo do máximo de 52 semanas",
-     "P/L de 14"
+     "6% abaixo da média de 200 dias",
+     "36% abaixo do máximo de 52 semanas",
+     "P/L de 13"
     ]
    },
    "RDDT": {
     "n": "Reddit, Inc.",
-    "p": 94.48,
+    "p": 94.09,
     "cur": "USD",
-    "ma200": 152.8161,
+    "ma200": 152.4595,
     "h52": 258.93,
     "div": 0,
     "motivos": [
@@ -948,9 +937,9 @@
    },
    "RDW": {
     "n": "Redwire Corporation",
-    "p": 6.78,
+    "p": 6.82,
     "cur": "USD",
-    "ma200": 10.8291,
+    "ma200": 10.8069,
     "h52": 25.9,
     "div": 0,
     "motivos": [
@@ -961,51 +950,51 @@
    },
    "RIO": {
     "n": "Rio Tinto Plc",
-    "p": 79.47,
+    "p": 75.9,
     "cur": "USD",
-    "ma200": 95.9923,
+    "ma200": 95.8899,
     "h52": 112.04,
     "div": 36,
     "motivos": [
      "dividendos há 36 anos seguidos",
-     "17% abaixo da média de 200 dias",
-     "29% abaixo do máximo de 52 semanas",
+     "21% abaixo da média de 200 dias",
+     "32% abaixo do máximo de 52 semanas",
      "P/L de 9",
      "lucros a crescer 47%"
     ]
    },
    "RIOT": {
     "n": "Riot Platforms, Inc.",
-    "p": 17.05,
+    "p": 18.24,
     "cur": "USD",
-    "ma200": 19.3652,
+    "ma200": 19.3797,
     "h52": 28.69,
     "div": 0,
     "motivos": [
-     "12% abaixo da média de 200 dias",
-     "41% abaixo do máximo de 52 semanas",
+     "6% abaixo da média de 200 dias",
+     "36% abaixo do máximo de 52 semanas",
      "analistas a favor (22 opiniões)"
     ]
    },
    "RYAAY": {
     "n": "Ryanair Holdings plc",
-    "p": 56.68,
+    "p": 56.4,
     "cur": "USD",
-    "ma200": 59.0128,
+    "ma200": 58.9409,
     "h52": 73.82,
     "div": 2,
     "motivos": [
      "4% abaixo da média de 200 dias",
-     "23% abaixo do máximo de 52 semanas",
+     "24% abaixo do máximo de 52 semanas",
      "analistas a favor (6 opiniões)",
      "P/L de 13"
     ]
    },
    "SAP": {
     "n": "SAP SE                        I",
-    "p": 213.4,
+    "p": 201.5,
     "cur": "EUR",
-    "ma200": 166.8175,
+    "ma200": 166.9726,
     "h52": 215.75,
     "div": 27,
     "motivos": [
@@ -1016,51 +1005,36 @@
    },
    "SHEL": {
     "n": "Shell PLC",
-    "p": 97.24,
+    "p": 94.34,
     "cur": "USD",
-    "ma200": 89.8321,
+    "ma200": 89.9156,
     "h52": 108.69,
     "div": 41,
     "motivos": [
      "dividendos há 41 anos seguidos",
-     "P/L de 9",
+     "P/L de 8",
      "lucros a crescer 137%"
     ]
    },
    "SIE": {
     "n": "SIEMENS AG                    N",
-    "p": 272.55,
+    "p": 269.8,
     "cur": "EUR",
-    "ma200": 260.432,
+    "ma200": 260.5585,
     "h52": 289.85,
     "div": 26,
     "motivos": [
      "dividendos há 26 anos seguidos",
      "analistas a favor (24 opiniões)",
-     "P/L de 19",
+     "P/L de 18",
      "lucros a crescer 36%"
-    ]
-   },
-   "SNDK": {
-    "n": "Sandisk Corporation",
-    "p": 797.24,
-    "cur": "USD",
-    "ma200": 1284.2582,
-    "h52": 2335.0,
-    "div": 0,
-    "motivos": [
-     "38% abaixo da média de 200 dias",
-     "66% abaixo do máximo de 52 semanas",
-     "analistas a favor (24 opiniões)",
-     "P/L de 3",
-     "lucros a crescer 6913%"
     ]
    },
    "SO": {
     "n": "Southern Company (The)",
-    "p": 93.6,
+    "p": 94.41,
     "cur": "USD",
-    "ma200": 92.7329,
+    "ma200": 92.7543,
     "h52": 99.11,
     "div": 44,
     "motivos": [
@@ -1071,29 +1045,29 @@
    },
    "SOFI": {
     "n": "SoFi Technologies, Inc.",
-    "p": 14.28,
+    "p": 14.11,
     "cur": "USD",
-    "ma200": 17.2448,
+    "ma200": 17.2065,
     "h52": 29.72,
     "div": 0,
     "motivos": [
-     "17% abaixo da média de 200 dias",
-     "52% abaixo do máximo de 52 semanas",
+     "18% abaixo da média de 200 dias",
+     "53% abaixo do máximo de 52 semanas",
      "P/L de 16",
      "lucros a crescer 64%"
     ]
    },
    "STM": {
     "n": "STMicroelectronics N.V.",
-    "p": 44.22,
+    "p": 44.91,
     "cur": "USD",
-    "ma200": 51.0987,
+    "ma200": 51.1839,
     "h52": 79.91,
     "div": 27,
     "motivos": [
      "dividendos há 27 anos seguidos",
-     "13% abaixo da média de 200 dias",
-     "45% abaixo do máximo de 52 semanas",
+     "12% abaixo da média de 200 dias",
+     "44% abaixo do máximo de 52 semanas",
      "analistas a favor (12 opiniões)",
      "P/L de 16",
      "lucros a crescer 21%"
@@ -1101,15 +1075,15 @@
    },
    "STX": {
     "n": "Seagate Technology Holdings PLC",
-    "p": 504.4,
+    "p": 515.9,
     "cur": "USD",
-    "ma200": 701.8524,
+    "ma200": 702.2096,
     "h52": 1094.04,
     "div": 15,
     "motivos": [
      "dividendos há 15 anos seguidos",
-     "28% abaixo da média de 200 dias",
-     "54% abaixo do máximo de 52 semanas",
+     "27% abaixo da média de 200 dias",
+     "53% abaixo do máximo de 52 semanas",
      "analistas a favor (24 opiniões)",
      "P/L de 8",
      "lucros a crescer 212%"
@@ -1117,81 +1091,67 @@
    },
    "TCEHY": {
     "n": "Tencent Holding Ltd.",
-    "p": 47.27,
+    "p": 46.15,
     "cur": "USD",
-    "ma200": 59.0982,
+    "ma200": 58.9602,
     "h52": 82.4,
     "div": 16,
     "motivos": [
      "dividendos há 16 anos seguidos",
-     "20% abaixo da média de 200 dias",
-     "43% abaixo do máximo de 52 semanas",
-     "P/L de 11"
+     "22% abaixo da média de 200 dias",
+     "44% abaixo do máximo de 52 semanas",
+     "P/L de 10"
     ]
    },
    "TENCENT": {
     "n": "TENCENT",
-    "p": 371.4,
+    "p": 349.2,
     "cur": "HKD",
-    "ma200": 465.8815,
+    "ma200": 464.5995,
     "h52": 633.0,
     "div": 18,
     "motivos": [
      "dividendos há 18 anos seguidos",
-     "20% abaixo da média de 200 dias",
-     "41% abaixo do máximo de 52 semanas",
+     "25% abaixo da média de 200 dias",
+     "45% abaixo do máximo de 52 semanas",
      "analistas a favor (41 opiniões)",
      "P/L de 10"
     ]
    },
    "TOYOTA": {
     "n": "TOYOTA MOTOR CORP",
-    "p": 3422.0,
+    "p": 3363.0,
     "cur": "JPY",
-    "ma200": 3144.715,
+    "ma200": 3143.255,
     "h52": 3944.0,
     "div": 27,
     "motivos": [
      "dividendos há 27 anos seguidos",
      "analistas a favor (19 opiniões)",
-     "P/L de 11"
+     "P/L de 10"
     ]
    },
    "TSM": {
     "n": "Taiwan Semiconductor Manufactur",
-    "p": 359.69,
+    "p": 362.62,
     "cur": "USD",
-    "ma200": 403.3582,
+    "ma200": 403.4925,
     "h52": 485.8,
     "div": 22,
     "motivos": [
      "dividendos há 22 anos seguidos",
-     "11% abaixo da média de 200 dias",
-     "26% abaixo do máximo de 52 semanas",
+     "10% abaixo da média de 200 dias",
+     "25% abaixo do máximo de 52 semanas",
      "analistas a favor (20 opiniões)",
-     "P/L de 15",
+     "P/L de 16",
      "lucros a crescer 69%"
-    ]
-   },
-   "TTWO": {
-    "n": "Take-Two Interactive Software, ",
-    "p": 203.93,
-    "cur": "USD",
-    "ma200": 218.2956,
-    "h52": 258.41,
-    "div": 0,
-    "motivos": [
-     "7% abaixo da média de 200 dias",
-     "21% abaixo do máximo de 52 semanas",
-     "analistas a favor (29 opiniões)",
-     "P/L de 20"
     ]
    },
    "UBER": {
     "n": "Uber Technologies, Inc.",
-    "p": 68.81,
+    "p": 68.76,
     "cur": "USD",
-    "ma200": 72.5494,
+    "ma200": 72.5036,
     "h52": 92.57,
     "div": 0,
     "motivos": [
@@ -1203,23 +1163,24 @@
    },
    "UNH": {
     "n": "UnitedHealth Group Incorporated",
-    "p": 389.68,
+    "p": 349.91,
     "cur": "USD",
-    "ma200": 367.5831,
+    "ma200": 367.9118,
     "h52": 436.35,
     "div": 36,
     "motivos": [
      "dividendos há 36 anos seguidos",
+     "5% abaixo da média de 200 dias",
      "analistas a favor (25 opiniões)",
-     "P/L de 17",
+     "P/L de 15",
      "lucros a crescer 76%"
     ]
    },
    "UNP": {
     "n": "Union Pacific Corporation",
-    "p": 297.03,
+    "p": 300.9,
     "cur": "USD",
-    "ma200": 274.6193,
+    "ma200": 274.9164,
     "h52": 310.62,
     "div": 46,
     "motivos": [
@@ -1230,9 +1191,9 @@
    },
    "V": {
     "n": "Visa Inc.",
-    "p": 416.77,
+    "p": 415.22,
     "cur": "USD",
-    "ma200": 348.0033,
+    "ma200": 348.4347,
     "h52": 436.57,
     "div": 18,
     "motivos": [
@@ -1243,28 +1204,28 @@
    },
    "VALE": {
     "n": "VALE S.A.",
-    "p": 10.42,
+    "p": 10.04,
     "cur": "USD",
-    "ma200": 14.9862,
+    "ma200": 14.9514,
     "h52": 17.82,
     "div": 24,
     "motivos": [
      "dividendos há 24 anos seguidos",
-     "30% abaixo da média de 200 dias",
-     "42% abaixo do máximo de 52 semanas",
+     "33% abaixo da média de 200 dias",
+     "44% abaixo do máximo de 52 semanas",
      "P/L de 6"
     ]
    },
    "VG": {
     "n": "Venture Global, Inc.",
-    "p": 12.5,
+    "p": 12.04,
     "cur": "USD",
-    "ma200": 12.8947,
+    "ma200": 12.9075,
     "h52": 17.53,
     "div": 1,
     "motivos": [
-     "3% abaixo da média de 200 dias",
-     "29% abaixo do máximo de 52 semanas",
+     "7% abaixo da média de 200 dias",
+     "31% abaixo do máximo de 52 semanas",
      "analistas a favor (18 opiniões)",
      "P/L de 7",
      "lucros a crescer 500%"
@@ -1272,36 +1233,36 @@
    },
    "VICI": {
     "n": "VICI Properties Inc.",
-    "p": 24.51,
+    "p": 24.39,
     "cur": "USD",
-    "ma200": 26.7568,
+    "ma200": 26.7385,
     "h52": 30.36,
     "div": 8,
     "motivos": [
-     "8% abaixo da média de 200 dias",
+     "9% abaixo da média de 200 dias",
      "analistas a favor (24 opiniões)",
      "P/L de 8"
     ]
    },
    "VOW3": {
     "n": "VOLKSWAGEN AG                 V",
-    "p": 67.04,
+    "p": 66.3,
     "cur": "EUR",
-    "ma200": 81.4998,
+    "ma200": 81.3208,
     "h52": 108.6,
     "div": 26,
     "motivos": [
      "dividendos há 26 anos seguidos",
      "18% abaixo da média de 200 dias",
-     "38% abaixo do máximo de 52 semanas",
+     "39% abaixo do máximo de 52 semanas",
      "P/L de 3"
     ]
    },
    "VZ": {
     "n": "Verizon Communications Inc.",
-    "p": 45.93,
+    "p": 46.13,
     "cur": "USD",
-    "ma200": 47.1665,
+    "ma200": 47.1659,
     "h52": 51.45,
     "div": 42,
     "motivos": [
@@ -1312,14 +1273,14 @@
    },
    "WDC": {
     "n": "Western Digital Corporation",
-    "p": 283.33,
+    "p": 288.19,
     "cur": "USD",
-    "ma200": 422.2035,
+    "ma200": 422.1933,
     "h52": 746.23,
     "div": 1,
     "motivos": [
-     "33% abaixo da média de 200 dias",
-     "62% abaixo do máximo de 52 semanas",
+     "32% abaixo da média de 200 dias",
+     "61% abaixo do máximo de 52 semanas",
      "analistas a favor (24 opiniões)",
      "P/L de 7",
      "lucros a crescer 51%"
@@ -1327,12 +1288,14 @@
    },
    "WISE": {
     "n": "WISE GROUP PLC CLS A ORD USD0.0",
-    "p": 8.828,
+    "p": 8.48,
     "cur": "GBP",
-    "ma200": 9.079,
+    "ma200": 9.0765,
     "h52": 10.905,
     "div": 0,
     "motivos": [
+     "7% abaixo da média de 200 dias",
+     "22% abaixo do máximo de 52 semanas",
      "analistas a favor (15 opiniões)",
      "P/L de 17",
      "lucros a crescer 8%"
@@ -1340,21 +1303,21 @@
    },
    "ZTS": {
     "n": "Zoetis Inc.",
-    "p": 83.48,
+    "p": 85.57,
     "cur": "USD",
-    "ma200": 91.0751,
+    "ma200": 90.8909,
     "h52": 131.1,
     "div": 13,
     "motivos": [
      "dividendos há 13 anos seguidos",
-     "8% abaixo da média de 200 dias",
-     "36% abaixo do máximo de 52 semanas",
+     "6% abaixo da média de 200 dias",
+     "35% abaixo do máximo de 52 semanas",
      "P/L de 13"
     ]
    }
   }
  },
- "asOf": "2026-11-18T21:00:00Z",
+ "asOf": "2026-11-19T17:20:22Z",
  "source": "Durante a sessão via Yahoo Finance",
  "erros": []
 }
