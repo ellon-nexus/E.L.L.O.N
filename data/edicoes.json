@@ -1,5 +1,207 @@
 [
  {
+  "asOf": "2026-11-19T07:30:00Z",
+  "capa_foto": "stock exchange trading screens",
+  "capa_titulo": "Juros a subir e Nvidia em queda",
+  "id": "2026-11-19",
+  "ideas": [
+   {
+    "market": "Madrid",
+    "name": "Iberdrola",
+    "risks": "Dívida e investimento elevados, forte dependência de regulação no Reino Unido, EUA e Brasil e sensibilidade a juros mais altos.",
+    "sources": [
+     {
+      "title": "Iberdrola, 21/10/2026",
+      "url": "https://www.iberdrola.com/sala-comunicacao/noticia/detalhe/iberdrola-aumenta-lucro-liquido-10-5-8-bi-gracas-investimentos-recordes-10-bi-nove-primeiros-meses-2026"
+     }
+    ],
+    "tag": "Utilities",
+    "thesis": "A elétrica espanhola ganhou 5,8 mil milhões de euros nos nove meses (+10%), investiu um recorde de 10,1 mil milhões (62% em redes) e subiu o dividendo intercalar 8,7% para 0,275 euros. Prevê crescer pelo menos 10% em 2026.",
+    "ticker": "IBE"
+   },
+   {
+    "market": "Milão",
+    "name": "Enel",
+    "risks": "Dívida líquida subiu 15,7% para 66,2 mil milhões, há fraqueza em Itália e mudanças regulatórias italianas pesaram cerca de 1,5 mil milhões.",
+    "sources": [
+     {
+      "title": "Oilprice.com, 12/11/2026",
+      "url": "https://oilprice.com/Company-News/Enel-Profit-Rises-6-as-Spain-and-Americas-Offset-Italy-Weakness.html"
+     }
+    ],
+    "tag": "Utilities",
+    "thesis": "O lucro ordinário dos nove meses subiu cerca de 6% para 6,02 mil milhões de euros, com as redes a crescer 11,7% no EBITDA, e o dividendo intercalar foi de 0,245 euros (+7%). Mantém as metas para 2026.",
+    "ticker": "ENEL"
+   },
+   {
+    "market": "Índia (NYSE/NSE)",
+    "name": "HDFC Bank",
+    "risks": "Crescimento mais lento, pressão nas margens e integração da HDFC Ltd ainda por provar; risco cambial da rupia.",
+    "sources": [
+     {
+      "title": "JournalArta, 12/11/2026",
+      "url": "https://journalarta.com/en/2026/11/12/hdfc-bank-lags-nifty-50-investors-weigh-buying-dip/"
+     },
+     {
+      "title": "HDFC Sky, 17/11/2026",
+      "url": "https://hdfcsky.com/news/sectoral-snapshot-today-november-17-2026-realty-psu-banks-lead-rally-it-stocks-drag"
+     }
+    ],
+    "tag": "Banca",
+    "thesis": "O maior banco privado indiano tem crédito mal parado de 0,37% (líquido), capital de 18,87% face a 11,9% exigido e cerca de 120 milhões de clientes. Perdeu face ao índice no último ano e tem novo CEO desde 27/10, o que alguns veem como ponto de entrada.",
+    "ticker": "HDB"
+   },
+   {
+    "market": "Milão",
+    "name": "Avio",
+    "risks": "A oferta pode não se concretizar ou ser alterada, grande parte da subida já aconteceu e o setor depende de contratos públicos.",
+    "sources": [
+     {
+      "title": "Newsquawk, 17/11/2026",
+      "url": "https://www.newsquawk.com/headlines/newsquawk-european-market-wrap---17th-november-2026"
+     }
+    ],
+    "tag": "Espaço e defesa",
+    "thesis": "A fabricante italiana de lançadores subiu 16,6% a 17 de novembro, depois de ter surgido uma oferta de aquisição a 41 euros por ação. Para estudar o que a oferta valoriza e quem a faz.",
+    "ticker": "AVIO"
+   },
+   {
+    "market": "Cripto",
+    "name": "Ether (Ethereum)",
+    "risks": "Muito volátil, pode perder grande parte do valor e não tem dividendos; as quedas podem continuar com juros altos e dólar forte.",
+    "sources": [
+     {
+      "title": "Stock3/BTC-ECHO, 12/11/2026",
+      "url": "https://stock3.com/news/ethereum-faellt-unter-2-000-us-dollar-anleger-ziehen-millionen-ab-17392377"
+     },
+     {
+      "title": "RTTNews, 13/11/2026",
+      "url": "https://www.rttnews.com/3714577/cryptos-drop-as-dollar-gains-bitcoin-falls-below-68k.aspx?type=cryp"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "O ether caiu abaixo dos 2.000 dólares, perdeu cerca de 30% em seis semanas e os fundos cotados somaram saídas durante cinco dias seguidos (cerca de 524 milhões de dólares desde 5/11); a 13/11 valia 1.956 dólares, -12,4% na semana. Interessa a quem quer estudar o ciclo de entradas e saídas dos fundos.",
+    "ticker": "ETH"
+   }
+  ],
+  "legenda": "Os juros nos EUA podem voltar a subir em dezembro e janeiro, e isso mexe com o crédito e com o dólar em todo o mundo. A Nvidia vendeu 115,8 mil milhões de dólares num trimestre, mas as ações caem desde que o fundador se demitiu. Na China, o consumo trava, e na Europa a Itália já passa os 5% de inflação. Hoje há ainda a estreia em bolsa de uma das maiores operações de sempre.\n\n#ConjunturaDiária #Mercados #Economia #Bolsa #Juros #Inflação #Nvidia #Fed #Investing #StockMarket",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "stock exchange building facade",
+    "tag": "Bolsa",
+    "texto": "A oferta foi fixada acima da faixa de 70 a 78 dólares e a ação estreia no Nasdaq com o símbolo ANT. É a segunda maior entrada em bolsa de sempre.",
+    "tipo": "noticia",
+    "titulo": "Anthropic estreia hoje a 83 dólares"
+   },
+   {
+    "foto": "federal reserve building",
+    "tag": "Juros",
+    "texto": "Um governador da Fed defende avisar já de nova subida em janeiro. 69% dos investidores apostam em +0,50 pontos até lá. Crédito mais caro e dólar forte.",
+    "tipo": "noticia",
+    "titulo": "Fed pode subir juros em dezembro e janeiro"
+   },
+   {
+    "foto": "computer chips circuit board",
+    "tag": "Tecnologia",
+    "texto": "Vendas de 115,8 mil milhões de dólares (+103%), mas as ações perderam quase 30% num mês depois de o fundador Jensen Huang se demitir.",
+    "tipo": "noticia",
+    "titulo": "Nvidia cai cinco dias apesar de vender 115 mil milhões"
+   },
+   {
+    "foto": "shopping street Shanghai",
+    "tag": "China",
+    "texto": "As vendas a retalho em outubro ficaram bem abaixo do 1,07% previsto. Pequim mantém a meta anual, mas as famílias gastam pouco.",
+    "tipo": "noticia",
+    "titulo": "Consumo chinês cresce só 0,4%"
+   },
+   {
+    "foto": "european city street evening",
+    "tag": "Europa",
+    "texto": "A zona euro fechou outubro em 4,0%, com a energia 20,8% mais cara. O Bundesbank diz que uma subida de juros em dezembro é muito provável.",
+    "tipo": "noticia",
+    "titulo": "Inflação em Itália sobe para 5,6%"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Associated Press (WDBJ7), 17/11/2026",
+    "url": "https://www.wdbj7.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/"
+   },
+   {
+    "title": "Yahoo Finance, 18/11/2026",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+   },
+   {
+    "title": "Yahoo Finance (Brian Sozzi), 18/11/2026",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-delivered-a-monster-quarter-then-its-new-leaders-stumbled-on-the-earnings-call-120332810.html"
+   },
+   {
+    "title": "Eurasia Business News, 18/11/2026",
+    "url": "https://eurasiabusinessnews.com/2026/11/18/stock-market-today-november-18-2026-nvidia-earnings-fail-to-calm-investors-as-gold-and-oil-fall/"
+   },
+   {
+    "title": "Renaissance Capital, 10/11/2026",
+    "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap"
+   },
+   {
+    "title": "StockAnalysis (Eurostat), 04/11/2026",
+    "url": "https://stockanalysis.com/news/eurozone-inflation-rises-october-2026/"
+   },
+   {
+    "title": "ComparaJá (Euribor), 13/11/2026",
+    "url": "https://www.comparaja.pt/credito-habitacao/noticias/euribor-sobe-a-3-e-12-meses-desce-a-6-meses-novembro-2026"
+   },
+   {
+    "title": "SCMP, 16/11/2026",
+    "url": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales"
+   },
+   {
+    "title": "Trading Economics (Japão), 18/11/2026",
+    "url": "https://tradingeconomics.com/japan/stock-market/news/601716"
+   },
+   {
+    "title": "The Edge Malaysia (Japão/iene), 13/11/2026",
+    "url": "https://theedgemalaysia.com/node/825587"
+   },
+   {
+    "title": "NewsBytes (Índia), 05/11/2026",
+    "url": "https://www.newsbytesapp.com/news/business/indian-rupee-rises-nearly-1-to-9447-after-rbi-actions/tldr"
+   },
+   {
+    "title": "Reuters via GV Wire (Ormuz), 12/11/2026",
+    "url": "https://gvwire.com/2026/11/12/oil-gains-over-1-on-strait-of-hormuz-shipping-disruptions-russia-tensions/"
+   }
+  ],
+  "summary": "Quem tem dinheiro emprestado devia reparar no que se passa do outro lado do Atlântico: nos Estados Unidos já se fala em subir os juros mais duas vezes até ao fim de janeiro, e os juros a 10 anos estão acima de 5%. Isso encarece o crédito em todo o mundo e é uma das razões por que as bolsas andam nervosas. Na quarta-feira o S&P 500 voltou a fechar em baixo e a Nvidia, apesar de resultados enormes, caiu pelo quinto dia por causa da saída do fundador. Na China, os consumidores gastam menos do que o previsto, e na Europa a Itália já vê preços a subir 5,6% ao ano, quase o dobro da Alemanha. Hoje há ainda a estreia em bolsa da segunda maior operação de sempre, um teste ao apetite dos investidores.",
+  "themes": [
+   {
+    "t": "Fed pode subir juros mais duas vezes",
+    "txt": "O governador da Reserva Federal Chris Waller defendeu que, se o banco central subir 0,25 pontos em dezembro, deve avisar logo que haverá nova subida em janeiro. Os mercados já apostam: 69% dos investidores esperam subidas de 0,50 pontos até ao fim de janeiro, contra 38% há um mês. Os juros a 10 anos nos EUA rondam os 5,08%. Para o dia a dia, significa dólar forte, crédito mais caro lá fora e pressão sobre os preços de tudo o que se compra em dólares, como combustíveis e viagens."
+   },
+   {
+    "t": "Nvidia: resultados de ouro, ação em queda",
+    "txt": "A Nvidia vendeu 115,8 mil milhões de dólares no trimestre (+103%) e prevê 130 mil milhões para o seguinte, mas as ações caíram pelo quinto dia seguido e perderam quase 30% num mês. A razão não é o negócio: o fundador Jensen Huang demitiu-se a 12 de novembro, a empresa está a ser gerida pela diretora financeira Colette Kress e ninguém perguntou pelo sucessor na conferência com analistas. A margem de lucro prevista também desce, para 71% a 72%. A BofA mantém compra com alvo de 280 dólares, mas o KeyBanc avisa que a incerteza deve manter a ação num intervalo."
+   },
+   {
+    "t": "Estreia em bolsa que mede o apetite por risco",
+    "txt": "A Anthropic fixou o preço da oferta em 83 dólares por ação, acima da faixa inicial de 70 a 78, e a negociação no Nasdaq começa hoje com o símbolo ANT. É a segunda maior entrada em bolsa de sempre, depois da SpaceX em junho. Para quem poupa, interessa por duas razões: um bom arranque costuma abrir a porta a outras empresas tecnológicas e, se correr mal, pode agravar o nervosismo com a inteligência artificial."
+   },
+   {
+    "t": "China gasta pouco, Japão exporta muito",
+    "txt": "As vendas a retalho na China subiram apenas 0,4% em outubro, bem abaixo do 1,07% previsto, e o investimento em ativos fixos contraiu mais. Os economistas não veem a meta anual de Pequim em risco, mas o consumo continua fraco. Do outro lado, as exportações do Japão cresceram 20,5% em outubro, puxadas por equipamento para chips (+49,7%) e automóveis (+19,9%). O iene a quase 160 por dólar ajuda os exportadores, mas encarece tudo o que o Japão importa."
+   },
+   {
+    "t": "Portugal: o Euribor está calmo, mas por pouco tempo",
+    "txt": "Os Euribor a 3, 6 e 12 meses estavam a 11 de novembro em 2,754%, 3,010% e 3,222%, quase parados. Importa porque 40% do crédito à habitação com taxa variável está indexado aos 6 meses e 31% aos 12. O BCE manteve as taxas a 28 de outubro, mas o mercado conta com subida na reunião de 16 e 17 de dezembro, depois de a inflação ter chegado a 4,0% na zona euro (5,6% em Itália, 2,8% na Alemanha) com a energia 20,8% mais cara. Quem tem taxa mista ou fixa está mais protegido."
+   },
+   {
+    "t": "Índia segura a rupia, petróleo continua a pesar",
+    "txt": "A rupia fechou a 94,47 por dólar a 5 de novembro, depois de o banco central indiano ter vendido 18,2 mil milhões de dólares em outubro, o maior valor mensal do ano, e ter criado uma linha especial de dólares para as petrolíferas estatais. O Brent ronda os 92-93 dólares, ainda marcado pelas tensões no Estreito de Ormuz. Na bolsa de Bombaim os bancos públicos subiram cerca de 2% a 17 de novembro, enquanto as empresas de tecnologia caíram, com receios de que a IA lhes tire trabalho."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-18T07:30:00Z",
   "capa_foto": "euro banknotes supermarket shopping",
   "capa_titulo": "Inflação a 4% na Europa e Nvidia surpreende",
