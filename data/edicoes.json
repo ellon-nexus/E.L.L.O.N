@@ -1,5 +1,199 @@
 [
  {
+  "asOf": "2026-11-20T10:22:17Z",
+  "capa_foto": "stock market red screen",
+  "capa_titulo": "Sexta negra: as bolsas caem em todo o mundo",
+  "id": "2026-11-20",
+  "ideas": [
+   {
+    "market": "Nasdaq",
+    "name": "Palo Alto Networks",
+    "risks": "Avaliação exigente para uma empresa de software e sensibilidade a subidas de juros; não paga dividendo relevante.",
+    "sources": [
+     {
+      "title": "Saxo Markets, 20/11/2026",
+      "url": "https://www.home.saxo/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026"
+     }
+    ],
+    "tag": "Cibersegurança",
+    "thesis": "A ação subiu 6,4% num dia em que o mercado caiu 2%, depois de a empresa elevar a previsão de receitas. Mostra que há procura por segurança informática mesmo em tempo de cortes de investimento.",
+    "ticker": "PANW"
+   },
+   {
+    "market": "Euronext Amesterdão / Nasdaq",
+    "name": "ASML Holding",
+    "risks": "Controlos de exportação dos EUA e um eventual corte de investimento dos clientes podem travar encomendas; os semicondutores estão muito voláteis.",
+    "sources": [
+     {
+      "title": "Saxo Markets, 20/11/2026",
+      "url": "https://www.home.saxo/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026"
+     },
+     {
+      "title": "Tickmill, 20/11/2026",
+      "url": "https://www.tickmill.com/blog/daily-market-outlook-november-20-2026"
+     }
+    ],
+    "tag": "Semicondutores",
+    "thesis": "Subiu 2,2% enquanto a Samsung e a SK Hynix caíam mais de 6% na venda de chips; é a fornecedora das máquinas sem as quais os chips avançados não se fazem, por isso a procura depende do investimento em IA.",
+    "ticker": "ASML"
+   },
+   {
+    "market": "SIX Swiss Exchange / NYSE (NVS)",
+    "name": "Novartis",
+    "risks": "A previsão foi reduzida e a empresa depende de poucos medicamentos; o franco suíço também influencia a rentabilidade em euros.",
+    "sources": [
+     {
+      "title": "Saxo Markets, 20/11/2026",
+      "url": "https://www.home.saxo/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026"
+     }
+    ],
+    "tag": "Saúde",
+    "thesis": "Caiu 3,2% depois de cortar a previsão de crescimento das vendas a médio prazo, o que pode criar um ponto de entrada para quem procura saúde e dividendos, mas só se o crescimento voltar.",
+    "ticker": "NOVN"
+   },
+   {
+    "market": "NYSE / Hong Kong",
+    "name": "Alibaba",
+    "risks": "Risco regulatório e geopolítico, consumo fraco na China e margens sob pressão.",
+    "sources": [
+     {
+      "title": "Saxo Markets, 20/11/2026",
+      "url": "https://www.home.saxo/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026"
+     },
+     {
+      "title": "investingLive (Ásia), 13/11/2026",
+      "url": "https://investinglive.com/stock-market-update/asian-stocks-steady-as-nikkei-gains-1-4-hang-seng-slips-on-nvidia-leadership-fallout/"
+     }
+    ],
+    "tag": "China",
+    "thesis": "Apresentou receitas acima do esperado, mas lucro abaixo, por causa dos custos elevados de investimento; o consumo chinês e a IA vão decidir se esse investimento compensa.",
+    "ticker": "BABA"
+   },
+   {
+    "market": "Cripto",
+    "name": "Bitcoin",
+    "risks": "É muito volátil, pode perder grande parte do valor e não paga dividendos; os ETF de bitcoin continuam a registar saídas.",
+    "sources": [
+     {
+      "title": "Cointelegraph, 15/11/2026",
+      "url": "https://cointelegraph.com/news/bitcoin-four-month-low-62k-crypto-market-selloff"
+     },
+     {
+      "title": "Saxo Markets, 20/11/2026",
+      "url": "https://www.home.saxo/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "Caiu para perto de 62 mil dólares, o valor mais baixo desde julho, com o índice de medo e ganância em 10 (medo extremo) e saídas de 2,35 mil milhões de dólares dos ETF em duas semanas. Perto de 62 mil dólares, é o nível que muitos acompanham como suporte.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "Uma sexta-feira de nervos nos mercados: Wall Street fechou a sexta queda seguida, a Ásia teve a pior semana desde 2020 e o ouro e o cobre afundaram. O medo de que os juros nos EUA continuem a subir está a empurrar os investidores para o dinheiro vivo. Em Portugal, a Euribor a 12 meses recuou ligeiramente em outubro, mas ainda está mais de um ponto acima do ano passado. Entretanto, a Anthropic estreou-se em bolsa e fechou o primeiro dia 17% acima do preço de oferta.\n\n#ConjunturaDiaria #Mercados #Bolsa #Economia #Euribor #Petroleo #WallStreet #Markets #Finance #IPO",
+  "next": "segunda-feira de manhã",
+  "slides": [
+   {
+    "foto": "stock exchange trading floor",
+    "tag": "Wall Street",
+    "texto": "O S&P 500 perdeu 2% e o Dow Jones fechou abaixo dos 50 000 pontos pela primeira vez desde junho. O receio de mais subidas de juros nos EUA encarece o crédito em todo o mundo.",
+    "tipo": "noticia",
+    "titulo": "Wall Street cai pelo sexto dia seguido"
+   },
+   {
+    "foto": "Tokyo skyline at dusk",
+    "tag": "Ásia",
+    "texto": "O Nikkei e o Kospi caíram quase 5% num só dia e as bolsas da região perdem cerca de 8% na semana. Chips mais caros e iene fraco podem pesar nos preços da eletrónica.",
+    "tipo": "noticia",
+    "titulo": "Ásia vive a pior semana desde 2020"
+   },
+   {
+    "foto": "server room data center",
+    "tag": "IPO",
+    "texto": "As ações, vendidas a 83 dólares, fecharam o primeiro dia a 97,17, cerca de 17% acima. A oferta angariou perto de 81 mil milhões de dólares, um recorde.",
+    "tipo": "noticia",
+    "titulo": "Anthropic estreia-se em bolsa a valer 1,1 biliões"
+   },
+   {
+    "foto": "gold bars",
+    "tag": "Metais",
+    "texto": "O ouro perdeu cerca de 8% numa semana e o cobre caiu 9,5% para o valor mais baixo em oito meses. Quando todos precisam de dinheiro vivo, vendem até os refúgios.",
+    "tipo": "noticia",
+    "titulo": "Ouro e cobre em queda livre"
+   },
+   {
+    "foto": "oil tanker at sea",
+    "tag": "Petróleo",
+    "texto": "O petróleo ronda os 92 dólares por causa dos incidentes com petroleiros no Estreito de Ormuz, mas o gasóleo em Londres caiu cerca de 8% numa semana. Pode ajudar nas bombas.",
+    "tipo": "noticia",
+    "titulo": "Brent nos 90 dólares, gasóleo a aliviar"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Saxo Markets, 20/11/2026",
+    "url": "https://www.home.saxo/content/articles/macro/market-quick-take---asian-stocks-tumble-after-wall-streets-sixth-straight-decline---20-november-2026-20112026"
+   },
+   {
+    "title": "Tickmill, 20/11/2026",
+    "url": "https://www.tickmill.com/blog/daily-market-outlook-november-20-2026"
+   },
+   {
+    "title": "The Rio Times, 20/11/2026",
+    "url": "https://www.riotimesonline.com/global-economy-briefing-november-20-2026/"
+   },
+   {
+    "title": "Sovereign Magazine, 19/11/2026",
+    "url": "https://www.sovereignmagazine.com/article/anthropic-ipo-price-83"
+   },
+   {
+    "title": "investingLive (Ásia), 13/11/2026",
+    "url": "https://investinglive.com/stock-market-update/asian-stocks-steady-as-nikkei-gains-1-4-hang-seng-slips-on-nvidia-leadership-fallout/"
+   },
+   {
+    "title": "Simula (Banco de Portugal), 17/11/2026",
+    "url": "https://simula.pt/noticias/euribor-medias-outubro-2026/"
+   },
+   {
+    "title": "San Francisco Standard, 12/11/2026",
+    "url": "https://sfstandard.com/2026/11/12/nvidia-shares-tumble-as-wall-street-reacts-huang-s-exit/"
+   },
+   {
+    "title": "Cointelegraph, 15/11/2026",
+    "url": "https://cointelegraph.com/news/bitcoin-four-month-low-62k-crypto-market-selloff"
+   }
+  ],
+  "summary": "O mundo acordou esta sexta-feira a vender quase tudo ao mesmo tempo: ações, ouro, cobre e até bitcoin. Wall Street fechou a sexta queda seguida, com o S&P 500 a perder 2%, e a Ásia afundou perto de 5% em Tóquio e Seul. A razão de fundo é o receio de que os juros nos Estados Unidos continuem a subir, o que encarece o crédito em todo o lado e faz muita gente querer ter dinheiro vivo. Para quem tem poupanças em fundos ou um plano de reforma, é uma semana de oscilações fortes; para quem tem crédito à habitação, a boa notícia é que a Euribor a 12 meses recuou ligeiramente em outubro. E, no meio do pânico, a Anthropic estreou-se em bolsa e valeu cerca de 1,1 biliões de dólares.",
+  "themes": [
+   {
+    "t": "Todos a querer dinheiro vivo",
+    "txt": "O ouro perdeu cerca de 8% numa semana, o cobre caiu 9,5% para o valor mais baixo em oito meses e a prata e a platina tiveram quedas de dois dígitos. O índice de matérias-primas da Bloomberg soma a quinta semana de perdas. Quando os investidores precisam de dinheiro, vendem até o que normalmente protege, e os juros a 10 anos nos EUA, perto de 5%, tornam as obrigações uma alternativa a sério. Nos países emergentes, o peso colombiano perdeu 3,6% e o real brasileiro 0,9% face ao dólar, segundo o Rio Times; já o banco central do Brasil mantém a taxa Selic em 13,75%."
+   },
+   {
+    "t": "Ásia tem a pior semana desde 2020",
+    "txt": "O Nikkei caiu quase 5% e o Kospi sul-coreano mais de 5%, com a venda de fabricantes de chips como a Samsung e a SK Hynix (cada uma mais de 6% abaixo). O índice MSCI Ásia-Pacífico, sem o Japão, perde cerca de 8% na semana. No Japão a inflação subiu para 2,3% e os economistas esperam novas subidas de juros em dezembro; o iene está perto de 159 por dólar, nível onde o governo costuma intervir. Na China, o banco central manteve as taxas de referência em 3,0% e 3,5%. Para o consumidor, um iene fraco e chips mais caros acabam, mais tarde, em eletrónica e carros com preços mais altos."
+   },
+   {
+    "t": "A Anthropic estreou-se em bolsa a bater recordes",
+    "txt": "As ações foram vendidas a 83 dólares, acima do intervalo inicial de 70 a 78, e fecharam o primeiro dia a 97,17 dólares, cerca de 17% acima. A oferta angariou perto de 81 mil milhões de dólares, a maior de sempre numa estreia, e a empresa vale cerca de 1,1 biliões. O ganho encolheu depois de uma abertura muito forte, perto de 111,50 dólares, sinal de que até um entusiasmo destes tem limites quando o resto do mercado cai. Quem tem fundos de ações globais passa a ter, indiretamente, exposição à empresa."
+   },
+   {
+    "t": "Petróleo nos 90 dólares e paz que não chega",
+    "txt": "O Brent ronda os 92 dólares, sustentado por incidentes com petroleiros no Estreito de Ormuz, por onde passa muito do petróleo mundial. Mas o gasóleo em Londres caiu cerca de 8% numa semana, para 158 dólares por barril, o que pode vir a aliviar as bombas se se mantiver. Os encontros entre Trump e Xi, e entre Trump e Putin, não deram avanços concretos, e os líderes europeus desconfiam de novas pressões para aceitar uma paz na Ucrânia que não querem."
+   },
+   {
+    "t": "Na Europa, o euro no mínimo de 19 meses",
+    "txt": "O euro anda perto de 1,10 dólares, o valor mais baixo em 19 meses, o que torna mais caras as viagens aos EUA e as importações pagas em dólares. As bolsas europeias caíram cerca de 0,9%; a química alemã Evonik afundou 16% depois de a BASF desistir de uma compra, e a Novartis perdeu 3,2% por cortar a previsão de crescimento. No Reino Unido, as vendas a retalho subiram 2,5% em outubro, mais do que o esperado, e um responsável do Banco de Inglaterra culpou a política monetária demasiado frouxa pela inflação. Em Frankfurt, Panetta, do BCE, avisou para não deixar a inflação enraizar-se."
+   },
+   {
+    "t": "Portugal: a Euribor respira, mas só a 12 meses",
+    "txt": "A média da Euribor a 12 meses em outubro foi 3,239%, a primeira descida mensal desde junho, mas continua mais de um ponto acima do ano passado. A de 6 meses subiu pelo nono mês seguido, para 2,975%, e a de 3 meses ficou nos 2,635%. Na prática, quem tem a prestação indexada a 12 meses teve um pequeno alívio, quem está a 6 meses voltou a pagar um pouco mais. Com os juros americanos a subir, não há motivo para festejar."
+   },
+   {
+    "t": "Na tua carteira",
+    "txt": "A Nvidia continua a sentir a saída do cofundador Jensen Huang: a RBC cortou o preço-alvo de 330 para 230 dólares, mas o consenso de 63 analistas mantém-se em Compra, com alvo médio de 259 dólares. As elétricas e a Realty Income tiveram recuos pequenos num dia de aversão ao risco, e a NextEra e a Realty Income têm dividendos a caminho no fim do mês. Os valores da tua carteira são calculados com os últimos fechos disponíveis."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-19T07:30:00Z",
   "capa_foto": "stock exchange trading screens",
   "capa_titulo": "Juros a subir e Nvidia em queda",
