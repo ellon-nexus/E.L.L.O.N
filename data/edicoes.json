@@ -1,5 +1,211 @@
 [
  {
+  "asOf": "2026-11-23T09:00:00Z",
+  "capa_foto": "stock exchange trading floor screens",
+  "capa_titulo": "Wall Street em correção, Ásia a tremer",
+  "id": "2026-11-23",
+  "ideas": [
+   {
+    "market": "Nasdaq",
+    "name": "Anthropic",
+    "risks": "Estreia recente, muito volátil, já perdeu cerca de 23% do pico e depende de a procura por IA se manter.",
+    "sources": [
+     {
+      "title": "AP via WSLS, 23/11/2026",
+      "url": "https://www.wsls.com/business/2026/11/23/asian-shares-mostly-fall-after-sp-500-drops-37-into-a-correction/"
+     },
+     {
+      "title": "Motley Fool, 19/11/2026",
+      "url": "https://www.fool.com/investing/2026/11/19/why-spacex-stock-is-down-today/"
+     }
+    ],
+    "tag": "IA · IPO",
+    "thesis": "Estreou-se a 19/11 com oferta a 83 dólares, chegou a 115,10 dólares e fechou sexta a 88,91 dólares, ainda acima do preço de oferta. Comprometeu até 120,5 mil milhões de dólares com a unidade de IA da SpaceX até 2029.",
+    "ticker": "ANT"
+   },
+   {
+    "market": "Nasdaq",
+    "name": "Nvidia",
+    "risks": "Saída do fundador e CEO, guidance que exclui a China, receio de bolha de IA e queda já forte que pode continuar.",
+    "sources": [
+     {
+      "title": "Constellation Research, 17/11/2026",
+      "url": "https://www.constellationr.com/insights/news/nvidia-posts-strong-q3-ups-q4-fiscal-2028-outlook-amid-huang-resignation"
+     },
+     {
+      "title": "AP via WSLS, 23/11/2026",
+      "url": "https://www.wsls.com/business/2026/11/23/asian-shares-mostly-fall-after-sp-500-drops-37-into-a-correction/"
+     }
+    ],
+    "tag": "Tecnologia",
+    "thesis": "Receita de 115,8 mil milhões de dólares no trimestre (+103%), guidance de cerca de 130 mil milhões para o seguinte e recompra adicional de 150 mil milhões. A ação caiu 14% na sexta, mais de 30% desde a saída de Huang.",
+    "ticker": "NVDA"
+   },
+   {
+    "market": "Bolsa da Coreia (KRX)",
+    "name": "SK Hynix",
+    "risks": "Setor cíclico, muito exposto à Nvidia e à IA, e a bolsa coreana está a oscilar muito.",
+    "sources": [
+     {
+      "title": "AP via WSLS, 23/11/2026",
+      "url": "https://www.wsls.com/business/2026/11/23/asian-shares-mostly-fall-after-sp-500-drops-37-into-a-correction/"
+     }
+    ],
+    "tag": "Chips · Ásia",
+    "thesis": "Caiu 4,9% com o Kospi, que perdeu 5,8% na segunda-feira. É um dos fabricantes de memória ligados ao ciclo de IA que mais sofre quando Wall Street duvida do setor.",
+    "ticker": "000660"
+   },
+   {
+    "market": "NYSE Arca",
+    "name": "ETF de ouro (SPDR Gold Shares)",
+    "risks": "Não paga dividendos, depende dos juros e do dólar e pode continuar a cair se a Fed subir as taxas.",
+    "sources": [
+     {
+      "title": "Eurasia Business News, 20/11/2026",
+      "url": "https://eurasiabusinessnews.com/2026/11/20/stock-market-today-november-20-2026-tech-rout-deepens-as-anthropic-stocks-slide/"
+     }
+    ],
+    "tag": "Ouro",
+    "thesis": "O ouro à vista negociava perto de 3.558 dólares por onça e teve em 20/11 a pior semana desde cerca de abril, com queda de 8,5%, pressionado por expectativas de subida de juros e dólar forte.",
+    "ticker": "GLD"
+   },
+   {
+    "market": "Cripto",
+    "name": "Bitcoin",
+    "risks": "É muito volátil, pode perder grande parte do valor e não tem dividendos.",
+    "sources": [
+     {
+      "title": "Eurasia Business News, 20/11/2026",
+      "url": "https://eurasiabusinessnews.com/2026/11/20/stock-market-today-november-20-2026-tech-rout-deepens-as-anthropic-stocks-slide/"
+     },
+     {
+      "title": "InvestingLive, 16/11/2026",
+      "url": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "Negociava perto de 61.300 dólares a 20/11, depois de uma semana com mínimos de quatro meses e saídas de 1,91 mil milhões de dólares dos ETF de bitcoin em sete sessões.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "Semana a começar com sustos: o S&P 500 entrou em correção, a Coreia do Sul caiu quase 6% e a IA continua a abanar as bolsas. A Fed prepara nova subida de juros em dezembro, o que pesa no crédito e no dólar. O petróleo desceu, mas o Médio Oriente continua a ser um risco. Acompanha a Conjuntura Diária para perceber o que isto muda no teu dia a dia.\n\n#conjuntura #economia #bolsa #wallstreet #inflacao #juros #fed #IA #Nvidia #stockmarket",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "stock market screens red",
+    "tag": "Wall Street",
+    "texto": "O S&P 500 perdeu 3,7% na sexta e está mais de 10% abaixo do máximo de 6 de outubro. O Nasdaq caiu 5,3%. Fundos e planos de reforma ligados à bolsa sentem a queda.",
+    "tipo": "noticia",
+    "titulo": "S&P 500 entra em correção"
+   },
+   {
+    "foto": "Seoul skyline city night",
+    "tag": "Ásia",
+    "texto": "O Kospi perdeu 5,8% e a Samsung 5,5%, com a IA a pesar nos chips. Hong Kong recuou 1,8% e Xangai 1,4%; Tóquio esteve fechada por feriado.",
+    "tipo": "noticia",
+    "titulo": "Coreia do Sul cai quase 6% numa sessão"
+   },
+   {
+    "foto": "computer chip circuit board",
+    "tag": "Tecnologia",
+    "texto": "A Nvidia previu cerca de 130 mil milhões de dólares de receita no próximo trimestre, mas caiu 14% na sexta e mais de 30% desde a saída do fundador.",
+    "tipo": "noticia",
+    "titulo": "Nvidia cai 14% apesar de bons resultados"
+   },
+   {
+    "foto": "federal reserve building facade",
+    "tag": "Juros",
+    "texto": "Quase todos os dirigentes da Fed esperam subir 0,25 pontos em dezembro. Juros mais altos nos EUA encarecem o crédito e fortalecem o dólar.",
+    "tipo": "noticia",
+    "titulo": "Fed prepara nova subida de juros"
+   },
+   {
+    "foto": "oil tanker sea sunset",
+    "tag": "Energia",
+    "texto": "O petróleo desceu três semanas seguidas, com o Estreito de Ormuz a normalizar. Os ataques no Médio Oriente mantêm o risco, mas o gasóleo tem aliviado.",
+    "tipo": "noticia",
+    "titulo": "Brent perto de 92 dólares"
+   }
+  ],
+  "sources": [
+   {
+    "title": "AP via WSLS, 23/11/2026 (Ásia, EUA)",
+    "url": "https://www.wsls.com/business/2026/11/23/asian-shares-mostly-fall-after-sp-500-drops-37-into-a-correction/"
+   },
+   {
+    "title": "Eurasia Business News, 20/11/2026",
+    "url": "https://eurasiabusinessnews.com/2026/11/20/stock-market-today-november-20-2026-tech-rout-deepens-as-anthropic-stocks-slide/"
+   },
+   {
+    "title": "AP via ADN, 18/11/2026 (Fed)",
+    "url": "https://www.adn.com/business-economy/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/"
+   },
+   {
+    "title": "Constellation Research, 17/11/2026 (Nvidia)",
+    "url": "https://www.constellationr.com/insights/news/nvidia-posts-strong-q3-ups-q4-fiscal-2028-outlook-amid-huang-resignation"
+   },
+   {
+    "title": "Motley Fool, 19/11/2026 (SpaceX, Anthropic)",
+    "url": "https://www.fool.com/investing/2026/11/19/why-spacex-stock-is-down-today/"
+   },
+   {
+    "title": "InvestingLive, 16/11/2026 (cripto)",
+    "url": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/"
+   },
+   {
+    "title": "Reuters via NST, 10/11/2026 (petróleo, Médio Oriente)",
+    "url": "https://www.nst.com.my/amp/business/economy/2026/11/1574340/oil-falls-over-us7-trump-signals-restraint-iran"
+   },
+   {
+    "title": "Lusa via Notícias ao Minuto, 09/10/2026 (OE2027)",
+    "url": "https://www.noticiasaominuto.com/pais/3064075/oe2027-petroleo-e-juros-sao-riscos-para-a-economia"
+   },
+   {
+    "title": "InvestingLive (semana de resultados e IPO)",
+    "url": "https://investinglive.com/news/earnings-week-ahead-nvidia-without-jensen-anthropic-s-ipo-and-the-consumer-meets-a-hiking-fed/"
+   },
+   {
+    "title": "AP via AJC, 13/11/2026",
+    "url": "https://www.ajc.com/news/2026/11/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/"
+   },
+   {
+    "title": "Sharecast via HL, 06/11/2026 (Europa)",
+    "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-stoxx-slumps-as-ai-contagion-spreads"
+   },
+   {
+    "title": "Rio Times, 15/11/2026 (América Latina e África do Sul)",
+    "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-november-16-20-2026/"
+   }
+  ],
+  "summary": "Quem abriu hoje o telemóvel à espera de um começo de semana calmo apanhou o contrário: o S&P 500, o principal índice de Wall Street, perdeu 3,7% na sexta-feira e entrou oficialmente em «correção», ou seja, mais de 10% abaixo do máximo de 6 de outubro. A queda vem das ações de inteligência artificial, que arrastaram a Nvidia, a estreia atribulada da Anthropic na bolsa e o receio de que os juros americanos voltem a subir em dezembro. Na Ásia, a Coreia do Sul perdeu quase 6% numa só sessão. Para o leitor comum, isto mexe com fundos de investimento, planos de reforma e poupanças ligadas à bolsa, mas também com o crédito: juros altos nos EUA tendem a pesar no dólar, nos combustíveis e nas prestações.",
+  "themes": [
+   {
+    "t": "Coreia do Sul leva o maior susto",
+    "txt": "Tóquio esteve fechada por feriado, mas o resto da Ásia reagiu em força: o Kospi, da Coreia do Sul, caiu 5,8%, com a Samsung a perder 5,5% e a SK Hynix 4,9%. Hong Kong recuou 1,8% e Xangai 1,4%. A Coreia vive muito dos chips de memória que alimentam a IA, por isso é das primeiras bolsas a sentir quando Wall Street duvida desse negócio. Os futuros norte-americanos apontavam para uma recuperação de cerca de 1,9%."
+   },
+   {
+    "t": "Wall Street em correção e a estreia da Anthropic",
+    "txt": "O Nasdaq perdeu 5,3% na sexta e já está negativo no ano; o Dow caiu 1,9%. A Anthropic, que se estreou na bolsa a 19 de novembro com a oferta a 83 dólares, chegou a ser avaliada em mais de 2 biliões de dólares, mas fechou a sexta a 88,91 dólares, cerca de 23% abaixo do pico. A empresa comprometeu-se a gastar até 120,5 mil milhões com a unidade de IA da SpaceX até 2029, o que mostra como estas empresas estão ligadas entre si."
+   },
+   {
+    "t": "Nvidia: bons resultados, ação em queda",
+    "txt": "A Nvidia apresentou a 17 de novembro uma receita de 115,8 mil milhões de dólares no trimestre (mais do dobro de há um ano) e prevê cerca de 130 mil milhões para o próximo, além de uma recompra de ações de 150 mil milhões. Mesmo assim a ação caiu 14% na sexta e mais de 30% desde a saída súbita do fundador Jensen Huang. O mercado já não perdoa nada que pareça excesso de entusiasmo com a IA, e este nervosismo chega aos fundos que muita gente tem."
+   },
+   {
+    "t": "Juros americanos: a Fed prepara nova subida",
+    "txt": "As atas da Fed mostram que quase todos os dirigentes esperam uma subida de 0,25 pontos em dezembro, e a probabilidade apontada pelo mercado ronda os 95%. A inflação subjacente anda perto de 3,5% anualizada e as taxas dos créditos à habitação nos EUA passaram os 7% em alguns meses. Para quem vive fora dos EUA, o efeito sente-se por duas vias: um dólar mais forte e uma pressão para que os bancos centrais, incluindo o BCE, não relaxem depressa."
+   },
+   {
+    "t": "Petróleo mais barato, mas o Médio Oriente continua a ferver",
+    "txt": "O Brent anda perto de 92 dólares, bem abaixo dos máximos, depois de três semanas seguidas em queda e de o Estreito de Ormuz voltar a normalizar. Os preços aliviaram com as conversações entre os EUA e o Irão, mas os ataques houthis a Riade e os incidentes com petroleiros continuam a lembrar que a paz é frágil. Para o automobilista, a descida do crude é a razão pela qual o gasóleo tem aliviado; se as conversações falharem, o alívio pode desaparecer depressa."
+   },
+   {
+    "t": "Portugal: Orçamento do Estado vota-se amanhã",
+    "txt": "A votação final global do Orçamento do Estado para 2027 está marcada para 24 de novembro. A proposta assume um petróleo a 86 dólares e um crescimento de 2,1%, com contas ligeiramente positivas, e admite que o petróleo e os juros são dos maiores riscos: juros de curto prazo 2 pontos mais altos custariam 0,2 pontos de PIB e aumentariam o desemprego. É um bom lembrete de que o que acontece na Reserva Federal americana também chega ao bolso português."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-20T10:22:17Z",
   "capa_foto": "stock market red screen",
   "capa_titulo": "Sexta negra: as bolsas caem em todo o mundo",
