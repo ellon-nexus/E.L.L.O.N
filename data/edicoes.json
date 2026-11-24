@@ -1,5 +1,225 @@
 [
  {
+  "asOf": "2026-11-24T07:28:57Z",
+  "capa_foto": "bull statue Wall Street",
+  "capa_titulo": "Huang regressa e a bolsa dispara",
+  "id": "2026-11-24",
+  "ideas": [
+   {
+    "market": "NYSE (Taiwan: 2330)",
+    "name": "TSMC",
+    "risks": "Depende da procura de IA e de poucos clientes, subiu muito num só dia e há risco geopolítico no estreito de Taiwan.",
+    "sources": [
+     {
+      "title": "Gulf News (AFP/AP), 24/11/2026 (Ásia, Médio Oriente)",
+      "url": "https://gulfnews.com/business/markets/nvidia-rally-sends-asian-stocks-soaring-wall-street-gains-1-trillion-1.500758656"
+     },
+     {
+      "title": "Reuters via Yahoo Finance, 23/11/2026 (analistas)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-market-impact-huangs-return-023347180.html"
+     }
+    ],
+    "tag": "Chips · Taiwan",
+    "thesis": "O índice de Taiwan subiu 9,1% para 40.151,84 pontos e a TSMC ganhou cerca de 10% no arranque do pregão. Um analista da Pepperstone diz que a TSMC ganha visibilidade com o regresso de Huang à Nvidia, sendo das maiores fabricantes de chips para IA.",
+    "ticker": "TSM"
+   },
+   {
+    "market": "Euronext Amesterdão",
+    "name": "ASML",
+    "risks": "Setor cíclico, muito exposto ao investimento em IA e a restrições de exportação; uma subida tão forte pode devolver-se.",
+    "sources": [
+     {
+      "title": "Euronews, 24/11/2026 (Europa)",
+      "url": "https://www.euronews.com/2026/11/24/jensen-huang-is-back-at-nvidia-what-does-it-mean-for-europes-ai-stocks"
+     },
+     {
+      "title": "Anadolu (Anews), 24/11/2026 (Wall Street, Europa, petróleo)",
+      "url": "https://www.anews.com.tr/world/2026/11/24/us-stocks-surge-as-nvidia-reinstates-ceo-huang"
+     }
+    ],
+    "tag": "Chips · Europa",
+    "thesis": "Subiu 8,9% na segunda-feira, num dia em que o Stoxx 600 ganhou 1,8% e as empresas ligadas a chips lideraram a recuperação europeia. Fornece as máquinas de litografia de que dependem os fabricantes de chips.",
+    "ticker": "ASML"
+   },
+   {
+    "market": "NYSE (Brasil: PETR4)",
+    "name": "Petrobras",
+    "risks": "Depende do preço do petróleo, de decisões do Estado brasileiro e do real; as dúvidas orçamentais podem pesar mais.",
+    "sources": [
+     {
+      "title": "Rio Times, 24/11/2026 (Brasil)",
+      "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-monday-november-23-2026"
+     }
+    ],
+    "tag": "Energia · Brasil",
+    "thesis": "A ação caiu 3,2% na segunda-feira com o petróleo mais barato, mas a empresa aprovou um plano de investimento de 122 mil milhões de dólares até 2031. A Bovespa está 21% abaixo do pico de outubro e a taxa Selic é de 13,75%.",
+    "ticker": "PBR"
+   },
+   {
+    "market": "Nasdaq",
+    "name": "CrowdStrike",
+    "risks": "Integração difícil, diluição para os atuais acionistas e dependência de aprovações regulatórias e dos acionistas da Zscaler, com fecho só no 2.º semestre do ano fiscal de 2028.",
+    "sources": [
+     {
+      "title": "CrowdStrike/Zscaler, comunicado, 23/11/2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001713683/000119312526471211/d115803dex991.htm"
+     }
+    ],
+    "tag": "Cibersegurança",
+    "thesis": "Vai comprar a Zscaler em ações, num negócio de cerca de 43,9 mil milhões de dólares: 1,135 ações CrowdStrike por cada ação Zscaler (cerca de 260,41 dólares), um prémio de 34%. Os acionistas da CrowdStrike ficarão com cerca de 84% da empresa combinada.",
+    "ticker": "CRWD"
+   },
+   {
+    "market": "NYSE Arca",
+    "name": "ETF de ouro (SPDR Gold Shares)",
+    "risks": "Não paga dividendos e é sensível aos juros e ao dólar; com a Fed a subir taxas, pode voltar a cair.",
+    "sources": [
+     {
+      "title": "Anadolu (Anews), 24/11/2026 (Wall Street, Europa, petróleo)",
+      "url": "https://www.anews.com.tr/world/2026/11/24/us-stocks-surge-as-nvidia-reinstates-ceo-huang"
+     },
+     {
+      "title": "Reuters via Yahoo Finance, 23/11/2026 (Ásia)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
+     }
+    ],
+    "tag": "Ouro",
+    "thesis": "O ouro à vista subiu 2,85% para 3.635,87 dólares por onça na segunda-feira, num dia de grande apetite por risco. A rotação entre ações e ativos refúgio continua a ser o tema das semanas.",
+    "ticker": "GLD"
+   },
+   {
+    "market": "Cripto",
+    "name": "Bitcoin",
+    "risks": "É muito volátil, pode perder grande parte do valor e não tem dividendos.",
+    "sources": [
+     {
+      "title": "BeInCrypto via Yahoo Finance, 23/11/2026 (cripto)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reinstates-jensen-huang-ceo-140149574.html"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "Subiu de cerca de 61.200 para quase 63.900 dólares em minutos quando se soube do regresso de Huang à Nvidia, fixando-se perto de 63.400 dólares. Mostra como a cripto se move com o ânimo das ações de tecnologia.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "A bolsa acordou outra: com Jensen Huang de volta à Nvidia, o S&P 500 subiu 4,7% e a Coreia do Sul ganhou 7,5% numa sessão. Na Europa os chips lideraram a recuperação, e o petróleo desceu para perto dos 89 dólares, o que alivia o gasóleo. Em Portugal, o Orçamento do Estado vai a votação final com IVA zero no cabaz alimentar. Acompanha a Conjuntura Diária para perceber o que isto muda no teu dia a dia.\n\n#conjuntura #economia #bolsa #wallstreet #nvidia #juros #petroleo #orcamentodoestado #stockmarket #AI",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "stock market trading screens green",
+    "tag": "Wall Street",
+    "texto": "O S&P 500 subiu 4,7%, a maior subida diária desde abril de 2025, e a Nvidia recuperou quase um bilião de dólares. Os fundos e planos de reforma ligados à bolsa respiram.",
+    "tipo": "noticia",
+    "titulo": "Nvidia dispara 31% com o regresso de Huang"
+   },
+   {
+    "foto": "Seoul skyline city night",
+    "tag": "Ásia",
+    "texto": "Os chips puxaram as bolsas asiáticas: Samsung, SK Hynix e TSMC subiram mais de 8%. Estas economias vivem muito das exportações de chips, por isso o ânimo sente-se nos salários.",
+    "tipo": "noticia",
+    "titulo": "Coreia sobe 7,5% e Taiwan 9,1%"
+   },
+   {
+    "foto": "oil tanker sea sunset",
+    "tag": "Energia",
+    "texto": "O petróleo desceu 3,5% porque a oferta do Médio Oriente recuperou e há excesso no mundo. É uma boa notícia para quem enche o depósito de gasóleo.",
+    "tipo": "noticia",
+    "titulo": "Brent cai para 89 dólares"
+   },
+   {
+    "foto": "supermarket fresh vegetables shelf",
+    "tag": "Portugal",
+    "texto": "A votação final do Orçamento do Estado é hoje. Foram aprovados três meses de IVA zero no cabaz alimentar e uma atualização permanente do bónus aos pensionistas.",
+    "tipo": "noticia",
+    "titulo": "IVA zero no cabaz entra no Orçamento"
+   },
+   {
+    "foto": "data center server room",
+    "tag": "Tecnologia",
+    "texto": "O negócio em ações, de cerca de 43,9 mil milhões de dólares, junta duas gigantes da cibersegurança. Os acionistas da Zscaler recebem um prémio de 34%.",
+    "tipo": "noticia",
+    "titulo": "CrowdStrike compra Zscaler por 43,9 mil milhões"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Anadolu (Anews), 24/11/2026 (Wall Street, Europa, petróleo)",
+    "url": "https://www.anews.com.tr/world/2026/11/24/us-stocks-surge-as-nvidia-reinstates-ceo-huang"
+   },
+   {
+    "title": "Euronews, 24/11/2026 (Europa)",
+    "url": "https://www.euronews.com/2026/11/24/jensen-huang-is-back-at-nvidia-what-does-it-mean-for-europes-ai-stocks"
+   },
+   {
+    "title": "RTTNews, 23/11/2026 (Europa)",
+    "url": "https://www.rttnews.com/story.aspx?Id=3717238"
+   },
+   {
+    "title": "Reuters via Yahoo Finance, 23/11/2026 (Ásia)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-huangs-nvidia-013042563.html"
+   },
+   {
+    "title": "Kotak Neo, 24/11/2026 (Ásia, Índia)",
+    "url": "https://www.kotakneo.com/news/global-markets/asian-markets-rally-kospi-gains-above-7-percent-nikkei-rises-5-percent-taiwan-jumps-9-1-nvidia-rebound/"
+   },
+   {
+    "title": "Gulf News (AFP/AP), 24/11/2026 (Ásia, Médio Oriente)",
+    "url": "https://gulfnews.com/business/markets/nvidia-rally-sends-asian-stocks-soaring-wall-street-gains-1-trillion-1.500758656"
+   },
+   {
+    "title": "Reuters via Yahoo Finance, 23/11/2026 (analistas)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-market-impact-huangs-return-023347180.html"
+   },
+   {
+    "title": "Rio Times, 24/11/2026 (Brasil)",
+    "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-monday-november-23-2026"
+   },
+   {
+    "title": "Lusa via Executive Digest, 24/11/2026 (OE2027)",
+    "url": "https://executivedigest.sapo.pt/oe2027-proposta-aprovada-hoje-em-votacao-apos-varias-alteracoes-a-revelia-do-governo/"
+   },
+   {
+    "title": "CrowdStrike/Zscaler, comunicado, 23/11/2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001713683/000119312526471211/d115803dex991.htm"
+   },
+   {
+    "title": "Nvidia, comunicado, 23/11/2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+   },
+   {
+    "title": "BeInCrypto via Yahoo Finance, 23/11/2026 (cripto)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reinstates-jensen-huang-ceo-140149574.html"
+   }
+  ],
+  "summary": "O dia começou com uma notícia de uma só linha: a Nvidia voltou a ter Jensen Huang como diretor-executivo, onze dias depois da saída, e a bolsa reagiu como se tivesse levado uma injeção de ânimo. O S&P 500 subiu 4,7%, a maior subida diária desde abril de 2025, e a Nvidia ganhou 31,5%, recuperando quase um bilião de dólares de valor. A onda chegou à Ásia, onde a Coreia do Sul ganhou 7,5% e Taiwan 9,1%, e à Europa, onde o índice Stoxx 600 subiu 1,8%. Para o leitor comum, isto importa porque muitos fundos e planos de reforma têm estas empresas lá dentro, e a semana passada tinha deixado os saldos a ver navios. Mas a calma é frágil: a Reserva Federal americana deverá subir os juros em dezembro, o que continua a pesar no crédito e no dólar.",
+  "themes": [
+   {
+    "t": "Um regresso que vale um bilião",
+    "txt": "O conselho da Nvidia reintegrou Jensen Huang como presidente e diretor-executivo, com efeito imediato, e criou uma comissão de segurança nacional e de controlo de exportações, depois de uma investigação à alegação de que Huang terá sido alvo de uma operação de informação estrangeira. A ação fechou perto de 165 dólares, contra 125,53 na sexta-feira. Os analistas avisam que as dúvidas sobre o negócio da IA não desapareceram: parte da subida é fecho de apostas contra a empresa, e Huang vai depor no Senado a 3 de dezembro."
+   },
+   {
+    "t": "Coreia e Taiwan lideram a festa asiática",
+    "txt": "O Kospi sul-coreano ganhou 7,5% e o índice de Taiwan 9,1%, com Samsung, SK Hynix e TSMC a subir mais de 8% cada. O Nikkei japonês avançou perto de 5%, e Hong Kong e Xangai subiram menos, 0,8% e 1,1%. Para estas economias, que vivem muito dos chips, o regresso de Huang fez a diferença entre mais uma semana de quedas e oito sessões de perdas finalmente interrompidas."
+   },
+   {
+    "t": "Europa sobe, com a indústria a apanhar boleia",
+    "txt": "O Stoxx 600 fechou a 636,97 pontos (+1,8%) e o DAX alemão ganhou 2,2%, depois de cinco sessões de quedas. A holandesa ASML subiu 8,9%, mas também empresas menos óbvias, como a Siemens Energy (+6,9%) e a Schneider Electric (+4,1%), que vendem equipamento elétrico para centros de dados. É um lembrete de que a IA já mexe com a fábrica e a rede elétrica europeias, e não só com a tecnologia."
+   },
+   {
+    "t": "Fed: a subida de dezembro dá-se como certa",
+    "txt": "O mercado americano já trata como garantida uma subida de juros da Fed em dezembro, depois de na sexta-feira a probabilidade andar nos 89%. As taxas a 10 anos dos títulos do Tesouro estão em 4,94%. Na quarta-feira saem novos dados de inflação nos Estados Unidos, que podem confirmar ou desmentir este cenário. Para quem vive na zona euro, o efeito chega por um dólar mais forte e por pressão para que o BCE não afrouxe cedo."
+   },
+   {
+    "t": "Petróleo desce e o Brasil sente",
+    "txt": "O Brent caiu perto de 3,5%, para cerca de 89 dólares, porque a oferta do Médio Oriente voltou e há excesso de crude no mundo; isso é uma boa notícia para o preço do gasóleo. No Brasil, porém, a Petrobras perdeu 3,2% e a bolsa de São Paulo caiu 0,95%, para o nível mais baixo em pelo menos seis meses e 21% abaixo do pico de outubro, com o real a custar 5,93 por dólar e dúvidas sobre as contas públicas."
+   },
+   {
+    "t": "Portugal: IVA zero no cabaz e pensões no Orçamento",
+    "txt": "A votação final global do Orçamento do Estado para 2027 está marcada para esta tarde, e a abstenção do PS garante a aprovação, enquanto o Chega anunciou voto contra. Entre as alterações aprovadas à revelia do Governo estão três meses de IVA zero no cabaz alimentar, o bónus de pensionistas transformado em atualização permanente e o congelamento das propinas no próximo ano letivo. A medida do IVA zero acaba com a taxa reduzida de IRS de 10% para rendas moderadas que o Governo tinha criado."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-23T09:00:00Z",
   "capa_foto": "stock exchange trading floor screens",
   "capa_titulo": "Wall Street em correção, Ásia a tremer",
