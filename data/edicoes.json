@@ -1,5 +1,225 @@
 [
  {
+  "asOf": "2026-11-25T07:20:00Z",
+  "capa_foto": "stock exchange trading floor",
+  "capa_titulo": "A bolsa vira e a Ásia cai 6%",
+  "id": "2026-11-25",
+  "ideas": [
+   {
+    "market": "Bolsa de Seul",
+    "name": "Samsung Electronics",
+    "risks": "Depende do ciclo dos chips e da procura de IA; quedas desta dimensão podem repetir-se e há risco cambial (won).",
+    "sources": [
+     {
+      "title": "AP via KSAT, 25/11/2026 (Ásia, Austrália, Índia)",
+      "url": "https://www.ksat.com/business/2026/11/25/asian-stocks-mostly-decline-as-ai-shares-tumble-after-a-retreat-on-wall-street/"
+     },
+     {
+      "title": "Al Jazeera, 25/11/2026 (Ásia, Médio Oriente)",
+      "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+     }
+    ],
+    "tag": "Chips · Coreia",
+    "thesis": "A ação caiu 9,9% na quarta-feira, no dia em que o Kospi perdeu 6,2% para 4.697,51 pontos, arrastado pelas dúvidas sobre o retorno do investimento em IA. É uma das maiores fabricantes de memórias do mundo, por isso reflete bem o ciclo da IA.",
+    "ticker": "005930"
+   },
+   {
+    "market": "Euronext Paris / Nasdaq",
+    "name": "Sanofi",
+    "risks": "Negócio grande e ainda sujeito a aprovações; pode haver riscos de integração e de preço pago.",
+    "sources": [
+     {
+      "title": "Vista Partners, 24/11/2026 (Wall Street, cripto, empresas)",
+      "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"
+     }
+    ],
+    "tag": "Saúde · Europa",
+    "thesis": "Segundo a Vista Partners, a Sanofi chegou a acordo para comprar a Insmed por 41 mil milhões de dólares em dinheiro, a 175 dólares por ação, num dia em que a saúde atraiu dinheiro em fuga da tecnologia.",
+    "ticker": "SNY"
+   },
+   {
+    "market": "NYSE (Brasil)",
+    "name": "Vale",
+    "risks": "Muito exposta ao minério de ferro e à China, à política fiscal brasileira e ao real; as quedas podem continuar.",
+    "sources": [
+     {
+      "title": "Rio Times, 25/11/2026 (Brasil)",
+      "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-tuesday-november-24-2026/"
+     },
+     {
+      "title": "Rio Times, 24/11/2026 (Brasil, câmbio)",
+      "url": "https://www.riotimesonline.com/brazil-dollar-drops-after-fiscal-plan-vote-2026-11-24/"
+     }
+    ],
+    "tag": "Matérias-primas · Brasil",
+    "thesis": "Perdeu 5,5% na terça, sem causa confirmada, e arrastou o Ibovespa para 164.090 pontos, o fecho mais baixo em pelo menos seis meses. A bolsa brasileira está 21,5% abaixo do pico de outubro, com a Selic em 13,75%.",
+    "ticker": "VALE"
+   },
+   {
+    "market": "Nasdaq",
+    "name": "Dollar Tree",
+    "risks": "Margens apertadas, custos de transporte e tarifas; uma subida tão grande num dia pode devolver-se.",
+    "sources": [
+     {
+      "title": "The Motley Fool, 24/11/2026 (Wall Street)",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation/"
+     },
+     {
+      "title": "Vista Partners, 24/11/2026 (Wall Street, cripto, empresas)",
+      "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"
+     }
+    ],
+    "tag": "Consumo · EUA",
+    "thesis": "Subiu 11,2% depois de resultados acima do esperado e de uma previsão anual mais alta, num dia em que a confiança dos consumidores americanos atingiu 103,3 pontos. Beneficia de famílias que procuram preços baixos.",
+    "ticker": "DLTR"
+   },
+   {
+    "market": "NYSE Arca",
+    "name": "iShares MSCI India ETF",
+    "risks": "Avaliações elevadas, risco cambial (rupia) e dependência do petróleo importado; um ETF não tem garantia de rendimento.",
+    "sources": [
+     {
+      "title": "AP via KSAT, 25/11/2026 (Ásia, Austrália, Índia)",
+      "url": "https://www.ksat.com/business/2026/11/25/asian-stocks-mostly-decline-as-ai-shares-tumble-after-a-retreat-on-wall-street/"
+     }
+    ],
+    "tag": "ETF · Índia",
+    "thesis": "O Sensex indiano subiu 2,4% para um máximo de seis meses, num dia em que a maioria das bolsas asiáticas caiu com a IA. Dá exposição a um mercado menos ligado ao ciclo dos chips.",
+    "ticker": "INDA"
+   },
+   {
+    "market": "Cripto",
+    "name": "Bitcoin",
+    "risks": "É muito volátil, pode perder grande parte do valor e não tem dividendos.",
+    "sources": [
+     {
+      "title": "Vista Partners, 24/11/2026 (Wall Street, cripto, empresas)",
+      "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"
+     }
+    ],
+    "tag": "Cripto",
+    "thesis": "Segundo a Vista Partners, desceu 2,3% para cerca de 59.859 dólares, acompanhando o recuo das ações de tecnologia. Continua a mover-se como um ativo de risco ligado ao ânimo de Wall Street.",
+    "ticker": "BTC"
+   }
+  ],
+  "legenda": "A euforia da segunda-feira durou pouco: a Coreia do Sul chegou a perder mais de 6% numa sessão e o Nasdaq recuou 1,5%, com as dúvidas sobre a rentabilidade da IA a voltarem. Ao mesmo tempo, o Dow Jones passou pela primeira vez os 50 000 pontos e o Brent caiu para valores de agosto, perto dos 89 dólares. Em Portugal, o Orçamento do Estado para 2027 foi aprovado, com IVA zero em alimentos essenciais durante três meses. Acompanha a Conjuntura Diária para perceber o que isto muda no teu dia a dia.\n\n#conjuntura #economia #bolsa #wallstreet #inteligenciaartificial #petroleo #orcamentodoestado #iva #stockmarket #AI",
+  "next": "amanhã de manhã",
+  "slides": [
+   {
+    "foto": "Seoul skyline night",
+    "tag": "Ásia",
+    "texto": "A bolsa sul-coreana fechou a perder 6,2% e a de Taiwan 5%. Samsung e SK Hynix caíram cerca de 10%. Os chips dos telemóveis e computadores estão no centro da turbulência.",
+    "tipo": "ultima_hora",
+    "titulo": "Kospi afunda 6% com dúvidas sobre a IA"
+   },
+   {
+    "foto": "Lisbon street market",
+    "tag": "Portugal",
+    "texto": "IVA zero em alimentos essenciais durante três meses e isenção de mais-valias na casa própria até 300 mil euros. As alterações da oposição levam o saldo a um défice de 0,2% do PIB.",
+    "tipo": "noticia",
+    "titulo": "Orçamento de 2027 aprovado com IVA zero"
+   },
+   {
+    "foto": "oil tanker at sea",
+    "tag": "Petróleo",
+    "texto": "O barril ronda os 89 dólares, apesar dos ataques a navios em Ormuz. A oferta recupera e pode haver excedente, o que dá esperança de alívio nos combustíveis.",
+    "tipo": "noticia",
+    "titulo": "Brent no valor mais baixo desde agosto"
+   },
+   {
+    "foto": "Sao Paulo skyline",
+    "tag": "Brasil",
+    "texto": "A Câmara aprovou o ajuste fiscal por 353 a 128 e o dólar caiu até 2,2% face ao real. A bolsa, porém, está 21,5% abaixo do pico de outubro e os juros ficam nos 13,75%.",
+    "tipo": "noticia",
+    "titulo": "Dólar cai no Brasil após plano fiscal"
+   },
+   {
+    "foto": "New York Stock Exchange facade",
+    "tag": "Wall Street",
+    "texto": "O Dow Jones superou os 50 000 pontos pela primeira vez, enquanto o Nasdaq caiu 1,5%. A confiança dos consumidores subiu para 103,3, o nível mais alto desde janeiro de 2025.",
+    "tipo": "noticia",
+    "titulo": "Dow passa os 50 000 e o Nasdaq cai"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Al Jazeera, 25/11/2026 (Ásia, Médio Oriente)",
+    "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+   },
+   {
+    "title": "AP via KSAT, 25/11/2026 (Ásia, Austrália, Índia)",
+    "url": "https://www.ksat.com/business/2026/11/25/asian-stocks-mostly-decline-as-ai-shares-tumble-after-a-retreat-on-wall-street/"
+   },
+   {
+    "title": "Rio Times, 25/11/2026 (Brasil)",
+    "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-tuesday-november-24-2026/"
+   },
+   {
+    "title": "Rio Times, 24/11/2026 (Brasil, câmbio)",
+    "url": "https://www.riotimesonline.com/brazil-dollar-drops-after-fiscal-plan-vote-2026-11-24/"
+   },
+   {
+    "title": "Rio Times, 24/11/2026 (América Latina)",
+    "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-november-24-2026/"
+   },
+   {
+    "title": "Reuters via Kitco, 24/11/2026 (petróleo, Ormuz)",
+    "url": "https://www.kitco.com/news/off-the-wire/2026-11-24/oil-touches-three-month-lows-recovering-hormuz-threat"
+   },
+   {
+    "title": "Reuters via Business Recorder, 24/11/2026 (petróleo)",
+    "url": "https://www.brecorder.com/news/40450477/oil-holds-near-three-month-low-as-rising-supply-offsets-hormuz-threat"
+   },
+   {
+    "title": "ECO, 24/11/2026 (Portugal)",
+    "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/"
+   },
+   {
+    "title": "Forbes Portugal/Lusa, 24/11/2026 (Portugal, Bruxelas)",
+    "url": "https://www.forbespt.com/oe2027-votacao-final-global-confirma-aprovacao-bruxelas-alerta-para-aumento-da-despesa-acima-do-recomendado/"
+   },
+   {
+    "title": "The Motley Fool, 24/11/2026 (Wall Street)",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation/"
+   },
+   {
+    "title": "Vista Partners, 24/11/2026 (Wall Street, cripto, empresas)",
+    "url": "https://vistapglobal.com/stock-market-today-november-24-2026-dow-tops-50000-as-nasdaq-slides-consumer-confidence-surges-with-pce-due-on-thanksgiving-eve-ant-bby-dell-dks-dltr-eprx-gld-insm-kymr-modd-msft-n/"
+   },
+   {
+    "title": "IC Markets, 25/11/2026 (Europa, bancos centrais)",
+    "url": "https://www.ic.com/blog/europe-fundamental-forecast-25-november-2026-ic/"
+   }
+  ],
+  "summary": "O rali de segunda-feira durou pouco: a bolsa americana recuou na terça e, na Ásia, a Coreia do Sul chegou a perder mais de 6% numa manhã, com as dúvidas sobre se a inteligência artificial vai mesmo dar lucro a voltarem. O dinheiro fugiu das tecnológicas para setores mais calmos e o Dow Jones passou pela primeira vez os 50 000 pontos. Para quem tem fundos ou um plano de reforma ligado à bolsa, é um lembrete de que os dias de euforia podem inverter-se depressa. Em Portugal, o Orçamento do Estado para 2027 foi aprovado, com IVA zero em alimentos essenciais durante três meses, e o petróleo está nos valores mais baixos desde agosto.",
+  "themes": [
+   {
+    "t": "Ásia paga a fatura da IA",
+    "txt": "As bolsas asiáticas deram a volta ao rali de terça: o Kospi sul-coreano fechou a perder 6,2%, o Nikkei 2,8% e a Taiex taiwanesa 5%, com a Samsung e a SK Hynix a cair cerca de 10%. Os investidores voltam a perguntar se os centros de dados gigantes vão render o que prometem, numa altura em que o crédito está caro. Estas empresas fabricam os chips dos telemóveis e dos computadores, por isso a turbulência também mexe com os preços da eletrónica."
+   },
+   {
+    "t": "Portugal aprova o Orçamento de 2027",
+    "txt": "O Orçamento foi aprovado com os votos do PSD e do CDS e a abstenção do PS. Inclui IVA zero num cabaz de alimentos essenciais durante três meses, isenção de mais-valias na venda de casa própria até 300 mil euros e um alargamento da tarifa social de energia. As alterações da oposição transformam o excedente previsto num défice de 0,2% do PIB, e Bruxelas avisa que a despesa pode passar o limite recomendado."
+   },
+   {
+    "t": "Petróleo no valor mais baixo desde agosto",
+    "txt": "O barril de Brent rondou os 89 dólares na terça, o valor mais baixo desde finais de agosto, apesar de três navios terem sido atingidos por projéteis no Estreito de Ormuz. A oferta está a recuperar, com o oleoduto líbio de Sharara reaberto e reservas estratégicas a serem libertadas, e há quem fale de um excedente de 1,7 milhões de barris por dia. Para o consumidor, é um sinal de alívio possível nos combustíveis, mas só se se mantiver."
+   },
+   {
+    "t": "Brasil respira, mas com cautela",
+    "txt": "A Câmara dos Deputados aprovou o ajuste fiscal do governo por 353 votos contra 128, e o dólar caiu até 2,2% face ao real, depois de tocar nos 6 reais. Mesmo assim, a bolsa brasileira fechou em baixa pela quarta sessão, no nível mais baixo em pelo menos seis meses, com a Vale a perder 5,5%. Com a taxa de juro em 13,75%, o crédito continua caríssimo para as famílias brasileiras."
+   },
+   {
+    "t": "Os consumidores americanos ganham confiança",
+    "txt": "A confiança dos consumidores nos EUA saltou para 103,3 pontos em novembro, o valor mais alto desde janeiro de 2025, e os retalhistas surpreenderam: a Best Buy teve o melhor crescimento de vendas em cinco anos e a Dollar Tree subiu mais de 11%. A expectativa de inflação a um ano ainda é de 5,7%, e hoje sai o PCE, o indicador de preços que a Reserva Federal acompanha, antes do feriado de Ação de Graças."
+   },
+   {
+    "t": "Austrália e Índia, caminhos opostos",
+    "txt": "A inflação australiana chegou aos 4,9% em outubro, acima do esperado, o que alimenta a hipótese de nova subida de juros no país. Já a Índia foi dos poucos mercados a ganhar, com o Sensex a subir 2,4% para um máximo de seis meses, a beneficiar de se afastar do ciclo da IA. Mostra como o mundo não anda todo ao mesmo ritmo."
+   }
+  ]
+ },
+ {
   "asOf": "2026-11-24T07:28:57Z",
   "capa_foto": "bull statue Wall Street",
   "capa_titulo": "Huang regressa e a bolsa dispara",
